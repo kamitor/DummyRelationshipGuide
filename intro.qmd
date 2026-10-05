@@ -16,13 +16,25 @@ DOSSIER CLASSIFIED: SPECIMEN ARCHITECTURE
 
 | Specification | Hardware & Firmware Baseline | Relationship Implications |
 |:---|:---|:---|
-| **Designation** | Chris Kamitor (Model 1.0) | Nicknames: Kamitor, Chris |
-| **MBTI Archetype** | **ENFP-T** (Turbulent Campaigner) | Visionary, deeply empathetic, highly romantic |
+| **Designation** | Chris "Lion" Kamitor (Model 1.0) | Official Call Sign: **Lion** 🦁 |
+| **MBTI Archetype** | **ENFP-T** (Turbulent Campaigner) | Visionary, fiercely loyal, deeply romantic |
 | **Cognitive Framework** | **The Systems Builder** | Maps world as: *Components → Rules → System* |
 | **Neurological Engine** | **ADHD (Interest-Based Engine)** | Fires on **Novelty, Urgency & Interest** |
 | **Tolerance for Fake Certainty** | **0.0%** (Strict Zero-Tolerance) | Craves authenticity over manufactured facade |
 | **Core Vulnerability** | **Sensitivity to Being Ignored or Forgotten** | Deep need to be heard and valued for who he is |
 | **Recharge Dynamics** | Variable: High burst energy followed by low-power hibernation | Requires unpressured recovery time |
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+CALL SIGN: THE LION 🦁
+:::
+### Why "Lion"?
+Like the monarch of the savanna, Chris operates with a distinct feline cadence:
+* **The Majestic Roar:** High-voltage passion, visionary leadership, and fierce loyalty to his pride.
+* **The Hunter's Sprint:** Bursts of intense, all-consuming hyperfocus when chasing an inspiring target.
+* **The Sunbathing Siesta:** Long, unbothered basking naps in the sun to recharge exhausted batteries between hunts.
+* **Taming Strategy:** Treat with genuine respect, authentic affection, head/back scratches, and zero patronizing commands!
+:::
 
 ---
 
@@ -131,7 +143,8 @@ Mundane, repetitive domestic chores (folding laundry, endless paperwork) trigger
 CALIBRATION PROFILE: CHRIS KAMITOR
 :::
 
-* **Full Designation:** Chris Kamitor
+* **Full Designation:** Chris "Lion" Kamitor
+* **Call Sign / Nickname:** Lion 🦁
 * **Archetype:** ENFP-T (Turbulent Campaigner) & Systems Builder
 * **Neurological Wiring:** ADHD (Interest-Based Activation)
 * **What Activates Him:** Novelty, collaborative brainstorming, shared laughter, meaningful impact

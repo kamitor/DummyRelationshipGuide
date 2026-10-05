@@ -6,7 +6,7 @@ SURVIVAL PROTOCOL: SUSTENANCE, AUTONOMY & RECHARGE
 :::
 
 ::: {.speech-bubble}
-*"Navigating life with Chris means understanding how his ADHD motivation engine interacts with daily routines, energy crashes, and habitat environments. Follow these protocols for maximum domestic harmony."*
+*"Navigating life with Chris (call sign: **Lion** 🦁) means understanding how his feline energy cycles interact with daily routines, hyperfocus hunts, and low-battery hibernation. Follow these protocols for maximum domestic harmony."*
 :::
 :::
 
@@ -156,6 +156,6 @@ OPTIMAL HABITAT CONFIGURATION
 * **Thermostat Ideal:** <span class="fill-blank-line" style="min-width:200px;"></span> *(Default: 20°C - 22°C)*
 * **Lighting Style:** Warm ambient lamps / fairy lights &nbsp;|&nbsp; Natural daylight &nbsp;|&nbsp; Dark mode
 * **Acoustic Profile:** Lo-fi beats / ambient electronic &nbsp;|&nbsp; Total quiet &nbsp;|&nbsp; Podcasts
-* **The Designated Crash Sanctuary:** Where does Chris recharge best?  
+* **The Lion's Den (Designated Crash Sanctuary):** Where does Lion recharge best?  
   <div class="fill-blank-area">A cozy corner of the couch with warm lighting, soft blankets, water, and zero pressure to perform.</div>
 :::

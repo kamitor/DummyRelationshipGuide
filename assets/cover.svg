@@ -64,8 +64,8 @@
   <!-- Subtitle Tagline -->
   <g transform="translate(400, 575)">
     <rect x="-340" y="-22" width="680" height="48" fill="#111111" rx="4"/>
-    <text x="0" y="10" fill="#FFD200" font-family="'Trebuchet MS', 'Arial', sans-serif" font-size="20" font-weight="bold" letter-spacing="1.5" text-anchor="middle">
-      DECODING MOODS, SNACK REQUIREMENTS &amp; CRITICAL PROTOCOLS
+    <text x="0" y="10" fill="#FFD200" font-family="'Trebuchet MS', 'Arial', sans-serif" font-size="19" font-weight="bold" letter-spacing="1.5" text-anchor="middle">
+      NAVIGATING LIFE WITH THE LION • ENFP-T &amp; SYSTEMS BUILDER
     </text>
   </g>
 
@@ -138,7 +138,7 @@
   <!-- Bottom Dark Footer Band -->
   <rect x="28" y="1005" width="744" height="65" fill="#111111"/>
   <text x="50" y="1045" fill="#FFD200" font-family="'Arial Black', sans-serif" font-size="16">
-    AUTHOR: CHRIS
+    AUTHOR: CHRIS "LION" KAMITOR
   </text>
   <text x="750" y="1045" fill="#FFFFFF" font-family="'Trebuchet MS', sans-serif" font-size="15" font-weight="bold" text-anchor="end">
     COMPLETE WITH CALIBRATION FORM &amp; PRINTABLE CHEAT SHEET

@@ -19,7 +19,7 @@ OFFICIAL INTAKE & COMPATIBILITY WORKSHEET
 ## Part 1: Baseline Architecture & Compatibility
 
 ::: {.form-box}
-* **Specimen Name / Nickname:** Chris (ENFP-T Systems Builder)
+* **Specimen Name / Call Sign:** Chris "Lion" Kamitor (ENFP-T Systems Builder)
 * **Partner Name / Nickname:** <span class="fill-blank-line" style="min-width:280px;"></span>
 * **Partner's MBTI Type / Personality Style:** <span class="fill-blank-line" style="min-width:280px;"></span>  
   *(Analyst: INTJ/INTP/ENTJ/ENTP | Diplomat: INFJ/INFP/ENFJ/ENFP | Sentinel: ISTJ/ISFJ/ESTJ/ESFJ | Explorer: ISTP/ISFP/ESTP/ESFP)*
@@ -135,7 +135,7 @@ By signing below, the parties solemnly agree to:
 
 <div style="display:flex; justify-content:space-between; margin-top:2rem; flex-wrap:wrap; gap:2rem;">
   <div>
-    <strong>Signed (Chris):</strong><br><br>
+    <strong>Signed (Chris "Lion" Kamitor):</strong><br><br>
     _______________________________________<br>
     <em>Date: ________________</em>
   </div>
