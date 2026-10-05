@@ -41,3 +41,6 @@ format:
     margin:
       x: 2cm
       y: 2.5cm
+    mainfont: "Comic Neue"
+    font-paths: ["fonts"]
+    include-in-header: typst-style.typ

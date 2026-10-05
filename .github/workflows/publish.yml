@@ -32,6 +32,8 @@ jobs:
           version: "release"
 
       - name: Render Quarto Book (HTML and PDF)
+        env:
+          TYPST_FONT_PATHS: fonts
         run: |
           quarto render
 
