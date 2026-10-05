@@ -2,128 +2,132 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-SURVIVAL PROTOCOL: SUSTENANCE & SLEEP
+SURVIVAL PROTOCOL: SUSTENANCE, AUTONOMY & RECHARGE
 :::
 
 ::: {.speech-bubble}
-*"Rule #1 of Chris maintenance: Never interrogate the specimen before coffee, and never assume silence means they aren't thinking about lunch."*
+*"As an ENFP-T Systems Builder, Chris runs on high-voltage inspiration, intellectual freedom, and regular infusions of caffeine. Managing his environment is key to keeping the engine purring."*
 :::
 :::
 
 ---
 
-## The Morning Reboot Sequence
+## The Daily Energy Dynamics: Bursts vs. Hibernation
 
-Like an antique operating system, Chris does not instantly achieve operational readiness upon waking. The boot cycle requires dedicated cache clearance.
+ENFP-Ts do not operate like steady metronomes; their energy flows in dynamic, creative waves:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-PHASE 1: 0 - 15 MIN
+PHASE 1: THE SOFT REBOOT (0 - 30 MIN)
 :::
-### The Soft Boot
-* **Brain State:** 12% operational.
-* **Audio:** Grunts, deep yawns.
-* **Hazard:** High risk of bumping into doorframes.
-* **Recommended Action:** Hand over warm beverage in complete silence.
-:::
-
-::: {.comic-panel}
-::: {.comic-caption}
-PHASE 2: 15 - 45 MIN
-:::
-### Caffeine Synthesis
-* **Brain State:** 55% operational.
-* **Audio:** Short sentences possible.
-* **Progress:** Capable of recognizing familiar faces.
-* **Action:** Casual greeting permitted.
+### Morning Cache Clearance
+* **Brain State:** Booting kernel drivers.
+* **Verbal Capacity:** Grunts, polite smiles, minimal syntax.
+* **Protocol:** Administer warm caffeine silently. Do not launch complex scheduling conversations before the second sip.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-PHASE 3: 45+ MIN
+PHASE 2: THE FLOW WAVE (10:00 - 16:00)
 :::
-### Online & Ready
-* **Brain State:** 100% operational.
-* **Action:** Full conversation, humor, and complex planning unlocked!
+### Systems Builder In The Zone
+* **Brain State:** 120% capacity.
+* **Activity:** Connecting dots, deconstructing problems, coding, writing.
+* **Protocol:** Uninterrupted focus. External interrupts have high latency cost.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PHASE 3: SOCIAL & DECOMPRESSION (18:00+)
+:::
+### Connection & Wind-Down
+* **Brain State:** Receptive, playful, and affectionate.
+* **Activity:** Shared dinners, silly banter, deep philosophical debates.
+* **Protocol:** Ideal window for intimacy and relationship check-ins.
 :::
 :::
 
 ---
 
-## Dietary Guidelines & The Hangry Curve
+## Safe Interruption Protocol: The Focus Bubble
 
-Hunger directly impacts cognitive performance, patience buffers, and emotional equilibrium.
+When Chris is deep inside a systems puzzle, his cognitive stack looks like this:
 
 ```
-Patience Level
-   ^
-100|  (Full & Happy) ──────┐
- 75|                       │  <- "What do you want to eat?" (Safe zone)
- 50|                       └───┐
- 25|                           └───┐ <- "I don't care, you pick" (Warning zone)
-  0|_______________________________└───> (HANGRY ERROR 404: CRISIS)
-    0hr    2hr    4hr    6hr    8hr  Time Since Last Meal
+[ Mental Model: 14 Interconnected Variables ]
+       ↑
+  Do not abruptly pop the stack!
 ```
 
-### Approved Fuel & Snack Matrix
+::: {.callout-note}
+## 🤓 The Systems Interrupt Algorithm
+1. **Visual Ping:** Wave hand gently in peripheral vision or tap shoulder softly.
+2. **Buffer Flush:** Wait 5-10 seconds for Chris to save his mental state.
+3. **Gentle Inquiry:** *"Hey, when you reach a stopping point, could I grab you for a second?"*
+4. **Cheat Code:** Waving a cookie or snack instantly accelerates stack clearance by 400%.
+:::
 
-| Fuel Category | Approved Selections | Disapproved / Avoid |
-|:---|:---|:---|
-| **Caffeine Unit** | `[ E.g. Espresso, Oat Flat White, Tea ]` | `[ Lukewarm instant coffee ]` |
-| **Quick Snacks** | `[ E.g. Crisps, nuts, chocolate, fruit ]` | `[ Mysterious fridge leftovers ]` |
-| **Comfort Meals** | `[ E.g. Pizza, Thai curry, Pasta, Tacos ]` | `[ Bland salads with no dressing ]` |
-| **Sweet Treats** | `[ E.g. Ice cream, pastries, dark chocolate ]` | `[ Licorice, artificial candy ]` |
+---
+
+## Autonomy: The Non-Negotiable Environmental Setting
+
+From Chris's cognitive profile: **Autonomy is a core life necessity.**
+
+::: {.comic-panel}
+::: {.comic-caption}
+THE AUTONOMY EQUATION
+:::
+
+* **What Nurtures Chris:**  
+  Freedom to structure his time, explore creative ideas without micromanagement, and be trusted as a competent partner.
+
+* **What Causes Immediate Internal Friction:**  
+  Rigid arbitrary rules, being told *how* to do a task rather than *what* needs achieving, or feeling emotionally boxed in.
 
 ::: {.callout-tip}
-## 💡 Emergency Snack Strategy
-When Chris begins pacing aimlessly or sighing at the pantry, do not ask *"Are you hungry?"* (answer will be an unconvincing *"No, I'm fine"*). Simply place a snack within arm's reach and say nothing.
+## 💡 Pro-Tip for Autonomy Harmony
+Collaborate on shared goals (*"Let's make sure the kitchen is reset before bed"*), but grant 100% architectural freedom on *how* Chris organizes his side of the execution!
+:::
 :::
 
 ---
 
-## Optimal Habitat & Environmental Settings
+## Dietary Fuel & The Hangry Curve
 
-To keep Chris operating at peak performance, monitor the surrounding ecosystem:
+Hunger directly impacts cognitive performance and emotional bandwidth.
 
-::: {.comic-panel}
-::: {.comic-caption}
-ENVIRONMENTAL CALIBRATION
-:::
+```
+Patience / Bandwidth
+   ^
+100|  (Full & Playful) ──────┐
+ 75|                         │  <- "What do you feel like eating?" (Safe zone)
+ 50|                         └───┐
+ 25|                             └───┐ <- "I don't care, you pick" (Warning zone)
+  0|_________________________________└───> (HANGRY 404: IMMEDIATE INTERVENTION NEEDED)
+    0hr    2hr      4hr     6hr     8hr  Time Elapsed Since Meal
+```
 
-* **Thermostat Preference:**  
-  <span class="comic-checkbox"></span> Freezing Arctic (18°C) &nbsp;  
-  <span class="comic-checkbox"></span> Cozy Warm (22°C - 24°C) &nbsp;  
-  <span class="comic-checkbox"></span> Dynamic / Layer-dependent  
-  <!-- CHRIS: Check your real preference above -->
+### Approved Sustenance Matrix
 
-* **Ambient Lighting:**  
-  <span class="comic-checkbox"></span> Warm fairy lights & lamps &nbsp;  
-  <span class="comic-checkbox"></span> Bright sunlight & open windows &nbsp;  
-  <span class="comic-checkbox"></span> Goblin cave darkness with monitor glow  
-
-* **Noise & Acoustic Profile:**  
-  * Preferred background audio: `[ E.g. Lo-fi beats, synthwave, silence, podcasts ]`
-  * Noise tolerance threshold: `[ High / Medium / Low ]`
-
-* **Designated Safe Haven:**  
-  * Where does Chris retreat when needing to decompress?  
-  * *Location:* `[ E.g. The corner chair, desk setup, kitchen, outdoors ]`
-:::
+| Fuel Category | Approved Selections | High-Hazard Avoid |
+|:---|:---|:---|
+| **Caffeine Unit** | `[ Quality coffee, espresso, oat flat white, tea ]` | Lukewarm stale instant coffee |
+| **Emergency Rations** | `[ Dark chocolate, nuts, fruit, crisps, bakery treats ]` | Food items requiring 45 min prep when already starving |
+| **Comfort Feasts** | `[ Pizza, Thai curry, hearty pasta, fresh bowls ]` | Bland meals stripped of all flavor and joy |
 
 ---
 
-## Blank Daily Schedule Worksheet
+## Habitat Settings & Habitat Checklist
 
 ::: {.form-box}
 ::: {.comic-caption}
-CHRIS'S REALISTIC DAILY CYCLE
+OPTIMAL ENVIRONMENT CONFIGURATION
 :::
 
-* **Wake-Up Time:** <span class="fill-blank-line" style="min-width:180px;"></span>
-* **Ideal Bedtime:** <span class="fill-blank-line" style="min-width:180px;"></span>
-* **Peak Productivity Window:** <span class="fill-blank-line" style="min-width:250px;"></span>
-* **Afternoon Slump Danger Hour:** <span class="fill-blank-line" style="min-width:200px;"></span>
-* **Best Time for Serious Conversations:** <span class="fill-blank-line" style="min-width:250px;"></span>
-* **Worst Time for Serious Conversations:** <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Thermostat Ideal:** <span class="fill-blank-line" style="min-width:200px;"></span> *(Default: 20°C - 22°C)*
+* **Lighting Style:** Warm indirect lighting & lamps &nbsp;|&nbsp; Natural daylight &nbsp;|&nbsp; Dark mode
+* **Acoustic Background:** Lo-fi beats / Ambient electronic &nbsp;|&nbsp; Total quiet &nbsp;|&nbsp; Podcasts
+* **The Comfort Sanctuary:** Where does Chris recharge best?  
+  <div class="fill-blank-area">[ Click edit or write here: Favorite armchair, bed with 4 blankets, walk outside... ]</div>
 :::

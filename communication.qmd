@@ -2,113 +2,117 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-PACKET INSPECTION & DECODING
+PACKET INSPECTION & SIGNAL DECODING
 :::
 
 ::: {.speech-bubble}
-*"Human language is fraught with ambiguous packets. Here is the official dictionary for decrypting signals transmitted by Chris."*
+*"Communicating with an ENFP-T Systems Builder is a delightful journey through vivid analogies, deep systems maps, and heartfelt emotion. Here is your cheat sheet to avoid signal corruption."*
 :::
+:::
+
+---
+
+## Core Rule: Zero Fabricated Certainty
+
+If there is one cardinal rule in Chris's cognitive profile, it is this:
+
+::: {.comic-panel}
+::: {.comic-caption}
+CRITICAL PRINCIPLE: INTELLECTUAL HONESTY
+:::
+
+> **Chris has a very low tolerance for fabricated certainty.**
+
+* **What Chris Loves:**  
+  *"I'm not actually sure about that, what do you think?"* or *"Here is my hypothesis, but let's test it."* Humility, curiosity, and authentic truth-seeking are magnetic to him.
+
+* **What Causes Immediate Skepticism:**  
+  Speaking with unearned confidence about something untrue, pretending to understand to save face, or brushing off facts with hand-waving dismissals.
 :::
 
 ---
 
 ## The Chris Cipher: Translation Table
 
-What Chris says vs. what the internal firmware actually means:
-
-| Transmitted Packet | Literal Interpretation | True Meaning / Recommended Response |
+| Transmitted Signal | Surface Interpretation | Underlying Firmware Reality |
 |:---|:---|:---|
-| *"I'm fine."* | Everything is fine. | ⚠️ **ALERT:** Something is 15-40% not fine. Inquire gently once; do not interrogate. |
-| *"Do whatever you want."* | Total freedom granted. | ⚠️ **TRAP:** A preference exists, but Chris is trying to be accommodating. Re-negotiate. |
-| *"That's interesting..."* | Curiosity piqued. | Could mean genuinely intrigued OR completely bewildered. Check facial eyebrow elevation. |
-| *"I'm just tired."* | Low physical battery. | Brain is overstimulated. Needs silence, a snack, or horizontal posture. |
-| *"What do you feel like doing?"* | Open to any idea. | Chris secretly wants you to propose 2 specific options so a binary choice can be made. |
+| *"I'm fine."* | Situation normal. | ⚠️ **ALERT:** Something feels misaligned. Inquire gently once with warmth: *"Are you sure? I'm here if you want to unpack it."* |
+| *"Let's understand the mechanism here."* | Pure academic discussion. | Chris wants to diagnose the root cause so the friction never happens again. |
+| *"Do you feel like doing X or Y?"* | Total indifference. | Chris has formed an analysis and is presenting 2 curated options to avoid choice paralysis. |
+| *"I just feel like I'm not explaining this well."* | Mild self-deprecation. | ⚠️ **SENSITIVITY ALERT:** Chris is feeling misunderstood. Slow down and say: *"Take your time, I really want to understand your perspective."* |
+| *Long paragraph with diagrams or analogies.* | Information dump. | **LOVE PACKET:** Chris considers you worthy of his deepest thoughts. Read and appreciate! |
 
 ---
 
 ## The Modes: Venting vs. Fixing
 
-One of the most frequent transmission collisions in human history:
+Because Chris has a natural **Systems Builder** mindset, his automatic default when hearing a problem is:
+1. Deconstruct the problem.
+2. Identify faulty dependencies.
+3. Propose 3 architectural fixes.
+
+However, sometimes human relationships simply require emotional holding!
 
 ::: {.comic-grid}
 ::: {.comic-panel-blue}
 ::: {.comic-caption-cyan}
-MODE A: LISTENING & VALIDATION
+MODE A: LISTENING & EMPATHY
 :::
-### "Just Listen, Don't Fix"
-* **Objective:** Empathy, emotional venting, shared indignation.
-* **Key Phrases:** *"That really sucks,"* *"You were totally in the right,"* *"I can't believe they said that!"*
-* **Avoid:** Giving a 5-step strategic action plan.
+### "Hold Space, Don't Debug"
+* **Objective:** Pure emotional validation and solidarity.
+* **Effective Response:** *"That is so frustrating,"* *"You worked so hard on that,"* *"Come here, let me give you a hug."*
+* **Chris's internal reminder:** Suppress the urge to propose a spreadsheet.
 :::
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
 MODE B: ACTIVE TROUBLESHOOTING
 :::
-### "Fix It / Tactical Advice"
-* **Objective:** Pragmatic problem-solving, root cause analysis.
-* **Key Phrases:** *"Here is how we tackle this,"* *"Let's test option B,"* *"What is the fallback plan?"*
-* **Trigger:** Explicit request for input.
+### "Let's Solve This Together"
+* **Objective:** Tactical advice, root cause diagnosis, contingency plans.
+* **Effective Response:** *"Let's map out the variables and find the cleanest solution."*
+* **Trigger:** Partner explicitly asks: *"What should I do here?"*
 :::
 :::
 
 ::: {.callout-tip}
-## 💡 The Universal Golden Question
-When in doubt, ask:  
-**"Do you want comfort, advice, or someone to help hide the evidence?"**  
-*(This single question avoids 90% of misaligned conversations.)*
+## 💡 The Magic Question
+When starting a conversation about a stressful topic, ask:  
+**"Do you want me to listen and comfort you, or do you want me to help problem-solve?"**  
+*(This five-second question prevents 90% of misaligned conversations.)*
 :::
 
 ---
 
-## Love Languages Calibration Matrix
+## Protecting the "Turbulent (-T)" Heart: Reassurance
 
-Rate from 1 (Lowest) to 5 (Crucial) for how Chris best receives care:
+As a Turbulent Campaigner, Chris has a rich, caring heart that sometimes generates internal anxiety loops:
 
-::: {.comic-panel}
-::: {.comic-caption}
-THE 5 PROTOCOLS
-:::
-
-1. **Quality Time:** `[ Rating: 1 - 5 ]`  
-   *What this looks like:* `[ E.g. Uninterrupted walks, gaming together, cozy evenings ]`
-
-2. **Words of Affirmation:** `[ Rating: 1 - 5 ]`  
-   *What this looks like:* `[ E.g. Unexpected nice texts, praising an accomplishment ]`
-
-3. **Acts of Service:** `[ Rating: 1 - 5 ]`  
-   *What this looks like:* `[ E.g. Making coffee without being asked, handling chores ]`
-
-4. **Physical Touch:** `[ Rating: 1 - 5 ]`  
-   *What this looks like:* `[ E.g. Hugs, holding hands, back scratches ]`
-
-5. **Receiving Gifts:** `[ Rating: 1 - 5 ]`  
-   *What this looks like:* `[ E.g. Thoughtful books, favorite candy, quirky souvenirs ]`
+::: {.callout-important}
+## 📌 The Power of Proactive Reassurance
+* **The Vulnerability:** Chris can be deeply sensitive to feeling forgotten, taken for granted, or emotionally disconnected after busy stretches.
+* **The Antidote:** Unprompted warmth! A surprise text (*"Just thinking about you and how great you are"*), a gentle touch when passing by, or verbal appreciation for something he built or organized.
 :::
 
 ---
 
-## Messaging & Remote Ping Protocols
+## Communication Preferences & Love Languages
 
 ::: {.form-box}
 ::: {.comic-caption}
-COMMUNICATION PREFERENCES WORKSHEET
+COMMUNICATION WORKSHEET
 :::
 
-* **Preferred Communication Medium:**  
-  <span class="comic-checkbox"></span> Text / WhatsApp &nbsp;  
-  <span class="comic-checkbox"></span> Voice Notes &nbsp;  
-  <span class="comic-checkbox"></span> Phone Calls &nbsp;  
-  <span class="comic-checkbox"></span> In-Person Only
+* **Primary Love Languages (Rank 1 - 5):**  
+  * Words of Affirmation: `[ Rank: 1 - 5 ]` — *Encouragement & verbal appreciation*
+  * Quality Time: `[ Rank: 1 - 5 ]` — *Uninterrupted presence & shared adventures*
+  * Physical Touch: `[ Rank: 1 - 5 ]` — *Warm hugs, holding hands, closeness*
+  * Acts of Service: `[ Rank: 1 - 5 ]` — *Making life smoother without being asked*
+  * Receiving Gifts: `[ Rank: 1 - 5 ]` — *Thoughtful, meaningful tokens of care*
 
-* **Response Time Expectations:**  
-  * While Working: <span class="fill-blank-line" style="min-width:250px;"></span>
-  * Free Time / Evenings: <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Ideal Texting Rhythm During the Day:**  
+  <div class="fill-blank-area">[ Click edit or write here: Quick check-ins, meme sharing, or save big chats for evening? ]</div>
 
-* **Meme Exchange Protocol:**  
-  * Is sending 15 memes in a row without context acceptable?  
-  <span class="comic-checkbox"></span> Yes, encouraged &nbsp; <span class="comic-checkbox"></span> Please limit to 3 at a time
-
-* **Secret Word / Signal for "I Need Space":**  
-  * Code word: <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Our De-escalation Phrase when conversations get tense:**  
+  * Secret code phrase: <span class="fill-blank-line" style="min-width:300px;"></span>
 :::

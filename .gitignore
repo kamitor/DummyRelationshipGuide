@@ -13,4 +13,9 @@ Thumbs.db
 *.tmp
 *~
 
+# Source personality bundle archives (keep local)
+Bundle/
+Bundle.zip
+
+
 **/*.quarto_ipynb

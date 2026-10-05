@@ -1,0 +1,55 @@
+# Advanced Personality Profile
+
+> **Profile type:** Behavioral / cognitive personality analysis
+> **Basis:** Long-term interaction patterns, communication style, projects, preferences, problem-solving behavior, and recurring themes
+> **Confidence:** Moderate — this describes observable patterns, not objectively measured traits
+
+---
+
+## 1. Executive Personality Summary
+
+You present as a **high-curiosity, systems-oriented, autonomy-driven builder** with a strong need for intellectual coherence.
+
+Your personality appears to combine several traits that are individually common but relatively distinctive in combination:
+
+- High intellectual curiosity
+- Strong systems thinking
+- High openness to new ideas
+- Strong autonomy
+- High need for accuracy
+- Low tolerance for fabricated certainty
+- Persistent problem-solving
+- Creative/systemic imagination
+- Strong preference for competence
+- High investment in personally meaningful subjects
+- Strong sensitivity to being misunderstood or forgotten
+- Iterative rather than purely linear thinking
+
+Your dominant pattern could be summarized as:
+
+> **Understand the system → decompose it → identify the rules → modify it → test it → improve it → make it understandable to others.**
+
+You don't appear satisfied with merely obtaining an outcome.
+
+You tend to want to understand **why the outcome happened and whether the underlying mechanism is correct**.
+
+---
+
+# 2. Core Personality Architecture
+
+## 2.1 The Systems Builder
+
+Your strongest apparent personality characteristic is a tendency to perceive the world in terms of:
+
+```text
+Components
+    ↓
+Relationships
+    ↓
+Dependencies
+    ↓
+Rules
+    ↓
+System
+    ↓
+Behavior

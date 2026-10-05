@@ -7,14 +7,14 @@ MEANWHILE, AT HEADQUARTERS...
 
 ## A Dummy Guide to Having a Relationship with Chris {style="margin-top:0;"}
 
-**The Unofficial, Illustrated Manual & Calibration Handbook for Navigating Life with Chris.**
+**The Unofficial, Illustrated Manual & Calibration Handbook for Navigating Life with an ENFP-T Systems Builder.**
 
 <div style="margin: 1.2rem 0;">
   <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Download Printable PDF Edition</a>
 </div>
 
 ::: {.speech-bubble}
-*"Congratulations! You are now in possession of one (1) human specimen designated **Chris**. Please read this operations manual carefully before attempting emotional firmware updates or administering early morning interactions."*
+*"Congratulations! You are now in possession of one (1) complex human specimen designated **Chris** (Model: ENFP-T Campaigner & Systems Architect). Please read this manual carefully before attempting emotional firmware updates or administering early morning interactions."*
 :::
 :::
 
@@ -22,7 +22,11 @@ MEANWHILE, AT HEADQUARTERS...
 
 ## What is this Handbook?
 
-Welcome to the **Dummy Guide to Having a Relationship with Chris**! Whether you are a partner, close friend, or curious bystander, this handbook exists to decode the mysteries, daily routines, communication protocols, and occasional error messages of the complex organism known as **Chris**.
+Welcome to the **Dummy Guide to Having a Relationship with Chris**! Whether you are a partner, close friend, or curious co-pilot, this handbook exists to decode the mysteries, daily routines, communication protocols, and occasional error messages of the complex organism known as **Chris**.
+
+Chris operates at the unique intersection of two fascinating worlds:
+1. **The ENFP-T (Turbulent Campaigner):** Boundlessly curious, deeply empathetic, romantically imaginative, and constantly seeking meaningful connection.
+2. **The Systems Builder:** Driven to decompose complex realities into components, discover underlying rules, iterate solutions, and reject fabricated certainty.
 
 ::: {.comic-grid}
 ::: {.comic-panel}
@@ -35,18 +39,18 @@ Human relationships rarely come with an instruction booklet—until now. This bo
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-PANEL 2: 100% MODULAR
+PANEL 2: ENFP-T CALIBRATED
 :::
-### Ready for Input!
-This book is currently set up as a **blank calibration form and scaffold**. The structure, layout, and comic panels are ready—all you need to do is plug in your personalized truths!
+### Built from Real Data
+Pre-populated with real personality profiles, cognitive blueprints, and relationship dynamics, leaving modular slots for personal calibration.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
 PANEL 3: PRINT & SHARE
 :::
-### Digital & Print
-Read it online anytime on GitHub Pages, or export and print the PDF copy to keep on the nightstand for rapid emergency consultations!
+### Digital & Print Ready
+Read it online anytime on GitHub Pages, or download and print the 20-page PDF edition to keep on the nightstand for rapid emergency consultations!
 :::
 :::
 
@@ -58,40 +62,40 @@ Throughout this handbook, you will encounter classic *Dummies* and comic callout
 
 ::: {.callout-tip}
 ## 💡 Pro-Tip / Cheat Code
-Actionable advice to maximize relationship harmony, unlock bonus conversation points, or speed up recovery time.
+Actionable advice to maximize relationship harmony, unlock bonus conversation points, or navigate Chris's rapid idea storms.
 :::
 
 ::: {.callout-warning}
 ## ⚠️ Danger Zone / Tread Lightly
-High-risk behaviors, phrases to avoid, and critical hangry indicators. Proceed with extreme caution.
+High-risk behaviors, phrases that trigger shutdown, and critical hangry/overthinking indicators. Proceed with extreme care.
 :::
 
 ::: {.callout-note}
 ## 🤓 Technical Stuff / Firmware Specs
-Detailed explanations of Chris's background cognitive processes, hardware specs, and quirk architectures.
+Deep dives into Chris's cognitive architecture: systems thinking, iterative logic, and ENFP-T emotional feedback loops.
 :::
 
 ::: {.callout-important}
 ## 📌 Remember / The Golden Rule
-Core tenets and non-negotiables that form the bedrock of successful day-to-day coexistence.
+Core tenets and non-negotiables: intellectual honesty, reassurance of connection, and zero fabricated certainty.
 :::
 
 ---
 
 ## Table of Contents Preview
 
-1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — Basic specs, architecture, strengths, and quirks.
-2. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — Morning routines, coffee protocols, and charging zones.
-3. **[Communication Protocols](communication.qmd)** — Decoding subtle signals, love languages, and texting rules.
-4. **[Troubleshooting & Error Codes](conflict.qmd)** — How to diagnose hangs, Hangry 404s, and reboot sequences.
-5. **[Special Features & Easter Eggs](easter-eggs.qmd)** — Hyperfixations, favorite surprises, and travel mode.
+1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — The ENFP-T Systems Builder architecture, specs, superpowers, and quirks.
+2. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — The energy curve, focus tunnels, caffeine protocols, and charging zones.
+3. **[Communication Protocols](communication.qmd)** — The Chris Cipher, intellectual honesty, "Listen vs Fix", and reassurance.
+4. **[Troubleshooting & Error Codes](conflict.qmd)** — Hangry 404, The Turbulent Spiral 503, safe recovery, and apology syntax.
+5. **[Special Features & Easter Eggs](easter-eggs.qmd)** — Deep hyperfixations, visionary cheerleader mode, travel styles, and inside jokes.
 6. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — The printable worksheet ready for your direct input!
-7. **[Warranty & Maintenance Schedule](summary.qmd)** — Checkups, emergency contacts, and parting wisdom.
+7. **[Warranty & Maintenance Schedule](summary.qmd)** — Periodic check-ins, return policies, emergency cards, and parting wisdom.
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-HOW TO CUSTOMIZE THIS BOOK
+CUSTOMIZATION & ITERATION
 :::
-> **✏️ Note for Chris:**  
-> All chapters contain placeholders clearly marked with `<!-- CHRIS: Fill in here! -->` and interactive form blocks. Simply open the corresponding `.qmd` file in your editor, replace the placeholders with your own anecdotes and specifics, and push your changes!
+> **✏️ Note for Chris & Partner:**  
+> This handbook is designed as an iterative living document. Fill in blanks, edit chapters in Git, or print out the calibration forms for an engaging shared date night activity!
 :::

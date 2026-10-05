@@ -2,108 +2,99 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-UNLOCKED SECRETS & BONUS LEVELS
+UNLOCKED SECRETS: THE ENFP-T ADVANTAGE
 :::
 
 ::: {.speech-bubble}
-*"Beyond the standard operational specs lie hidden features, secret hobbies, and undocumented Easter eggs that make Chris truly one-of-a-kind."*
+*"Campaigners in love are among the most romantic of all personality types. Paired with a Systems Builder mindset, you get a partner who designs grand romantic adventures with architectural precision!"*
 :::
 :::
 
 ---
 
-## The Hyperfixation Rabbit Holes
+## Superpower: The Visionary Cheerleader
 
-Chris possesses the innate ability to plunge into niche topics with extreme velocity. Topics that may spark an impromptu keynote presentation:
+As an ENFP, Chris possesses an almost superpower-like ability to see people's hidden potential:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-RABBIT HOLE 01
+FEATURE 01: UNCONDITIONAL BELIEF
 :::
-### Deep Passion #1
-<!-- CHRIS: Enter your favorite topic/hobby here -->
-* **Topic:** `[ E.g. Obscure tech, sci-fi lore, board games, cooking ]`
-* **Trigger:** *"So how does that actually work?"*
-* **Estimated Runtime:** 45 minutes to 3 hours.
+### The Hype Machine
+When you share a dream, project, or secret ambition, Chris won't scoff. He will immediately map out the possibilities, brainstorm ideas, and champion you relentlessly.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-RABBIT HOLE 02
+FEATURE 02: SYMBOLIC ROMANCE
 :::
-### Creative Obsession #2
-<!-- CHRIS: Enter a second passion here -->
-* **Topic:** `[ E.g. Music, film history, outdoor adventures, design ]`
-* **Trigger:** Spontaneous inspiration or YouTube recommendations.
-* **Warning:** Highly contagious enthusiasm.
+### Deep Meaning & Romance
+Chris doesn't do generic romantic gestures. He remembers obscure details, builds customized playlists, creates personalized gifts, and turns ordinary dates into memorable quests.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-RABBIT HOLE 03
+FEATURE 03: CHILDLIKE WONDER
 :::
-### Quirky Skill #3
-<!-- CHRIS: Enter an unexpected skill or talent -->
-* **Skill:** `[ E.g. Barista skills, uncanny trivia recall, perfect playlist curation ]`
-* **Special Bonus:** Unlocks on special occasions.
+### Spontaneous Playfulness
+Whether it's laughing at absurd memes, exploring a new neighborhood, or building elaborate Lego models, Chris brings an enduring sense of joy to daily life.
 :::
+:::
+
+---
+
+## Hyperfixation Rabbit Holes
+
+Chris's systems mind is naturally drawn into deep exploratory rabbit holes. Topics that may trigger an impromptu, highly energetic TED Talk:
+
+::: {.comic-panel}
+::: {.comic-caption}
+CURRENT KNOWN HYPERFIXATION ZONES
+:::
+
+1. **Systems, Code & Architectural Puzzles:**  
+   *Trigger:* *"How does this complex system actually function behind the scenes?"*  
+   *Result:* Intense whiteboarding, elegant modular architectures, diagrams.
+
+2. **Human Behavior, Psychology & Personality Maps:**  
+   *Trigger:* Discovering why people think and act the way they do (MBTI, cognitive loops, game theory).
+
+3. **Curated Niche Passions:**  
+   <!-- CHRIS: Enter your top 2 favorite hobbies or passion projects below -->
+   * Passion #1: `[ Enter your favorite hobby, game, or lore ]`
+   * Passion #2: `[ Enter another subject you can talk about for hours ]`
 :::
 
 ---
 
 ## Travel & Expedition Mode
 
-How Chris behaves when removed from natural domestic surroundings:
+How Chris behaves when out in the wild on vacation:
 
-::: {.comic-panel}
-::: {.comic-caption}
-TRAVEL ARCHITECTURE
-:::
-
-* **Airport / Station Arrival Strategy:**  
-  <span class="comic-checkbox"></span> The Anxious Early Bird (3.5 hours before boarding, sitting at gate with coffee) &nbsp;  
-  <span class="comic-checkbox"></span> The Precision Commando (47 minutes before departure, zero friction) &nbsp;  
-  <span class="comic-checkbox"></span> Chaotic Luck (Running while final call echoes)
-
-* **Navigation & Exploration Style:**  
-  * Detailed itinerary with spreadsheets OR spontaneous wandering?  
-  * `[ Fill in: Structured vs Spontaneous ]`
-
-* **Must-Pack Essential:**  
-  * The one item Chris cannot travel without:  
-  * `[ E.g. Noise cancelling headphones, favorite hoodie, notebook ]`
-:::
-
----
-
-## Gift & Surprise Calibration Guide
-
-To avoid well-intentioned misunderstandings during birthdays and holidays:
-
-| Category | Safe Bets 🎁 | Proceed With Caution ⚠️ |
+| Behavior Dimension | Chris's Default Setting | Survival Notes |
 |:---|:---|:---|
-| **Surprise Events** | Thoughtful dinners, quiet weekend getaways, tickets to favorite band. | Surprise flash mobs or huge unexpected crowds. |
-| **Material Gifts** | High-utility tools, favorite books, artisanal snacks, cozy clothing. | Clutter items with no practical or sentimental purpose. |
-| **Spontaneous Gestures** | Bringing home a favorite pastry unexpectedly. | Rearranging furniture without prior consensus. |
+| **Airport Timing** | Strategic & Timely *(Comfortable margin)* | Keep passport and boarding pass in designated pocket. |
+| **Itinerary Style** | **Structured Spontaneity:** High-level anchors + open slots for serendipity. | Hates having every 15 minutes rigidly scheduled. |
+| **Culinary Exploration** | Enthusiastic foodie, seeks local gems and hidden street food. | Never take Chris to a generic airport chain restaurant if authentic local food is nearby. |
+| **Energy Battery** | High exploratory stamina until sudden 5:00 PM wall. | Schedule mandatory coffee / pastry recharge breaks. |
 
 ---
 
-## The Inside Joke Vault
+## The Inside Joke & Memory Vault
 
 ::: {.form-box}
 ::: {.comic-caption}
-RECORD YOUR INSIDE JOKES & MEMORIES
+SHARED LORE & SECRET CODE WORDS
 :::
 
-Every great relationship develops its own private vocabulary:
+* **Our Signature Inside Joke / Meme:**  
+  *The Joke:* <span class="fill-blank-line" style="min-width:250px;"></span>  
+  *Context / Backstory:* <div class="fill-blank-area">[ Click edit or write here: How it originated and why it makes us laugh... ]</div>
 
-1. **Phrase / Nickname:** <span class="fill-blank-line" style="min-width:200px;"></span>  
-   *Origin story:* <div class="fill-blank-area">[ Click edit or write here: The funny story behind it... ]</div>
+* **Our Favorite Shared Adventure So Far:**  
+  <div class="fill-blank-area">[ Click edit or write here: The trip, date, or moment that felt like pure movie magic... ]</div>
 
-2. **Phrase / Nickname:** <span class="fill-blank-line" style="min-width:200px;"></span>  
-   *Origin story:* <div class="fill-blank-area">[ Click edit or write here: The funny story behind it... ]</div>
-
-3. **Our Signature Ritual:** <span class="fill-blank-line" style="min-width:200px;"></span>  
-   *Description:* <div class="fill-blank-area">[ Click edit or write here: E.g., Sunday morning pancake science, Friday movie night... ]</div>
+* **A Small Ritual That is Uniquely Ours:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., The goodnight ritual, Sunday morning coffee dance, secret hand squeeze... ]</div>
 :::

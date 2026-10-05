@@ -6,7 +6,7 @@ OFFICIAL INTAKE & COMPATIBILITY WORKSHEET
 :::
 
 ::: {.speech-bubble}
-*"Grab a pen or your favorite text editor! This blank calibration form is designed to be filled out collaboratively or printed out for a cozy date night activity."*
+*"Whether you are reading this online or on printed A4 paper, this blank form is your canvas! Grab a pen or open your editor, grab some drinks, and make this a shared calibration session."*
 :::
 
 <div style="margin: 1rem 0;">
@@ -16,63 +16,68 @@ OFFICIAL INTAKE & COMPATIBILITY WORKSHEET
 
 ---
 
-## Part 1: Baseline Demographics & Specs
+## Part 1: Baseline Architecture & Compatibility
 
 ::: {.form-box}
-* **Specimen Legal / Real Name:** <span class="fill-blank-line" style="min-width:280px;"></span>
-* **Preferred Nicknames / Pet Names:** <span class="fill-blank-line" style="min-width:280px;"></span>
-* **Forbidden Nicknames (Instant cringe):** <span class="fill-blank-line" style="min-width:280px;"></span>
-* **Favorite Beverage (Caffeinated):** <span class="fill-blank-line" style="min-width:260px;"></span>
-* **Favorite Beverage (Evening / Relaxing):** <span class="fill-blank-line" style="min-width:240px;"></span>
-* **Comfort Food of Ultimate Power:** <span class="fill-blank-line" style="min-width:260px;"></span>
+* **Specimen Name / Nickname:** Chris (ENFP-T Systems Builder)
+* **Partner Name / Nickname:** <span class="fill-blank-line" style="min-width:280px;"></span>
+* **Partner's MBTI Type / Personality Style:** <span class="fill-blank-line" style="min-width:280px;"></span>  
+  *(Analyst: INTJ/INTP/ENTJ/ENTP | Diplomat: INFJ/INFP/ENFJ/ENFP | Sentinel: ISTJ/ISFJ/ESTJ/ESFJ | Explorer: ISTP/ISFP/ESTP/ESFP)*
+* **How Our Personalities Best Complement Each Other:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Chris brings vision & excitement, Partner brings grounding & stability... ]</div>
 :::
 
 ---
 
-## Part 2: Energy & Habitat Settings
+## Part 2: Energy & Daily Rhythm Spectrum
+
+Mark where each of you falls on each spectrum:
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-SLIDER SCALES: WHERE DO WE STAND?
+DYNAMIC SLIDERS
 :::
 
-Mark where you fall on each spectrum:
-
 1. **Morning Wakeup Energy:**  
-   `[ Zombie Ghouls ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Chirpy Morning Bird ]`
+   `[ Zombie: Needs Silence ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Chirpy Morning Lark ]`  
+   * Chris: `[ 2 ]` &nbsp;|&nbsp; Partner: `[   ]`
 
-2. **Living Space Tidiness:**  
-   `[ Creative Chaos ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Sterile Laboratory ]`
+2. **Living Space Organization:**  
+   `[ Creative Chaos ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Clean Minimalist ]`  
+   * Chris: `[ 3 ]` &nbsp;|&nbsp; Partner: `[   ]`
 
-3. **Weekend Plans Style:**  
-   `[ 100% Couch Potato ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Packed Outdoor Itinerary ]`
+3. **Weekend Travel / Activity Level:**  
+   `[ Pure Couch Potato ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Packed Explorer Itinerary ]`  
+   * Chris: `[ 4 ]` &nbsp;|&nbsp; Partner: `[   ]`
 
 4. **Social Battery Span:**  
-   `[ 2 People Max ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Party Animal till 4 AM ]`
+   `[ Cozy Solitude ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Out till 3 AM With Friends ]`  
+   * Chris: `[ 3.5 ]` &nbsp;|&nbsp; Partner: `[   ]`
 
-5. **Spicy Food Tolerance:**  
-   `[ Mayonnaise Hurts ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Ghost Pepper Fanatic ]`
+5. **Intellectual Debate / Systems Puzzling:**  
+   `[ Prefer Simple Small Talk ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ 3-Hour Deep Dives ]`  
+   * Chris: `[ 5 ]` &nbsp;|&nbsp; Partner: `[   ]`
 :::
 
 ---
 
-## Part 3: Domestic Synergy & Chores
+## Part 3: Domestic Synergy & Chores Dispatcher
 
 ::: {.form-box}
 ::: {.comic-caption}
-CHORE PREFERENCE DISPATCHER
+CHORE MATRIX
 :::
 
 Identify who enjoys (or at least tolerates) what:
 
-| Task | Chris's Stance | Partner's Stance |
+| Responsibility | Chris's Stance | Partner's Stance |
 |:---|:---|:---|
-| **Cooking Dinner** | `[ Love it / Neutral / Will burn toast ]` | `[ Your input ]` |
-| **Doing the Dishes** | `[ Dishwasher wizard / Hand-wash zen / Avoid ]` | `[ Your input ]` |
-| **Grocery Shopping** | `[ Precision list ninja / Wanders snacking ]` | `[ Your input ]` |
-| **Laundry & Folding** | `[ Immediately folded / Stays in clean basket ]` | `[ Your input ]` |
-| **Taking Out Trash** | `[ Automatic daily / When it overflows ]` | `[ Your input ]` |
-| **Killing Spiders** | `[ Brave rescuer / Screams & calls for backup ]` | `[ Your input ]` |
+| **Cooking & Meal Prep** | `[ Experimental chef / Loves making nice food ]` | `[ Fill in ]` |
+| **Dishwasher & Kitchen Reset** | `[ Satisfying systems optimization ]` | `[ Fill in ]` |
+| **Grocery Shopping** | `[ Enjoys discovering interesting ingredients ]` | `[ Fill in ]` |
+| **Laundry & Folding** | `[ Tolerates if listening to podcast ]` | `[ Fill in ]` |
+| **Handling Bureaucracy & Bills** | `[ Analytical execution mode ]` | `[ Fill in ]` |
+| **Spontaneous Room Makeover** | `[ Occasional creative whirlwind ]` | `[ Fill in ]` |
 :::
 
 ---
@@ -81,17 +86,17 @@ Identify who enjoys (or at least tolerates) what:
 
 ::: {.form-box}
 ::: {.comic-caption}
-EMERGENCY SUPPORT QUESTIONNAIRE
+EMERGENCY SUPPORT & CARE PROTOCOL
 :::
 
-* **When I have had a terrible day at work, please:**  
-  <div class="fill-blank-area">[ Click edit or write here: Do you want quiet time first, a listening ear, a walk outside, or food ordered? ]</div>
+* **When Chris had a draining, overwhelming day, the #1 thing to do is:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Warm embrace, offer a favorite beverage, let him decompress for 30 minutes without asking what went wrong... ]</div>
 
-* **Things that make me feel instantly cherished and safe:**  
-  <div class="fill-blank-area">[ Click edit or write here: Specific gestures, words, touches, or actions... ]</div>
+* **When Partner had a draining, overwhelming day, the #1 thing Chris should do is:**  
+  <div class="fill-blank-area">[ Click edit or write here: Instructions for Chris on how to best care for you... ]</div>
 
-* **My definition of a perfect low-key date night:**  
-  <div class="fill-blank-area">[ Click edit or write here: Describe the ideal relaxed evening... ]</div>
+* **A guaranteed pick-me-up treat or date idea:**  
+  <div class="fill-blank-area">[ Click edit or write here: Specific comfort food, walking spot, or movie... ]</div>
 :::
 
 ---
@@ -100,31 +105,31 @@ EMERGENCY SUPPORT QUESTIONNAIRE
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-NEVER FORGET THE FAVORITES
+ESSENTIAL FAVORITES (NEVER FORGET!)
 :::
 
-* **Favorite Movie / TV Universe:** <span class="fill-blank-line" style="min-width:300px;"></span>
-* **Favorite Music Album / Artist:** <span class="fill-blank-line" style="min-width:300px;"></span>
-* **Favorite Pizza Toppings:** <span class="fill-blank-line" style="min-width:320px;"></span>
-* **Favorite Place in the World:** <span class="fill-blank-line" style="min-width:320px;"></span>
-* **Dream Trip Destination:** <span class="fill-blank-line" style="min-width:340px;"></span>
-* **Guilty Pleasure Secret:** <span class="fill-blank-line" style="min-width:340px;"></span>
+* **Favorite Warm Beverage:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Favorite Comfort Meal:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Favorite Pizza Order:** <span class="fill-blank-line" style="min-width:320px;"></span>
+* **Favorite Movie / Series to Rewatch:** <span class="fill-blank-line" style="min-width:280px;"></span>
+* **Favorite Music / Go-to Album:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Dream Adventure / Destination:** <span class="fill-blank-line" style="min-width:320px;"></span>
 :::
 
 ---
 
-## Part 6: Mutual Friendship / Relationship Treaty
+## Part 6: The Mutual Sanity & Connection Treaty
 
 ::: {.comic-panel}
 ::: {.comic-caption-red}
-OFFICIAL COMPACT OF MUTUAL SANITY
+OFFICIAL COMPACT OF MUTUAL CARE
 :::
 
-By signing below, the parties agree to:
-1. Always share fries when requested, even if someone previously claimed they "weren't hungry."
-2. Never hold grudge over words spoken before the first cup of coffee.
-3. Consult each other before binge-watching the next episode of a shared show.
-4. Provide unconditional warmth, laughter, and communication.
+By signing below, the parties solemnly agree to:
+1. Always assume positive intent and communicate with radical honesty.
+2. Forgive anything muttered in the first 10 minutes of the morning before caffeine is assimilated.
+3. Keep snacks within reach when long journeys or busy work stretches are underway.
+4. Cheer each other on through every crazy idea, creative project, and life milestone.
 
 <br>
 

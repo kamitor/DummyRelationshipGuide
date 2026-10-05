@@ -2,46 +2,49 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-SYSTEM ALERT: INCIDENT MANAGEMENT
+SYSTEM ALERT: INCIDENT RESPONSE & DE-ESCALATION
 :::
 
 ::: {.speech-bubble}
-*"Even the most stable human architecture encounters kernel panics. The key is knowing how to trigger a graceful recovery instead of a hard reboot."*
+*"Ongoing conflict is an ENFP's kryptonite. Chris will go to immense lengths to restore harmony, but doing so effectively requires knowing how his diagnostic processor handles stress."*
 :::
 :::
 
 ---
 
-## Relationship Error Code Directory
+## The Error Code Directory
 
-When friction or unusual behavior occurs, refer to standard diagnostic codes:
+When unusual friction, silence, or tension occurs, consult the following diagnostic table:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption-red}
 ERROR 404: HANGRY
 :::
-### Fuel Depletion Panic
-* **Symptoms:** Short replies, exaggerated frustration over minor obstacles, irrational despair.
-* **Fix:** Do not debate. Hand over complex carbohydrates immediately.
-:::
-
-::: {.comic-panel}
-::: {.comic-caption}
-ERROR 503: BUFFER FULL
-:::
-### Sensory Overload
-* **Symptoms:** Staring blankly, inability to decide on dinner, retreating under blankets.
-* **Fix:** Dim lights, pause conversation, allow 30 minutes of undisturbed processing time.
+### Fuel Depletion Crisis
+* **Symptoms:** Short replies, sighing, impatience over minor details.
+* **Root Cause:** Blood glucose at critical low.
+* **Resolution:** Zero debates. Provide food immediately. Recalibrate in 20 minutes.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption-cyan}
-ERROR 400: BAD TIMING
+ERROR 422: INVALID LOGIC
 :::
-### Ill-Timed Inquiry
-* **Symptoms:** Sighing, rubbing temples, answering with defensive questions.
-* **Fix:** Postpone discussion until morning or post-meal window.
+### Fabricated Certainty Collision
+* **Symptoms:** Intense debate mode, cross-examination, refusal to concede.
+* **Root Cause:** Sensed inconsistency, unfair assumption, or gaslighting.
+* **Resolution:** Return to objective facts. Admit uncertainties honestly.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption-yellow}
+ERROR 503: TURBULENT SPIRAL
+:::
+### Overthinking Kernel Panic
+* **Symptoms:** Replaying interactions, asking *"Are you mad at me?"*, withdrawing.
+* **Root Cause:** Fear of emotional rupture or being misunderstood.
+* **Resolution:** Firm, loving reassurance: *"I love you. We are okay. Let's talk."*
 :::
 :::
 
@@ -49,44 +52,45 @@ ERROR 400: BAD TIMING
 
 ## The 3-Step Safe Recovery Protocol
 
-When an argument or misunderstanding strikes, initiate this standard operating procedure:
+When an argument flares up, follow this de-escalation workflow:
 
 ```
-[ Misunderstanding Detected ]
-             │
-             ▼
-  ┌──────────────────────┐
-  │ 1. Pause & Step Back │  (Take a 15-minute breather; no scorched-earth texts)
-  └──────────┬───────────┘
-             │
-             ▼
-  ┌──────────────────────┐
-  │  2. Biological Check │  (Is someone tired, hungry, cold, or stressed from work?)
-  └──────────┬───────────┘
-             │
-             ▼
-  ┌──────────────────────┐
-  │  3. Re-engage Gently │  (Start with: "I care about you, let's figure this out together")
-  └──────────────────────┘
+[ Conflict / Misunderstanding Detected ]
+                   │
+                   ▼
+  ┌─────────────────────────────────┐
+  │   1. Ground the Bond First      │  <- Say: "I love you and we are on the same team."
+  └────────────────┬────────────────┘     (Disables the ENFP-T panic response)
+                   │
+                   ▼
+  ┌─────────────────────────────────┐
+  │    2. Check Biological State    │  <- Hungry? Exhausted? Overstimulated?
+  └────────────────┬────────────────┘     (Take a 15-minute breather if needed)
+                   │
+                   ▼
+  ┌─────────────────────────────────┐
+  │  3. Deconstruct the System      │  <- "You & Chris vs. The Problem"
+  └─────────────────────────────────┘     (Identify the rule or miscommunication)
 ```
 
 ::: {.callout-important}
-## 📌 The Golden Rule of Disagreements
-Remember: It is never **You vs. Chris**. It is **You & Chris vs. The Problem**.
+## 📌 The Cardinal Principle of Healthy Conflict
+Remember: It is never **You vs. Chris**. It is always **You & Chris vs. The Problem**.  
+Framing a conflict as a shared systems puzzle to solve together brings out Chris's best collaborative instincts.
 :::
 
 ---
 
 ## The Apology Syntax
 
-How Chris processes apologies and repairs emotional connection:
+How Chris processes apologies and repairs connection:
 
-| What Works Well 🌟 | What Makes Things Worse 🚫 |
+| What Reconnects Us 🌟 | What Extends the Glitch 🚫 |
 |:---|:---|
-| Direct ownership: *"I'm sorry I reacted like that."* | Non-apologies: *"I'm sorry you felt that way."* |
-| Acknowledging the specific impact. | Defensive justifications (*"Well you did it first!"*). |
-| Offering a hug or gentle touch once cool. | Demanding immediate cheerful behavior. |
-| Asking: *"What can I do right now to make this better?"* | Pretending nothing happened without acknowledging it. |
+| **Direct ownership:** *"I'm sorry for reacting sharply, that wasn't fair to you."* | **Deflection:** *"I wouldn't have snapped if you hadn't done X."* |
+| **Intellectual honesty:** Acknowledging the actual impact without excuses. | **Fabricated certainty:** *"I never said that!"* when you both know you did. |
+| **Validating the emotion:** *"I understand why you felt misunderstood."* | **Invalidation:** *"You're being way too sensitive."* |
+| **Physical reconnection:** A warm, lingering hug once tempers settle. | **Cold stonewalling:** Walking away for hours without saying when you'll return. |
 
 ---
 
@@ -94,18 +98,18 @@ How Chris processes apologies and repairs emotional connection:
 
 ::: {.form-box}
 ::: {.comic-caption}
-CUSTOM CONFLICT CALIBRATION
+POST-INCIDENT CALIBRATION
 :::
 
-* **When I am upset, the BEST thing you can do is:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Give me 20 minutes alone, then bring tea and sit with me... ]</div>
+* **When Chris is upset, the most helpful response is:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Give me 15 minutes of quiet, then give me a hug and ask me to explain what I'm feeling... ]</div>
 
-* **When I am upset, the WORST thing you can do is:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Follow me from room to room demanding answers immediately... ]</div>
+* **When Chris is upset, the absolute WORST thing to do is:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Accuse me of bad intentions or shut down communication entirely... ]</div>
 
-* **My primary de-escalation signal / peace offering is:**  
-  * Preferred gesture: <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Our agreed cooldown period before resuming tricky talks:**  
+  * Target duration: <span class="fill-blank-line" style="min-width:250px;"></span> *(Default: 20 - 30 minutes)*
 
-* **Guaranteed truce food / peace treaty:**  
-  * Specific treat: <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Our official peace offering treaty food:**  
+  * Specific treat: <span class="fill-blank-line" style="min-width:250px;"></span>
 :::

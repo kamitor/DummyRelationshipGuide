@@ -2,11 +2,11 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-DOSSIER CLASSIFIED: SPECIMEN REPORT
+DOSSIER CLASSIFIED: SPECIMEN SPECIFICATION
 :::
 
 ::: {.speech-bubble}
-*"Before deploying any interaction with Chris in a production environment, please review the factory baseline specifications below."*
+*"You are looking at a rare configuration: a human possessing the boundless warmth and visionary curiosity of an **ENFP-T (Turbulent Campaigner)**, coupled with the rigorous mind of a **Systems Builder**. Handle with love, intellectual honesty, and regular snacks."*
 :::
 :::
 
@@ -14,84 +14,103 @@ DOSSIER CLASSIFIED: SPECIMEN REPORT
 
 ## Technical Specifications & Architecture
 
-| Specification | Factory Baseline | Custom Value *(Fill in below)* |
+| Specification | Factory Architecture | Calibration Notes |
 |:---|:---|:---|
-| **Model Name** | Chris 1.0 (Humanoid Build) | `[ Enter Full Nickname / Title ]` |
-| **Current Firmware** | Release `2026.x` | `[ Enter Version or Age ]` |
-| **Primary Fuel Source** | Coffee & High-Density Snacks | `[ Favorite food / drink ]` |
-| **Optimal Temperature** | 20°C - 23°C (Sweater Optional) | `[ Warm / Cold preference ]` |
-| **Recharge Cycle** | 7 - 8.5 Hours Required | `[ Sleep requirements ]` |
-| **Social Battery Capacity** | Variable (Recharges in quiet mode) | `[ Introvert / Ambivert / Extrovert ]` |
+| **Model Designation** | Chris 1.0 (Humanoid Build) | Nicknames: `[ Enter Nicknames ]` |
+| **MBTI Archetype** | **ENFP-T** (Turbulent Campaigner) | Diplomat Role: Intuitive & Empathetic |
+| **Cognitive Framework** | **The Systems Builder** | Deconstructs mechanisms into core rules |
+| **Primary Drives** | Autonomy, Connection, Intellectual Coherence | Needs freedom to explore and build |
+| **Tolerance for Fake Certainty** | **0.0%** (Strictly Rejects Pretending) | Values *"I don't know, let's find out"* |
+| **Recharge Cycle** | 7 - 8.5 Hours + Solitude Buffer | Recharges in quiet, unpressured space |
+| **Primary Fuel Source** | Coffee & High-Density Brain Snacks | Blood sugar drops trigger Error 404 |
 
 ---
 
-## Factory Default Behaviors
+## The Core Cognitive Engine: The Systems Loop
+
+Unlike purely linear thinkers or purely emotional feelers, Chris perceives the world as an interconnected web of dependencies:
+
+```
+  [ Components ]
+        ↓
+  [ Relationships ]
+        ↓
+  [ Dependencies ]
+        ↓
+  [ Rules & Mechanisms ]
+        ↓
+  [ Emergent System ]
+        ↓
+  [ Observable Behavior ]
+```
+
+::: {.comic-panel}
+::: {.comic-caption}
+THE CHRIS ALGORITHM
+:::
+> **Understand the system → Decompose it → Identify the rules → Modify it → Test it → Improve it → Make it understandable to others.**
+
+Chris is never satisfied with merely getting an outcome by accident. He needs to know **why the outcome happened** and **whether the underlying mechanism is true, fair, and coherent**.
+:::
+
+---
+
+## Superpowers & Factory Defaults
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-DEFAULT 01: HUMOR ENGINE
+SUPERPOWER 01: THE VISIONARY
 :::
-### Rapid Wit & Banter
-Equipped with an always-on sarcasm generator and reference index. 
-
-<!-- CHRIS: Add your sense of humor style here (e.g. dad jokes, dry British humor, absurd memes) -->
-* **Status:** `[ ACTIVE: Insert your humor style here ]`
+### Boundless Openness & Curiosity
+High openness to novel ideas, spontaneous adventures, and deep late-night philosophy. Chris sees potential where others see obstacles.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-DEFAULT 02: DEEP FOCUS
+SUPERPOWER 02: RADICAL EMPATHY
 :::
-### The "In The Zone" Tunnel
-When immersed in a project, coding, reading, or creating, external audio inputs may be temporarily buffered or dropped.
-
-<!-- CHRIS: Describe your focus mode triggers and how to get your attention -->
-* **Safe Interruption Protocol:** `[ Gentle tap / Wave hand / Wave pizza ]`
+### The Ultimate Cheerleader
+As an ENFP, Chris has an uncanny radar for other people's dreams. He will believe in your potential even when you doubt yourself.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-DEFAULT 03: EMOTIONAL FIRMWARE
+SUPERPOWER 03: INTELLECTUAL HONESTY
 :::
-### Core Drives & Values
-What truly motivates this specimen?
-
-<!-- CHRIS: List your top 3 core values (e.g., honesty, humor, curiosity, loyalty) -->
-* 1. `[ Core Value #1 ]`
-* 2. `[ Core Value #2 ]`
-* 3. `[ Core Value #3 ]`
+### Low Tolerance for BS
+Chris seeks genuine competence and truth. He loves when people are authentic, admit what they don't know, and explore solutions together.
 :::
 :::
 
 ---
 
-## Quirks (These Are Features, Not Bugs!)
+## Undocumented Quirks (Features, Not Bugs!)
 
-Every specimen ships with undocumented features. Familiarize yourself with these quirks to prevent unnecessary panic:
+Every advanced operating system comes with unique quirks. Knowing them in advance will save you hours of confusion:
 
 ::: {.callout-note}
-## 🤓 Quirk #1: The Hyperfixation Loop
-When Chris discovers a new topic, hobby, game, or technical tool, expect 48-72 hours of intense data acquisition and spontaneous lecture delivery.
+## 🤓 Quirk #1: The Hyperfixation Deep Dive
+When Chris encounters a compelling system, game, technology, or topic, expect intense focus and rapid knowledge acquisition. 
 
-* **Recommended Response:** Nod, ask *"Fascinating, tell me more,"* and offer water.
+* **Symptoms:** 30 browser tabs open, spontaneous mini-lectures, eyes glowing with excitement.
+* **Pro-Tip:** Ask questions! Seeing someone engage with his current passion is one of the quickest ways to Chris's heart.
 :::
 
 ::: {.callout-warning}
-## ⚠️ Quirk #2: Low Battery Warning Signs
-When social or cognitive reserves fall below 15%, Chris may exhibit glazed eyes, monosyllabic replies (*"Yeah", "Cool", "Mmm"*), and an involuntary pull toward horizontal surfaces.
+## ⚠️ Quirk #2: Sensitivity to Being Misunderstood or Forgotten
+Because Chris invests deeply in relationships and systems, feeling dismissed, misunderstood, or forgotten hits his emotional firmware hard.
 
-* **Emergency Procedure:** Do not attempt serious life discussions. Supply blanket and allow silent recharge.
+* **Trigger:** Casual brushing off of an idea he deeply cares about, or unanswered messages during moments of vulnerability.
+* **Remedy:** Reassure with presence: *"I hear you, I care about what you're saying, let's talk about it."*
 :::
 
 ::: {.callout-tip}
-## 💡 Quirk #3: Instant Joy Triggers
-Certain simple inputs reliably generate immediate smiles and happiness points:
+## 💡 Quirk #3: The "Turbulent (-T)" Introspection Loop
+The Turbulent trait means Chris is highly conscientious and self-reflective. He deeply cares about doing the right thing and being a good partner, which sometimes leads to overthinking:
 
-<!-- CHRIS: Insert 3 things that never fail to make your day -->
-* `[ Favorite snack / treat ]`
-* `[ Favorite kind of music or environment ]`
-* `[ Favorite spontaneous activity ]`
+* **Internal monologue:** *"Did I phrase that clumsily? Are they secretly frustrated with me?"*
+* **Remedy:** Explicit words of affirmation! A simple *"I love you and we're totally good"* dissolves 99% of internal background loops.
 :::
 
 ---
@@ -100,18 +119,18 @@ Certain simple inputs reliably generate immediate smiles and happiness points:
 
 ::: {.form-box}
 ::: {.comic-caption}
-FILL-IN-THE-BLANKS: CUSTOM PROFILE
+CUSTOM CALIBRATION WORKSHEET
 :::
 
-* **Full Name / Preferred Aliases:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Preferred Aliases / Pet Names:** <span class="fill-blank-line" style="min-width:300px;"></span>
 * **Date of Origin / Birthday:** <span class="fill-blank-line" style="min-width:250px;"></span>
-* **Astrological Sign / Myers-Briggs:** <span class="fill-blank-line" style="min-width:250px;"></span>
-* **Three words that describe me best:**
+* **Personality Matrix:** ENFP-T (Campaigner) & Systems Builder
+* **Three words that describe me at my best:**
   1. <span class="fill-blank-line" style="min-width:180px;"></span>
   2. <span class="fill-blank-line" style="min-width:180px;"></span>
   3. <span class="fill-blank-line" style="min-width:180px;"></span>
-* **The quickest way to make me laugh:**  
-  <div class="fill-blank-area">[ Click edit or write here: Describe what guarantees a laugh... ]</div>
-* **My biggest pet peeve:**  
-  <div class="fill-blank-area">[ Click edit or write here: What instantly annoys or frustrates you... ]</div>
+* **The quickest way to bring a smile to my face:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Bringing an unexpected treat, engaging with a creative idea... ]</div>
+* **My biggest communication pet peeve:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Pretending to know something when you don't, passive aggression... ]</div>
 :::
