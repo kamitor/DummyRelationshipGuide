@@ -17,9 +17,11 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - enfj-dynamic.qmd
     - habitat.qmd
     - communication.qmd
     - conflict.qmd
+    - intimacy.qmd
     - easter-eggs.qmd
     - intake-form.qmd
     - summary.qmd

@@ -84,13 +84,15 @@ Core tenets and non-negotiables: intellectual honesty, reassurance of connection
 
 ## Table of Contents Preview
 
-1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — The ENFP-T Systems Builder architecture, specs, superpowers, and quirks.
-2. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — The energy curve, focus tunnels, caffeine protocols, and charging zones.
-3. **[Communication Protocols](communication.qmd)** — The Chris Cipher, intellectual honesty, "Listen vs Fix", and reassurance.
-4. **[Troubleshooting & Error Codes](conflict.qmd)** — Hangry 404, The Turbulent Spiral 503, safe recovery, and apology syntax.
-5. **[Special Features & Easter Eggs](easter-eggs.qmd)** — Deep hyperfixations, visionary cheerleader mode, travel styles, and inside jokes.
-6. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — The printable worksheet ready for your direct input!
-7. **[Warranty & Maintenance Schedule](summary.qmd)** — Periodic check-ins, return policies, emergency cards, and parting wisdom.
+1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — The ENFP-T Systems Builder architecture, Lion call sign, and quirks.
+2. **[The Lion & The Protagonist](enfj-dynamic.qmd)** — The ENFP-T meets ENFJ dynamic: broken loops, promises, and safety.
+3. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — Energy waves, focus tunnels, caffeine protocols, and charging zones.
+4. **[Communication Protocols](communication.qmd)** — The Chris Cipher, intellectual honesty, active listening, and reassurance.
+5. **[Troubleshooting & Error Codes](conflict.qmd)** — Error 422 (Unheard Signals), Error 503 (RSD Spiral), and apology syntax.
+6. **[Intimacy & Safe Touch](intimacy.qmd)** — Rebuilding physical intimacy, the biology of arousal, and sensate focus.
+7. **[Special Features & Easter Eggs](easter-eggs.qmd)** — Deep hyperfixations, visionary cheerleader mode, travel styles, and inside jokes.
+8. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — The printable worksheet ready for your direct input!
+9. **[Warranty & Maintenance Schedule](summary.qmd)** — Periodic check-ins, return policies, emergency cards, and parting wisdom.
 
 ::: {.comic-panel}
 ::: {.comic-caption}
