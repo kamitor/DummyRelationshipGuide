@@ -1,0 +1,109 @@
+# Special Features & Easter Eggs
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+UNLOCKED SECRETS & BONUS LEVELS
+:::
+
+::: {.speech-bubble}
+*"Beyond the standard operational specs lie hidden features, secret hobbies, and undocumented Easter eggs that make Chris truly one-of-a-kind."*
+:::
+:::
+
+---
+
+## The Hyperfixation Rabbit Holes
+
+Chris possesses the innate ability to plunge into niche topics with extreme velocity. Topics that may spark an impromptu keynote presentation:
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+RABBIT HOLE 01
+:::
+### Deep Passion #1
+<!-- CHRIS: Enter your favorite topic/hobby here -->
+* **Topic:** `[ E.g. Obscure tech, sci-fi lore, board games, cooking ]`
+* **Trigger:** *"So how does that actually work?"*
+* **Estimated Runtime:** 45 minutes to 3 hours.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+RABBIT HOLE 02
+:::
+### Creative Obsession #2
+<!-- CHRIS: Enter a second passion here -->
+* **Topic:** `[ E.g. Music, film history, outdoor adventures, design ]`
+* **Trigger:** Spontaneous inspiration or YouTube recommendations.
+* **Warning:** Highly contagious enthusiasm.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+RABBIT HOLE 03
+:::
+### Quirky Skill #3
+<!-- CHRIS: Enter an unexpected skill or talent -->
+* **Skill:** `[ E.g. Barista skills, uncanny trivia recall, perfect playlist curation ]`
+* **Special Bonus:** Unlocks on special occasions.
+:::
+:::
+
+---
+
+## Travel & Expedition Mode
+
+How Chris behaves when removed from natural domestic surroundings:
+
+::: {.comic-panel}
+::: {.comic-caption}
+TRAVEL ARCHITECTURE
+:::
+
+* **Airport / Station Arrival Strategy:**  
+  <span class="comic-checkbox"></span> The Anxious Early Bird (3.5 hours before boarding, sitting at gate with coffee) &nbsp;  
+  <span class="comic-checkbox"></span> The Precision Commando (47 minutes before departure, zero friction) &nbsp;  
+  <span class="comic-checkbox"></span> Chaotic Luck (Running while final call echoes)
+
+* **Navigation & Exploration Style:**  
+  * Detailed itinerary with spreadsheets OR spontaneous wandering?  
+  * `[ Fill in: Structured vs Spontaneous ]`
+
+* **Must-Pack Essential:**  
+  * The one item Chris cannot travel without:  
+  * `[ E.g. Noise cancelling headphones, favorite hoodie, notebook ]`
+:::
+
+---
+
+## Gift & Surprise Calibration Guide
+
+To avoid well-intentioned misunderstandings during birthdays and holidays:
+
+| Category | Safe Bets 🎁 | Proceed With Caution ⚠️ |
+|:---|:---|:---|
+| **Surprise Events** | Thoughtful dinners, quiet weekend getaways, tickets to favorite band. | Surprise flash mobs or huge unexpected crowds. |
+| **Material Gifts** | High-utility tools, favorite books, artisanal snacks, cozy clothing. | Clutter items with no practical or sentimental purpose. |
+| **Spontaneous Gestures** | Bringing home a favorite pastry unexpectedly. | Rearranging furniture without prior consensus. |
+
+---
+
+## The Inside Joke Vault
+
+::: {.form-box}
+::: {.comic-caption}
+RECORD YOUR INSIDE JOKES & MEMORIES
+:::
+
+Every great relationship develops its own private vocabulary:
+
+1. **Phrase / Nickname:** <span class="fill-blank-line" style="min-width:200px;"></span>  
+   *Origin story:* <div class="fill-blank-area">[ Click edit or write here: The funny story behind it... ]</div>
+
+2. **Phrase / Nickname:** <span class="fill-blank-line" style="min-width:200px;"></span>  
+   *Origin story:* <div class="fill-blank-area">[ Click edit or write here: The funny story behind it... ]</div>
+
+3. **Our Signature Ritual:** <span class="fill-blank-line" style="min-width:200px;"></span>  
+   *Description:* <div class="fill-blank-area">[ Click edit or write here: E.g., Sunday morning pancake science, Friday movie night... ]</div>
+:::

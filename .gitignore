@@ -1,0 +1,16 @@
+# Quarto output directories
+/.quarto/
+/_book/
+/_site/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*~
+
+**/*.quarto_ipynb

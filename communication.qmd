@@ -1,0 +1,114 @@
+# Communication Protocols
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+PACKET INSPECTION & DECODING
+:::
+
+::: {.speech-bubble}
+*"Human language is fraught with ambiguous packets. Here is the official dictionary for decrypting signals transmitted by Chris."*
+:::
+:::
+
+---
+
+## The Chris Cipher: Translation Table
+
+What Chris says vs. what the internal firmware actually means:
+
+| Transmitted Packet | Literal Interpretation | True Meaning / Recommended Response |
+|:---|:---|:---|
+| *"I'm fine."* | Everything is fine. | ⚠️ **ALERT:** Something is 15-40% not fine. Inquire gently once; do not interrogate. |
+| *"Do whatever you want."* | Total freedom granted. | ⚠️ **TRAP:** A preference exists, but Chris is trying to be accommodating. Re-negotiate. |
+| *"That's interesting..."* | Curiosity piqued. | Could mean genuinely intrigued OR completely bewildered. Check facial eyebrow elevation. |
+| *"I'm just tired."* | Low physical battery. | Brain is overstimulated. Needs silence, a snack, or horizontal posture. |
+| *"What do you feel like doing?"* | Open to any idea. | Chris secretly wants you to propose 2 specific options so a binary choice can be made. |
+
+---
+
+## The Modes: Venting vs. Fixing
+
+One of the most frequent transmission collisions in human history:
+
+::: {.comic-grid}
+::: {.comic-panel-blue}
+::: {.comic-caption-cyan}
+MODE A: LISTENING & VALIDATION
+:::
+### "Just Listen, Don't Fix"
+* **Objective:** Empathy, emotional venting, shared indignation.
+* **Key Phrases:** *"That really sucks,"* *"You were totally in the right,"* *"I can't believe they said that!"*
+* **Avoid:** Giving a 5-step strategic action plan.
+:::
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+MODE B: ACTIVE TROUBLESHOOTING
+:::
+### "Fix It / Tactical Advice"
+* **Objective:** Pragmatic problem-solving, root cause analysis.
+* **Key Phrases:** *"Here is how we tackle this,"* *"Let's test option B,"* *"What is the fallback plan?"*
+* **Trigger:** Explicit request for input.
+:::
+:::
+
+::: {.callout-tip}
+## 💡 The Universal Golden Question
+When in doubt, ask:  
+**"Do you want comfort, advice, or someone to help hide the evidence?"**  
+*(This single question avoids 90% of misaligned conversations.)*
+:::
+
+---
+
+## Love Languages Calibration Matrix
+
+Rate from 1 (Lowest) to 5 (Crucial) for how Chris best receives care:
+
+::: {.comic-panel}
+::: {.comic-caption}
+THE 5 PROTOCOLS
+:::
+
+1. **Quality Time:** `[ Rating: 1 - 5 ]`  
+   *What this looks like:* `[ E.g. Uninterrupted walks, gaming together, cozy evenings ]`
+
+2. **Words of Affirmation:** `[ Rating: 1 - 5 ]`  
+   *What this looks like:* `[ E.g. Unexpected nice texts, praising an accomplishment ]`
+
+3. **Acts of Service:** `[ Rating: 1 - 5 ]`  
+   *What this looks like:* `[ E.g. Making coffee without being asked, handling chores ]`
+
+4. **Physical Touch:** `[ Rating: 1 - 5 ]`  
+   *What this looks like:* `[ E.g. Hugs, holding hands, back scratches ]`
+
+5. **Receiving Gifts:** `[ Rating: 1 - 5 ]`  
+   *What this looks like:* `[ E.g. Thoughtful books, favorite candy, quirky souvenirs ]`
+:::
+
+---
+
+## Messaging & Remote Ping Protocols
+
+::: {.form-box}
+::: {.comic-caption}
+COMMUNICATION PREFERENCES WORKSHEET
+:::
+
+* **Preferred Communication Medium:**  
+  <span class="comic-checkbox"></span> Text / WhatsApp &nbsp;  
+  <span class="comic-checkbox"></span> Voice Notes &nbsp;  
+  <span class="comic-checkbox"></span> Phone Calls &nbsp;  
+  <span class="comic-checkbox"></span> In-Person Only
+
+* **Response Time Expectations:**  
+  * While Working: <span class="fill-blank-line" style="min-width:250px;"></span>
+  * Free Time / Evenings: <span class="fill-blank-line" style="min-width:250px;"></span>
+
+* **Meme Exchange Protocol:**  
+  * Is sending 15 memes in a row without context acceptable?  
+  <span class="comic-checkbox"></span> Yes, encouraged &nbsp; <span class="comic-checkbox"></span> Please limit to 3 at a time
+
+* **Secret Word / Signal for "I Need Space":**  
+  * Code word: <span class="fill-blank-line" style="min-width:250px;"></span>
+:::

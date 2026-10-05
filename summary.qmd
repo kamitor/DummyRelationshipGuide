@@ -1,0 +1,69 @@
+# Warranty & Maintenance Schedule
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+FIELD SUPPORT & LONG-TERM CARE
+:::
+
+::: {.speech-bubble}
+*"Relationships do not run on autopilot. Like a classic vintage automobile (or a fussy mechanical keyboard), Chris requires periodic tune-ups and scheduled preventative maintenance."*
+:::
+:::
+
+---
+
+## Preventative Maintenance Calendar
+
+To prevent unexpected system crashes, adhere to the recommended service intervals:
+
+| Interval | Inspection & Procedure | Sign of Compliance |
+|:---|:---|:---|
+| **Daily** | Morning greeting + coffee handoff + evening decompression debrief. | Calm breathing; relaxed facial muscles. |
+| **Weekly** | Dedicated date night or quality 1-on-1 activity with zero work talk. | High laughter count; renewed energy reserves. |
+| **Monthly** | State-of-the-Union check-in: *"How are we doing? Anything we need to tweak?"* | Open dialogue; zero lingering grievances. |
+| **Annual** | Vacation / getaway reboot sequence in unfamiliar coordinates. | Full memory wipe of daily work fatigue. |
+
+---
+
+## Official Warranty & Limitations of Liability
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+LEGAL FINE PRINT & DISCLAIMERS
+:::
+
+1. **"As-Is" Condition:** The specimen designated **Chris** is provided *"as-is"*, with all inherent quirks, humor algorithms, and occasional selective hearing.
+2. **No Cash Value / Non-Returnable:** Once accepted into your life, returns are strictly prohibited. Exchange for alternate models is void.
+3. **Firmware Updates:** Chris reserves the right to develop spontaneous new hobbies, change favorite pizza toppings, or suddenly buy obscure camping equipment.
+4. **Lifelong Support:** Continuous love, open communication, shared snacks, and laughter will keep this specimen operational for decades.
+:::
+
+---
+
+## Emergency Protocol Card
+
+Print or screenshot this card for emergency situations:
+
+::: {.comic-panel-blue}
+::: {.comic-caption-cyan}
+IN CASE OF CRITICAL EMERGENCY
+:::
+
+* **Step 1:** Confirm biological baseline (Water, Food, Sleep).
+* **Step 2:** Administer tight hug for at least 15 seconds.
+* **Step 3:** Put on soothing music or funny sitcom episode.
+* **Step 4:** Say: *"You are doing great, and we will get through this."*
+* **Emergency Hotline:** Call / Text Chris at: <span class="fill-blank-line" style="min-width:250px;"></span>
+:::
+
+---
+
+## Final Words of Encouragement
+
+::: {.thought-bubble}
+*"At the end of the day, having a relationship with Chris is about sharing the ride, laughing at the absurdities of life, and building something wonderful together one comic panel at a time."*
+:::
+
+<div style="text-align: center; margin: 2.5rem 0;">
+  <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Download &amp; Print Full Guide (PDF)</a>
+</div>

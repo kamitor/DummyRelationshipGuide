@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Dummy Guide to Having a Relationship with Chris"
+  subtitle: "The Illustrated Survival & Calibration Handbook"
+  author: "Chris"
+  date: today
+  cover-image: assets/cover.png
+  page-navigation: true
+  downloads: [pdf]
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - habitat.qmd
+    - communication.qmd
+    - conflict.qmd
+    - easter-eggs.qmd
+    - intake-form.qmd
+    - summary.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    fig-responsive: true
+  typst:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    papersize: a4
+    margin:
+      x: 2cm
+      y: 2.5cm

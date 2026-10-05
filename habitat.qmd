@@ -1,0 +1,129 @@
+# Habitat, Feeding & Daily Cycles
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+SURVIVAL PROTOCOL: SUSTENANCE & SLEEP
+:::
+
+::: {.speech-bubble}
+*"Rule #1 of Chris maintenance: Never interrogate the specimen before coffee, and never assume silence means they aren't thinking about lunch."*
+:::
+:::
+
+---
+
+## The Morning Reboot Sequence
+
+Like an antique operating system, Chris does not instantly achieve operational readiness upon waking. The boot cycle requires dedicated cache clearance.
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+PHASE 1: 0 - 15 MIN
+:::
+### The Soft Boot
+* **Brain State:** 12% operational.
+* **Audio:** Grunts, deep yawns.
+* **Hazard:** High risk of bumping into doorframes.
+* **Recommended Action:** Hand over warm beverage in complete silence.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PHASE 2: 15 - 45 MIN
+:::
+### Caffeine Synthesis
+* **Brain State:** 55% operational.
+* **Audio:** Short sentences possible.
+* **Progress:** Capable of recognizing familiar faces.
+* **Action:** Casual greeting permitted.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PHASE 3: 45+ MIN
+:::
+### Online & Ready
+* **Brain State:** 100% operational.
+* **Action:** Full conversation, humor, and complex planning unlocked!
+:::
+:::
+
+---
+
+## Dietary Guidelines & The Hangry Curve
+
+Hunger directly impacts cognitive performance, patience buffers, and emotional equilibrium.
+
+```
+Patience Level
+   ^
+100|  (Full & Happy) ──────┐
+ 75|                       │  <- "What do you want to eat?" (Safe zone)
+ 50|                       └───┐
+ 25|                           └───┐ <- "I don't care, you pick" (Warning zone)
+  0|_______________________________└───> (HANGRY ERROR 404: CRISIS)
+    0hr    2hr    4hr    6hr    8hr  Time Since Last Meal
+```
+
+### Approved Fuel & Snack Matrix
+
+| Fuel Category | Approved Selections | Disapproved / Avoid |
+|:---|:---|:---|
+| **Caffeine Unit** | `[ E.g. Espresso, Oat Flat White, Tea ]` | `[ Lukewarm instant coffee ]` |
+| **Quick Snacks** | `[ E.g. Crisps, nuts, chocolate, fruit ]` | `[ Mysterious fridge leftovers ]` |
+| **Comfort Meals** | `[ E.g. Pizza, Thai curry, Pasta, Tacos ]` | `[ Bland salads with no dressing ]` |
+| **Sweet Treats** | `[ E.g. Ice cream, pastries, dark chocolate ]` | `[ Licorice, artificial candy ]` |
+
+::: {.callout-tip}
+## 💡 Emergency Snack Strategy
+When Chris begins pacing aimlessly or sighing at the pantry, do not ask *"Are you hungry?"* (answer will be an unconvincing *"No, I'm fine"*). Simply place a snack within arm's reach and say nothing.
+:::
+
+---
+
+## Optimal Habitat & Environmental Settings
+
+To keep Chris operating at peak performance, monitor the surrounding ecosystem:
+
+::: {.comic-panel}
+::: {.comic-caption}
+ENVIRONMENTAL CALIBRATION
+:::
+
+* **Thermostat Preference:**  
+  <span class="comic-checkbox"></span> Freezing Arctic (18°C) &nbsp;  
+  <span class="comic-checkbox"></span> Cozy Warm (22°C - 24°C) &nbsp;  
+  <span class="comic-checkbox"></span> Dynamic / Layer-dependent  
+  <!-- CHRIS: Check your real preference above -->
+
+* **Ambient Lighting:**  
+  <span class="comic-checkbox"></span> Warm fairy lights & lamps &nbsp;  
+  <span class="comic-checkbox"></span> Bright sunlight & open windows &nbsp;  
+  <span class="comic-checkbox"></span> Goblin cave darkness with monitor glow  
+
+* **Noise & Acoustic Profile:**  
+  * Preferred background audio: `[ E.g. Lo-fi beats, synthwave, silence, podcasts ]`
+  * Noise tolerance threshold: `[ High / Medium / Low ]`
+
+* **Designated Safe Haven:**  
+  * Where does Chris retreat when needing to decompress?  
+  * *Location:* `[ E.g. The corner chair, desk setup, kitchen, outdoors ]`
+:::
+
+---
+
+## Blank Daily Schedule Worksheet
+
+::: {.form-box}
+::: {.comic-caption}
+CHRIS'S REALISTIC DAILY CYCLE
+:::
+
+* **Wake-Up Time:** <span class="fill-blank-line" style="min-width:180px;"></span>
+* **Ideal Bedtime:** <span class="fill-blank-line" style="min-width:180px;"></span>
+* **Peak Productivity Window:** <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Afternoon Slump Danger Hour:** <span class="fill-blank-line" style="min-width:200px;"></span>
+* **Best Time for Serious Conversations:** <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Worst Time for Serious Conversations:** <span class="fill-blank-line" style="min-width:250px;"></span>
+:::

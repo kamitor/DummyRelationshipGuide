@@ -1,0 +1,455 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:ital,wght@0,400;0,700;1,400&family=Permanent+Marker&family=Work+Sans:wght@400;600;700;900&display=swap');
+
+// Variables
+$font-family-sans-serif: 'Comic Neue', 'Work Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$headings-font-family: 'Bangers', 'Comic Neue', cursive, sans-serif;
+
+$primary: #FED100;       // Dummies Yellow
+$secondary: #FF4757;     // Comic Pop Red
+$dark: #111111;          // Inked Charcoal/Black
+$light: #FFFDF5;         // Comic Newsprint White/Cream
+$info: #18DCFF;          // Electric Cyan
+$warning: #FFA502;       // Action Orange
+$success: #2ED573;       // Lime Green
+$body-bg: #FBF9F1;       // Cozy warm background
+$body-color: #1a1a1a;
+
+/*-- scss:rules --*/
+
+// Header & Titles
+h1, h2, h3, .quarto-title .title {
+  font-family: 'Bangers', cursive, sans-serif;
+  letter-spacing: 1.5px;
+  color: #111111;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 2.4rem;
+  border-bottom: 4px solid #111111;
+  padding-bottom: 0.3rem;
+  margin-top: 1.5rem;
+}
+
+h2 {
+  font-size: 1.85rem;
+  margin-top: 1.4rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+// Navbar styling
+.navbar {
+  background-color: #111111 !important;
+  border-bottom: 4px solid #FED100 !important;
+  box-shadow: 0 4px 0 rgba(0,0,0,0.15);
+}
+
+.navbar-brand, .navbar-title {
+  font-family: 'Bangers', cursive, sans-serif !important;
+  font-size: 1.6rem !important;
+  letter-spacing: 1.5px;
+  color: #FED100 !important;
+}
+
+// Sidebar styling
+.sidebar {
+  background-color: #FFFCE8;
+  border-right: 3px solid #111111;
+}
+
+.sidebar .sidebar-title {
+  font-family: 'Bangers', cursive, sans-serif;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+
+.sidebar nav[role="doc-toc"] ul>li>a.active, 
+.sidebar .sidebar-item.active>a {
+  background-color: #FED100 !important;
+  color: #111111 !important;
+  font-weight: 700;
+  border: 2px solid #111111;
+  border-radius: 6px;
+  box-shadow: 3px 3px 0 #111111;
+}
+
+// Comic Halftone Background Accent
+body {
+  background-color: #FAF7EE;
+  background-image: radial-gradient(#d3cbb5 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+// Comic Panels
+.comic-panel {
+  background: #FFFFFF;
+  border: 3px solid #111111;
+  border-radius: 10px;
+  box-shadow: 6px 6px 0px #111111;
+  padding: 1.4rem;
+  margin: 1.5rem 0;
+  position: relative;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 8px 8px 0px #111111;
+  }
+}
+
+.comic-panel-yellow {
+  background-color: #FFFDE6;
+  border: 3px solid #111111;
+  border-radius: 10px;
+  box-shadow: 6px 6px 0px #111111;
+  padding: 1.4rem;
+  margin: 1.5rem 0;
+}
+
+.comic-panel-blue {
+  background-color: #F0F8FF;
+  border: 3px solid #111111;
+  border-radius: 10px;
+  box-shadow: 6px 6px 0px #111111;
+  padding: 1.4rem;
+  margin: 1.5rem 0;
+}
+
+// Comic Strip Grid
+.comic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+// Comic Caption Box (yellow banner atop panels)
+.comic-caption {
+  display: inline-block;
+  background-color: #FED100;
+  color: #111111;
+  border: 2px solid #111111;
+  box-shadow: 3px 3px 0px #111111;
+  padding: 0.25rem 0.8rem;
+  font-family: 'Bangers', cursive, sans-serif;
+  font-size: 1.15rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+
+.comic-caption-red {
+  background-color: #FF4757;
+  color: #FFFFFF;
+}
+
+.comic-caption-cyan {
+  background-color: #18DCFF;
+  color: #111111;
+}
+
+// Speech Bubbles
+.speech-bubble {
+  position: relative;
+  background: #FFFFFF;
+  border: 3px solid #111111;
+  border-radius: 20px;
+  padding: 1rem 1.4rem;
+  margin: 1.2rem 0;
+  box-shadow: 4px 4px 0px #111111;
+  font-size: 1.05rem;
+  font-weight: 500;
+  max-width: 85%;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -16px;
+    left: 40px;
+    border-width: 16px 14px 0 0;
+    border-style: solid;
+    border-color: #FFFFFF transparent;
+    display: block;
+    width: 0;
+    z-index: 2;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    bottom: -20px;
+    left: 38px;
+    border-width: 20px 17px 0 0;
+    border-style: solid;
+    border-color: #111111 transparent;
+    display: block;
+    width: 0;
+    z-index: 1;
+  }
+}
+
+.speech-bubble-right {
+  margin-left: auto;
+  background: #FFFCE8;
+
+  &::after {
+    left: auto;
+    right: 40px;
+    border-width: 16px 0 0 14px;
+    border-color: #FFFCE8 transparent;
+  }
+
+  &::before {
+    left: auto;
+    right: 38px;
+    border-width: 20px 0 0 17px;
+    border-color: #111111 transparent;
+  }
+}
+
+// Thought Bubbles
+.thought-bubble {
+  position: relative;
+  background: #F0F7FF;
+  border: 3px dashed #111111;
+  border-radius: 30px;
+  padding: 1rem 1.4rem;
+  margin: 1.5rem 0;
+  box-shadow: 4px 4px 0px #111111;
+  max-width: 85%;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    left: 45px;
+    width: 14px;
+    height: 14px;
+    background: #F0F7FF;
+    border: 3px solid #111111;
+    border-radius: 50%;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    bottom: -26px;
+    left: 32px;
+    width: 8px;
+    height: 8px;
+    background: #F0F7FF;
+    border: 2px solid #111111;
+    border-radius: 50%;
+  }
+}
+
+// Comic Badges / Sound Effects (POW, BOOM, TIP)
+.comic-badge {
+  display: inline-block;
+  font-family: 'Bangers', cursive, sans-serif;
+  letter-spacing: 1px;
+  padding: 0.2rem 0.6rem;
+  border: 2px solid #111111;
+  border-radius: 6px;
+  box-shadow: 3px 3px 0px #111111;
+  transform: rotate(-2deg);
+  font-size: 1.1rem;
+  margin: 0 0.3rem;
+
+  &.pow {
+    background-color: #FF4757;
+    color: #FFFFFF;
+    transform: rotate(3deg);
+  }
+
+  &.tip {
+    background-color: #FED100;
+    color: #111111;
+  }
+
+  &.warning {
+    background-color: #FFA502;
+    color: #111111;
+    transform: rotate(-3deg);
+  }
+
+  &.tech {
+    background-color: #18DCFF;
+    color: #111111;
+  }
+
+  &.remember {
+    background-color: #2ED573;
+    color: #111111;
+  }
+}
+
+// Dummies Callout Boxes Customization
+.callout {
+  border: 3px solid #111111 !important;
+  border-radius: 8px !important;
+  box-shadow: 5px 5px 0px #111111 !important;
+  background-color: #FFFFFF !important;
+  margin: 1.5rem 0 !important;
+
+  .callout-header {
+    font-family: 'Bangers', cursive, sans-serif !important;
+    font-size: 1.25rem !important;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #111111;
+    padding: 0.5rem 0.8rem !important;
+    color: #111111 !important;
+  }
+
+  &.callout-tip {
+    border-left: 10px solid #FED100 !important;
+    .callout-header { background-color: #FFF7B2 !important; }
+  }
+
+  &.callout-warning {
+    border-left: 10px solid #FFA502 !important;
+    .callout-header { background-color: #FFE6B3 !important; }
+  }
+
+  &.callout-important, &.callout-caution {
+    border-left: 10px solid #FF4757 !important;
+    .callout-header { background-color: #FFCCD1 !important; }
+  }
+
+  &.callout-note {
+    border-left: 10px solid #18DCFF !important;
+    .callout-header { background-color: #D3F6FF !important; }
+  }
+}
+
+// Form Elements (for printable calibration & intake sheet)
+.form-box {
+  background: #FFFFFF;
+  border: 3px solid #111111;
+  border-radius: 10px;
+  box-shadow: 6px 6px 0px #111111;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.fill-blank-line {
+  display: inline-block;
+  border-bottom: 2px dashed #111111;
+  min-width: 200px;
+  margin: 0 6px;
+  vertical-align: middle;
+  height: 1.2rem;
+}
+
+.fill-blank-area {
+  width: 100%;
+  height: 90px;
+  border: 2px dashed #888888;
+  border-radius: 6px;
+  background: #FFFDF8;
+  margin: 0.8rem 0;
+  padding: 0.8rem;
+  color: #777;
+  font-style: italic;
+}
+
+.comic-checkbox {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  border: 3px solid #111111;
+  border-radius: 4px;
+  margin-right: 8px;
+  vertical-align: middle;
+  background: #FFFFFF;
+}
+
+// Tables in comic style
+table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 3px solid #111111 !important;
+  border-radius: 8px !important;
+  box-shadow: 5px 5px 0px #111111 !important;
+  overflow: hidden;
+  margin: 1.5rem 0 !important;
+  width: 100%;
+
+  thead tr {
+    background-color: #FED100 !important;
+    color: #111111 !important;
+    font-family: 'Bangers', cursive, sans-serif !important;
+    font-size: 1.2rem !important;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #111111 !important;
+  }
+
+  th, td {
+    border: 1px solid #111111 !important;
+    padding: 0.75rem 1rem !important;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #FFFCE8;
+  }
+}
+
+// Download Button
+.btn-comic-download {
+  display: inline-block;
+  background-color: #FF4757;
+  color: #FFFFFF !important;
+  font-family: 'Bangers', cursive, sans-serif;
+  font-size: 1.3rem;
+  letter-spacing: 1.5px;
+  text-decoration: none;
+  padding: 0.6rem 1.4rem;
+  border: 3px solid #111111;
+  border-radius: 8px;
+  box-shadow: 4px 4px 0px #111111;
+  transition: all 0.15s ease;
+  margin: 0.8rem 0;
+
+  &:hover {
+    background-color: #ff6b81;
+    color: #FFFFFF !important;
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0px #111111;
+  }
+}
+
+// Print Specific Styles
+@media print {
+  body {
+    background: #FFFFFF !important;
+    background-image: none !important;
+    font-size: 11pt;
+    color: #000000;
+  }
+
+  .sidebar, .navbar, .quarto-navigation, footer, .btn-comic-download {
+    display: none !important;
+  }
+
+  .comic-panel, .form-box, .callout {
+    box-shadow: none !important;
+    border: 2px solid #000000 !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .page-break {
+    page-break-after: always;
+    break-after: page;
+  }
+
+  .fill-blank-area {
+    border: 1px solid #000000 !important;
+    height: 100px;
+  }
+}

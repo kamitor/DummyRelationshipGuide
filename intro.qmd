@@ -1,0 +1,117 @@
+# Meet the Specimen: Chris 1.0
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+DOSSIER CLASSIFIED: SPECIMEN REPORT
+:::
+
+::: {.speech-bubble}
+*"Before deploying any interaction with Chris in a production environment, please review the factory baseline specifications below."*
+:::
+:::
+
+---
+
+## Technical Specifications & Architecture
+
+| Specification | Factory Baseline | Custom Value *(Fill in below)* |
+|:---|:---|:---|
+| **Model Name** | Chris 1.0 (Humanoid Build) | `[ Enter Full Nickname / Title ]` |
+| **Current Firmware** | Release `2026.x` | `[ Enter Version or Age ]` |
+| **Primary Fuel Source** | Coffee & High-Density Snacks | `[ Favorite food / drink ]` |
+| **Optimal Temperature** | 20°C - 23°C (Sweater Optional) | `[ Warm / Cold preference ]` |
+| **Recharge Cycle** | 7 - 8.5 Hours Required | `[ Sleep requirements ]` |
+| **Social Battery Capacity** | Variable (Recharges in quiet mode) | `[ Introvert / Ambivert / Extrovert ]` |
+
+---
+
+## Factory Default Behaviors
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+DEFAULT 01: HUMOR ENGINE
+:::
+### Rapid Wit & Banter
+Equipped with an always-on sarcasm generator and reference index. 
+
+<!-- CHRIS: Add your sense of humor style here (e.g. dad jokes, dry British humor, absurd memes) -->
+* **Status:** `[ ACTIVE: Insert your humor style here ]`
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+DEFAULT 02: DEEP FOCUS
+:::
+### The "In The Zone" Tunnel
+When immersed in a project, coding, reading, or creating, external audio inputs may be temporarily buffered or dropped.
+
+<!-- CHRIS: Describe your focus mode triggers and how to get your attention -->
+* **Safe Interruption Protocol:** `[ Gentle tap / Wave hand / Wave pizza ]`
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+DEFAULT 03: EMOTIONAL FIRMWARE
+:::
+### Core Drives & Values
+What truly motivates this specimen?
+
+<!-- CHRIS: List your top 3 core values (e.g., honesty, humor, curiosity, loyalty) -->
+* 1. `[ Core Value #1 ]`
+* 2. `[ Core Value #2 ]`
+* 3. `[ Core Value #3 ]`
+:::
+:::
+
+---
+
+## Quirks (These Are Features, Not Bugs!)
+
+Every specimen ships with undocumented features. Familiarize yourself with these quirks to prevent unnecessary panic:
+
+::: {.callout-note}
+## 🤓 Quirk #1: The Hyperfixation Loop
+When Chris discovers a new topic, hobby, game, or technical tool, expect 48-72 hours of intense data acquisition and spontaneous lecture delivery.
+
+* **Recommended Response:** Nod, ask *"Fascinating, tell me more,"* and offer water.
+:::
+
+::: {.callout-warning}
+## ⚠️ Quirk #2: Low Battery Warning Signs
+When social or cognitive reserves fall below 15%, Chris may exhibit glazed eyes, monosyllabic replies (*"Yeah", "Cool", "Mmm"*), and an involuntary pull toward horizontal surfaces.
+
+* **Emergency Procedure:** Do not attempt serious life discussions. Supply blanket and allow silent recharge.
+:::
+
+::: {.callout-tip}
+## 💡 Quirk #3: Instant Joy Triggers
+Certain simple inputs reliably generate immediate smiles and happiness points:
+
+<!-- CHRIS: Insert 3 things that never fail to make your day -->
+* `[ Favorite snack / treat ]`
+* `[ Favorite kind of music or environment ]`
+* `[ Favorite spontaneous activity ]`
+:::
+
+---
+
+## Specimen Calibration Card
+
+::: {.form-box}
+::: {.comic-caption}
+FILL-IN-THE-BLANKS: CUSTOM PROFILE
+:::
+
+* **Full Name / Preferred Aliases:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Date of Origin / Birthday:** <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Astrological Sign / Myers-Briggs:** <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Three words that describe me best:**
+  1. <span class="fill-blank-line" style="min-width:180px;"></span>
+  2. <span class="fill-blank-line" style="min-width:180px;"></span>
+  3. <span class="fill-blank-line" style="min-width:180px;"></span>
+* **The quickest way to make me laugh:**  
+  <div class="fill-blank-area">[ Click edit or write here: Describe what guarantees a laugh... ]</div>
+* **My biggest pet peeve:**  
+  <div class="fill-blank-area">[ Click edit or write here: What instantly annoys or frustrates you... ]</div>
+:::

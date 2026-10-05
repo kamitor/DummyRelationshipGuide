@@ -1,0 +1,111 @@
+# Troubleshooting & Error Codes
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+SYSTEM ALERT: INCIDENT MANAGEMENT
+:::
+
+::: {.speech-bubble}
+*"Even the most stable human architecture encounters kernel panics. The key is knowing how to trigger a graceful recovery instead of a hard reboot."*
+:::
+:::
+
+---
+
+## Relationship Error Code Directory
+
+When friction or unusual behavior occurs, refer to standard diagnostic codes:
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption-red}
+ERROR 404: HANGRY
+:::
+### Fuel Depletion Panic
+* **Symptoms:** Short replies, exaggerated frustration over minor obstacles, irrational despair.
+* **Fix:** Do not debate. Hand over complex carbohydrates immediately.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+ERROR 503: BUFFER FULL
+:::
+### Sensory Overload
+* **Symptoms:** Staring blankly, inability to decide on dinner, retreating under blankets.
+* **Fix:** Dim lights, pause conversation, allow 30 minutes of undisturbed processing time.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption-cyan}
+ERROR 400: BAD TIMING
+:::
+### Ill-Timed Inquiry
+* **Symptoms:** Sighing, rubbing temples, answering with defensive questions.
+* **Fix:** Postpone discussion until morning or post-meal window.
+:::
+:::
+
+---
+
+## The 3-Step Safe Recovery Protocol
+
+When an argument or misunderstanding strikes, initiate this standard operating procedure:
+
+```
+[ Misunderstanding Detected ]
+             │
+             ▼
+  ┌──────────────────────┐
+  │ 1. Pause & Step Back │  (Take a 15-minute breather; no scorched-earth texts)
+  └──────────┬───────────┘
+             │
+             ▼
+  ┌──────────────────────┐
+  │  2. Biological Check │  (Is someone tired, hungry, cold, or stressed from work?)
+  └──────────┬───────────┘
+             │
+             ▼
+  ┌──────────────────────┐
+  │  3. Re-engage Gently │  (Start with: "I care about you, let's figure this out together")
+  └──────────────────────┘
+```
+
+::: {.callout-important}
+## 📌 The Golden Rule of Disagreements
+Remember: It is never **You vs. Chris**. It is **You & Chris vs. The Problem**.
+:::
+
+---
+
+## The Apology Syntax
+
+How Chris processes apologies and repairs emotional connection:
+
+| What Works Well 🌟 | What Makes Things Worse 🚫 |
+|:---|:---|
+| Direct ownership: *"I'm sorry I reacted like that."* | Non-apologies: *"I'm sorry you felt that way."* |
+| Acknowledging the specific impact. | Defensive justifications (*"Well you did it first!"*). |
+| Offering a hug or gentle touch once cool. | Demanding immediate cheerful behavior. |
+| Asking: *"What can I do right now to make this better?"* | Pretending nothing happened without acknowledging it. |
+
+---
+
+## Incident Debrief & Resolution Worksheet
+
+::: {.form-box}
+::: {.comic-caption}
+CUSTOM CONFLICT CALIBRATION
+:::
+
+* **When I am upset, the BEST thing you can do is:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Give me 20 minutes alone, then bring tea and sit with me... ]</div>
+
+* **When I am upset, the WORST thing you can do is:**  
+  <div class="fill-blank-area">[ Click edit or write here: E.g., Follow me from room to room demanding answers immediately... ]</div>
+
+* **My primary de-escalation signal / peace offering is:**  
+  * Preferred gesture: <span class="fill-blank-line" style="min-width:300px;"></span>
+
+* **Guaranteed truce food / peace treaty:**  
+  * Specific treat: <span class="fill-blank-line" style="min-width:300px;"></span>
+:::

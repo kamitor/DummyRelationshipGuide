@@ -1,0 +1,97 @@
+# Welcome to the Guide {.unnumbered}
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+MEANWHILE, AT HEADQUARTERS...
+:::
+
+## A Dummy Guide to Having a Relationship with Chris {style="margin-top:0;"}
+
+**The Unofficial, Illustrated Manual & Calibration Handbook for Navigating Life with Chris.**
+
+<div style="margin: 1.2rem 0;">
+  <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Download Printable PDF Edition</a>
+</div>
+
+::: {.speech-bubble}
+*"Congratulations! You are now in possession of one (1) human specimen designated **Chris**. Please read this operations manual carefully before attempting emotional firmware updates or administering early morning interactions."*
+:::
+:::
+
+---
+
+## What is this Handbook?
+
+Welcome to the **Dummy Guide to Having a Relationship with Chris**! Whether you are a partner, close friend, or curious bystander, this handbook exists to decode the mysteries, daily routines, communication protocols, and occasional error messages of the complex organism known as **Chris**.
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+PANEL 1: THE MISSION
+:::
+### Why Read This?
+Human relationships rarely come with an instruction booklet—until now. This book combines the straightforward wit of the classic *For Dummies* guides with the dynamic energy of comic strips. 
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PANEL 2: 100% MODULAR
+:::
+### Ready for Input!
+This book is currently set up as a **blank calibration form and scaffold**. The structure, layout, and comic panels are ready—all you need to do is plug in your personalized truths!
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PANEL 3: PRINT & SHARE
+:::
+### Digital & Print
+Read it online anytime on GitHub Pages, or export and print the PDF copy to keep on the nightstand for rapid emergency consultations!
+:::
+:::
+
+---
+
+## Guide Icons & Decoding Signals
+
+Throughout this handbook, you will encounter classic *Dummies* and comic callouts designed to keep you safe in the field:
+
+::: {.callout-tip}
+## 💡 Pro-Tip / Cheat Code
+Actionable advice to maximize relationship harmony, unlock bonus conversation points, or speed up recovery time.
+:::
+
+::: {.callout-warning}
+## ⚠️ Danger Zone / Tread Lightly
+High-risk behaviors, phrases to avoid, and critical hangry indicators. Proceed with extreme caution.
+:::
+
+::: {.callout-note}
+## 🤓 Technical Stuff / Firmware Specs
+Detailed explanations of Chris's background cognitive processes, hardware specs, and quirk architectures.
+:::
+
+::: {.callout-important}
+## 📌 Remember / The Golden Rule
+Core tenets and non-negotiables that form the bedrock of successful day-to-day coexistence.
+:::
+
+---
+
+## Table of Contents Preview
+
+1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — Basic specs, architecture, strengths, and quirks.
+2. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — Morning routines, coffee protocols, and charging zones.
+3. **[Communication Protocols](communication.qmd)** — Decoding subtle signals, love languages, and texting rules.
+4. **[Troubleshooting & Error Codes](conflict.qmd)** — How to diagnose hangs, Hangry 404s, and reboot sequences.
+5. **[Special Features & Easter Eggs](easter-eggs.qmd)** — Hyperfixations, favorite surprises, and travel mode.
+6. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — The printable worksheet ready for your direct input!
+7. **[Warranty & Maintenance Schedule](summary.qmd)** — Checkups, emergency contacts, and parting wisdom.
+
+::: {.comic-panel}
+::: {.comic-caption}
+HOW TO CUSTOMIZE THIS BOOK
+:::
+> **✏️ Note for Chris:**  
+> All chapters contain placeholders clearly marked with `<!-- CHRIS: Fill in here! -->` and interactive form blocks. Simply open the corresponding `.qmd` file in your editor, replace the placeholders with your own anecdotes and specifics, and push your changes!
+:::
