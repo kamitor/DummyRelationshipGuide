@@ -76,10 +76,20 @@ THE CONTRACT MISMATCH
 * Being rigidly cross-examined over every casual sentence feels like being trapped in a permanent courtroom with no defense attorney.
 :::
 
-::: {.callout-tip}
-## 💡 The "Zero Casual Promises" Treaty
-1. **Chris stops casual overpromising:** Instead of saying *"Yeah, I'll do that,"* say: *"I want to help with that, let me check my board and put a reminder on my phone right now."*
-2. **The Partner stops treating casual thoughts as legally binding contracts:** If it wasn't explicitly confirmed on the shared calendar or task list, it is an intention, not a blood oath.
+::: {.callout-important}
+## 📌 The "Thinking Out Loud vs. Locked-In" Protocol (Zero-Burden Rule)
+Expecting Chris to police every casual word or pull out a task tracker during casual conversations puts an impossible, exhausting executive load on an ADHD brain. Here is the realistic, low-effort fix:
+
+1. **The Default State is Always "Thinking Out Loud":**  
+   Chris's spontaneous speech is exploratory brainstorming, not a signed contract. Unless Chris explicitly says: *"This is locked in"*, it is an idea, not a blood oath.
+2. **The Burden Shifts to the Partner (The J-Type):**  
+   She is the one who requires certainty. If *she* needs a guaranteed outcome, **she owns the verification step**. She simply asks:  
+   👉 *"Is this an exploratory idea, or are we locking this into the calendar?"*
+3. **If She Doesn't Verify, She Cannot Call It a Broken Promise:**  
+   If she assumes a casual *"Yeah, sure"* was a sworn oath without checking, she is holding him hostage to an assumption. That is unfair to both of them.
+4. **Chris's Minimal Effort Script:**  
+   If she asks you to do something, you don't need a 5-step task system. Just say:  
+   👉 *"I'd like to, but put it on the fridge / calendar if it's a hard requirement."*
 :::
 
 ---
