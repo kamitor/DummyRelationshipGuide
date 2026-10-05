@@ -29,7 +29,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: "latest"
+          version: "release"
 
       - name: Render Quarto Book (HTML and PDF)
         run: |
