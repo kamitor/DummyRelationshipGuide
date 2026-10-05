@@ -6,64 +6,61 @@ UNLOCKED SECRETS: THE ENFP-T ADVANTAGE
 :::
 
 ::: {.speech-bubble}
-*"Campaigners in love are among the most romantic of all personality types. Paired with a Systems Builder mindset, you get a partner who designs grand romantic adventures with architectural precision!"*
+*"Campaigners in love are among the most romantic and devoted of all personality types. Paired with a Systems Builder intellect and an ADHD curiosity engine, life with Chris is never, ever boring."*
 :::
 :::
 
 ---
 
-## Superpower: The Visionary Cheerleader
+## Superpower: The Visionary Shaman
 
-As an ENFP, Chris possesses an almost superpower-like ability to see people's hidden potential:
+As an ENFP-T, Chris possesses an almost magical ability to see the latent greatness in people:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
 FEATURE 01: UNCONDITIONAL BELIEF
 :::
-### The Hype Machine
-When you share a dream, project, or secret ambition, Chris won't scoff. He will immediately map out the possibilities, brainstorm ideas, and champion you relentlessly.
+### The Ultimate Champion
+When you share a dream, secret goal, or creative idea, Chris won't scoff. He will map out possibilities, brainstorm architectures, and cheer you on relentlessly.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
 FEATURE 02: SYMBOLIC ROMANCE
 :::
-### Deep Meaning & Romance
-Chris doesn't do generic romantic gestures. He remembers obscure details, builds customized playlists, creates personalized gifts, and turns ordinary dates into memorable quests.
+### Meaning Over Generic Fluff
+Chris doesn't do boring, generic gifts. He remembers obscure comments from three months ago, crafts personalized playlists, and turns ordinary dates into memorable quests.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
 FEATURE 03: CHILDLIKE WONDER
 :::
-### Spontaneous Playfulness
-Whether it's laughing at absurd memes, exploring a new neighborhood, or building elaborate Lego models, Chris brings an enduring sense of joy to daily life.
+### Spontaneous Joy
+Whether laughing at absurd memes, exploring a foreign alleyway, or inventing games on the spot, Chris brings vibrant life and laughter wherever he goes.
 :::
 :::
 
 ---
 
-## Hyperfixation Rabbit Holes
+## The Interest-Cycling Engine: Why He Changes Hobbies
 
-Chris's systems mind is naturally drawn into deep exploratory rabbit holes. Topics that may trigger an impromptu, highly energetic TED Talk:
+A common question for partners of ADHD specimens: *"Why did Chris spend 3 weeks obsessing over 3D printing / DnD campaigns / AI workflows, and now he hasn't touched it for a month?"*
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-CURRENT KNOWN HYPERFIXATION ZONES
+THE CYCLING OPERATING SYSTEM
 :::
 
-1. **Systems, Code & Architectural Puzzles:**  
-   *Trigger:* *"How does this complex system actually function behind the scenes?"*  
-   *Result:* Intense whiteboarding, elegant modular architectures, diagrams.
+> **Dropping a project when novelty fades is how the engine works, not a character flaw.**
 
-2. **Human Behavior, Psychology & Personality Maps:**  
-   *Trigger:* Discovering why people think and act the way they do (MBTI, cognitive loops, game theory).
-
-3. **Curated Niche Passions:**  
-   <!-- CHRIS: Enter your top 2 favorite hobbies or passion projects below -->
-   * Passion #1: `[ Enter your favorite hobby, game, or lore ]`
-   * Passion #2: `[ Enter another subject you can talk about for hours ]`
+* **The Reality:**  
+  Chris's brain runs on interest and novelty. When a topic is fresh, he acquires deep mastery fast. When the novelty wanes, his brain pauses that tab.
+* **The Secret:**  
+  The interest isn't dead—it's just in sleep mode! It will re-activate when a new angle, tool, or shared challenge emerges.
+* **How to Support Him:**  
+  Never shame him for pausing a hobby (*"See, you never finish anything"*). Instead, celebrate the knowledge gained and welcome the next wave of creative exploration!
 :::
 
 ---
@@ -74,14 +71,14 @@ How Chris behaves when out in the wild on vacation:
 
 | Behavior Dimension | Chris's Default Setting | Survival Notes |
 |:---|:---|:---|
-| **Airport Timing** | Strategic & Timely *(Comfortable margin)* | Keep passport and boarding pass in designated pocket. |
-| **Itinerary Style** | **Structured Spontaneity:** High-level anchors + open slots for serendipity. | Hates having every 15 minutes rigidly scheduled. |
-| **Culinary Exploration** | Enthusiastic foodie, seeks local gems and hidden street food. | Never take Chris to a generic airport chain restaurant if authentic local food is nearby. |
-| **Energy Battery** | High exploratory stamina until sudden 5:00 PM wall. | Schedule mandatory coffee / pastry recharge breaks. |
+| **Airport Timing** | Strategic & Timely *(Comfortable buffer)* | Keep passports and tickets accessible. |
+| **Itinerary Architecture** | **Structured Spontaneity:** Curate 2 anchor experiences per day, leave the rest open for serendipity. | Suffocates under 15-minute scheduled tour buses. |
+| **Culinary Expeditions** | Passionate foodie; will walk 30 minutes for an authentic local eatery. | Never settle for a mediocre tourist trap when real flavor exists nearby. |
+| **Energy Battery** | Surging explorer stamina until the 17:00 wall. | Mandatory coffee + pastry recharge stop is essential. |
 
 ---
 
-## The Inside Joke & Memory Vault
+## The Inside Joke & Lore Vault
 
 ::: {.form-box}
 ::: {.comic-caption}
@@ -96,5 +93,5 @@ SHARED LORE & SECRET CODE WORDS
   <div class="fill-blank-area">[ Click edit or write here: The trip, date, or moment that felt like pure movie magic... ]</div>
 
 * **A Small Ritual That is Uniquely Ours:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., The goodnight ritual, Sunday morning coffee dance, secret hand squeeze... ]</div>
+  <div class="fill-blank-area">[ Click edit or write here: The secret handshake, Sunday morning coffee dance, forehead kiss... ]</div>
 :::

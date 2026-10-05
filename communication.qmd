@@ -2,96 +2,121 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-PACKET INSPECTION & SIGNAL DECODING
+PACKET INSPECTION & SIGNAL INTEGRITY
 :::
 
 ::: {.speech-bubble}
-*"Communicating with an ENFP-T Systems Builder is a delightful journey through vivid analogies, deep systems maps, and heartfelt emotion. Here is your cheat sheet to avoid signal corruption."*
+*"Communicating with Chris is an adventure through rich analogies, deep systems maps, and immense heart. To build an unshakable connection, memorize these ground rules for authentic transmission."*
 :::
 :::
 
 ---
 
-## Core Rule: Zero Fabricated Certainty
+## The Cardinal Rule: "Active Listening & Never Ignore Expressed Needs"
 
-If there is one cardinal rule in Chris's cognitive profile, it is this:
+If there is one non-negotiable principle in Chris's relationship handbook, it is this:
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+CORE DIRECTIVE: TRUE LISTENING
+:::
+
+> **"Love is not an abstract concept; it is taking the time to figure out what your partner actually needs and how they need it."**
+
+* **The Reality:**  
+  Because Chris is empathetic and accommodating, he can sometimes find it difficult to lay out all his needs in the heat of the moment. But when he *does* tell you what he needs, **do not ignore him or brush it aside**.
+
+* **What Causes Deep Pain:**  
+  Telling everyone else how you want things while ignoring what Chris asks for; professing care while dismissing his explicit requests; or minimizing his feelings as "unimportant."
+
+* **What Builds Fierce Loyalty:**  
+  Remembering what he told you, asking follow-up questions, and following through: *"I remembered you said you needed quiet after that call, so I took care of dinner."*
+:::
+
+---
+
+## Principle Two: Zero Fabricated Certainty
+
+From Chris's cognitive architecture: **A strict zero-tolerance policy for fabricated certainty.**
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+WHAT ATTRACTS CHRIS 🌟
+:::
+### Intellectual Honesty & Humility
+* Saying *"I actually don't know, what do you think?"*
+* Admitting mistakes openly without defensive spin.
+* Exploring ideas together with curiosity rather than posturing.
+:::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-CRITICAL PRINCIPLE: INTELLECTUAL HONESTY
+WHAT REPELLS CHRIS 🚫
 :::
-
-> **Chris has a very low tolerance for fabricated certainty.**
-
-* **What Chris Loves:**  
-  *"I'm not actually sure about that, what do you think?"* or *"Here is my hypothesis, but let's test it."* Humility, curiosity, and authentic truth-seeking are magnetic to him.
-
-* **What Causes Immediate Skepticism:**  
-  Speaking with unearned confidence about something untrue, pretending to understand to save face, or brushing off facts with hand-waving dismissals.
+### Pretension & Manipulation
+* Speaking with false confidence to win an argument.
+* Pretending to know something when you don't.
+* Passive-aggressive hints instead of clear, direct words.
+:::
 :::
 
 ---
 
 ## The Chris Cipher: Translation Table
 
-| Transmitted Signal | Surface Interpretation | Underlying Firmware Reality |
+| What Chris Transmits | Literal Surface | Underlying Operational Reality |
 |:---|:---|:---|
-| *"I'm fine."* | Situation normal. | ⚠️ **ALERT:** Something feels misaligned. Inquire gently once with warmth: *"Are you sure? I'm here if you want to unpack it."* |
-| *"Let's understand the mechanism here."* | Pure academic discussion. | Chris wants to diagnose the root cause so the friction never happens again. |
-| *"Do you feel like doing X or Y?"* | Total indifference. | Chris has formed an analysis and is presenting 2 curated options to avoid choice paralysis. |
-| *"I just feel like I'm not explaining this well."* | Mild self-deprecation. | ⚠️ **SENSITIVITY ALERT:** Chris is feeling misunderstood. Slow down and say: *"Take your time, I really want to understand your perspective."* |
-| *Long paragraph with diagrams or analogies.* | Information dump. | **LOVE PACKET:** Chris considers you worthy of his deepest thoughts. Read and appreciate! |
+| *"I'm fine."* | Everything is fine. | ⚠️ **ALERT:** Something is 20-40% misaligned. Inquire gently with warmth: *"Are you sure? I'm right here if you want to unpack it."* |
+| *"Let's understand the underlying mechanism."* | Detached academic discussion. | Chris wants to deconstruct what caused the friction so you both avoid it in the future. |
+| *"I feel like I'm not explaining this well."* | Self-doubt. | ⚠️ **SENSITIVITY ALERT:** He feels unheard or misunderstood. Pause, make eye contact, and say: *"Take your time. I genuinely care and want to hear this."* |
+| *Long passionate paragraph with diagrams.* | Wall of text. | **DEEP LOVE PACKET:** Chris considers you worthy of his raw creative genius. Read with delight! |
 
 ---
 
-## The Modes: Venting vs. Fixing
+## Managing the "Turbulent (-T)" Heart & RSD
 
-Because Chris has a natural **Systems Builder** mindset, his automatic default when hearing a problem is:
-1. Deconstruct the problem.
-2. Identify faulty dependencies.
-3. Propose 3 architectural fixes.
+As an ENFP-T with ADHD, Chris experiences **Rejection Sensitive Dysphoria (RSD)**—an intense emotional response to perceived criticism, failure, or abandonment.
 
-However, sometimes human relationships simply require emotional holding!
+::: {.callout-important}
+## 📌 How to Deliver Sensitive Feedback Safely
+1. **Anchor the bond first:** *"I love you and I love being with you. There's just one small thing I want us to adjust."*
+2. **Be specific and behavioral:** Never attack his character or competence (*"You never listen"*). Point to the specific isolated behavior (*"Could we make sure the door gets locked tonight?"*).
+3. **Remember Drew's Wisdom:**  
+   > *"You hyperfocus on the negative, but you have pleased and loved far more people than you have disappointed. It is okay to make mistakes."*
+4. **Reaffirm post-discussion:** A warm hug and a smile confirm the connection is 100% solid.
+:::
+
+---
+
+## The Modes: Venting vs. Debugging
+
+Because Chris is a natural Systems Builder, his immediate reflex when presented with a problem is to diagnose root causes and propose architectural fixes.
 
 ::: {.comic-grid}
 ::: {.comic-panel-blue}
 ::: {.comic-caption-cyan}
-MODE A: LISTENING & EMPATHY
+MODE A: HOLDING SPACE (VENTING)
 :::
-### "Hold Space, Don't Debug"
-* **Objective:** Pure emotional validation and solidarity.
-* **Effective Response:** *"That is so frustrating,"* *"You worked so hard on that,"* *"Come here, let me give you a hug."*
-* **Chris's internal reminder:** Suppress the urge to propose a spreadsheet.
+### Pure Empathy & Presence
+* **Objective:** Emotional holding, shared indignation, validation.
+* **Effective Phrase:** *"That is so unfair. You worked so hard. Come here, let me hold you."*
 :::
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-MODE B: ACTIVE TROUBLESHOOTING
+MODE B: ACTIVE DEBUGGING
 :::
-### "Let's Solve This Together"
-* **Objective:** Tactical advice, root cause diagnosis, contingency plans.
-* **Effective Response:** *"Let's map out the variables and find the cleanest solution."*
-* **Trigger:** Partner explicitly asks: *"What should I do here?"*
+### Tactical Problem-Solving
+* **Objective:** Pragmatic decomposition, action plans, contingencies.
+* **Effective Phrase:** *"Let's map out the variables and find the cleanest next step."*
 :::
 :::
 
 ::: {.callout-tip}
-## 💡 The Magic Question
-When starting a conversation about a stressful topic, ask:  
-**"Do you want me to listen and comfort you, or do you want me to help problem-solve?"**  
-*(This five-second question prevents 90% of misaligned conversations.)*
-:::
-
----
-
-## Protecting the "Turbulent (-T)" Heart: Reassurance
-
-As a Turbulent Campaigner, Chris has a rich, caring heart that sometimes generates internal anxiety loops:
-
-::: {.callout-important}
-## 📌 The Power of Proactive Reassurance
-* **The Vulnerability:** Chris can be deeply sensitive to feeling forgotten, taken for granted, or emotionally disconnected after busy stretches.
-* **The Antidote:** Unprompted warmth! A surprise text (*"Just thinking about you and how great you are"*), a gentle touch when passing by, or verbal appreciation for something he built or organized.
+## 💡 The Universal Golden Question
+Before diving in, ask:  
+**"Do you want me to hold space and listen, or do you want me to help debug the system?"**
 :::
 
 ---
@@ -103,16 +128,14 @@ As a Turbulent Campaigner, Chris has a rich, caring heart that sometimes generat
 COMMUNICATION WORKSHEET
 :::
 
-* **Primary Love Languages (Rank 1 - 5):**  
-  * Words of Affirmation: `[ Rank: 1 - 5 ]` — *Encouragement & verbal appreciation*
-  * Quality Time: `[ Rank: 1 - 5 ]` — *Uninterrupted presence & shared adventures*
-  * Physical Touch: `[ Rank: 1 - 5 ]` — *Warm hugs, holding hands, closeness*
-  * Acts of Service: `[ Rank: 1 - 5 ]` — *Making life smoother without being asked*
-  * Receiving Gifts: `[ Rank: 1 - 5 ]` — *Thoughtful, meaningful tokens of care*
+* **Primary Love Languages:**  
+  * Words of Affirmation: *Verbal appreciation, encouragement, reminding him he is valued*
+  * Quality Time: *Uninterrupted presence, shared laughter, exploring new ideas*
+  * Physical Touch: *Grounded hugs, cuddles, holding hands*
+  * Acts of Service: *Remembering his preferences, helping lighten the cognitive load*
+  * Receiving Gifts: *Thoughtful, meaningful tokens that show you know him*
 
-* **Ideal Texting Rhythm During the Day:**  
-  <div class="fill-blank-area">[ Click edit or write here: Quick check-ins, meme sharing, or save big chats for evening? ]</div>
-
-* **Our De-escalation Phrase when conversations get tense:**  
-  * Secret code phrase: <span class="fill-blank-line" style="min-width:300px;"></span>
+* **When Chris is Quiet for a Few Hours:**  
+  * Most likely: Hyperfocusing on a project or recharging mental battery.  
+  * Recommended Action: Send a sweet, low-pressure ping (*"No need to reply now, just sending love!"*).
 :::

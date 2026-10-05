@@ -6,45 +6,82 @@ SURVIVAL PROTOCOL: SUSTENANCE, AUTONOMY & RECHARGE
 :::
 
 ::: {.speech-bubble}
-*"As an ENFP-T Systems Builder, Chris runs on high-voltage inspiration, intellectual freedom, and regular infusions of caffeine. Managing his environment is key to keeping the engine purring."*
+*"Navigating life with Chris means understanding how his ADHD motivation engine interacts with daily routines, energy crashes, and habitat environments. Follow these protocols for maximum domestic harmony."*
 :::
 :::
 
 ---
 
-## The Daily Energy Dynamics: Bursts vs. Hibernation
+## The Daily Energy Dynamics: Bursts vs. Rebound Crashes
 
-ENFP-Ts do not operate like steady metronomes; their energy flows in dynamic, creative waves:
+Chris does not operate on a smooth 9-to-5 battery curve. His energy comes in intense hyperfocus surges followed by physical decompression:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-PHASE 1: THE SOFT REBOOT (0 - 30 MIN)
+PHASE 1: THE SOFT BOOT (0 - 45 MIN)
 :::
-### Morning Cache Clearance
-* **Brain State:** Booting kernel drivers.
-* **Verbal Capacity:** Grunts, polite smiles, minimal syntax.
-* **Protocol:** Administer warm caffeine silently. Do not launch complex scheduling conversations before the second sip.
-:::
-
-::: {.comic-panel}
-::: {.comic-caption}
-PHASE 2: THE FLOW WAVE (10:00 - 16:00)
-:::
-### Systems Builder In The Zone
-* **Brain State:** 120% capacity.
-* **Activity:** Connecting dots, deconstructing problems, coding, writing.
-* **Protocol:** Uninterrupted focus. External interrupts have high latency cost.
+### Morning Kernel Load
+* **Brain State:** Booting hardware drivers.
+* **Verbal Capacity:** Minimal. Smiles and grunts.
+* **Golden Rule:** Silently hand over warm caffeine. Hold complex planning and logistical interrogation until the caffeine is online.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-PHASE 3: SOCIAL & DECOMPRESSION (18:00+)
+PHASE 2: THE FLOW SPRINT (10:00 - 17:00)
 :::
-### Connection & Wind-Down
-* **Brain State:** Receptive, playful, and affectionate.
-* **Activity:** Shared dinners, silly banter, deep philosophical debates.
-* **Protocol:** Ideal window for intimacy and relationship check-ins.
+### Hyperfocus Flow State
+* **Brain State:** 150% capacity when engaged in novel/interesting work.
+* **Activity:** Connecting dots, coding, building systems, writing.
+* **Protocol:** Minimize abrupt context-switching.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PHASE 3: THE REBOUND CRASH (18:00+)
+:::
+### Low Battery Rebound
+* **Brain State:** Mental stack exhausted.
+* **Sensation:** High physical fatigue, sensory sensitivity.
+* **Protocol:** Cozy blankets, comforting food, zero demands for heavy decision-making.
+:::
+:::
+
+---
+
+## Executive Function Hack: The Structured Choice Protocol
+
+One of the most frequent friction points in relationships with ADHD specimens is the innocent question:  
+*"What do you feel like having for dinner?"*
+
+::: {.comic-panel}
+::: {.comic-caption}
+WHY OPEN-ENDED QUESTIONS CAUSE SYSTEM HANGS
+:::
+
+```
+[ Open Question: "What do you want to do/eat?" ]
+                      │
+                      ▼
+[ ADHD Processor Scans 10,000 Possibilities Simultaneously ]
+                      │
+                      ▼
+      [ EXECUTIVE DYSFUNCTION BUFFER OVERFLOW! ]
+                      │
+                      ▼
+            "I don't know, whatever."
+```
+
+::: {.callout-tip}
+## 💡 The Two-Choice Solution
+**Never ask an open-ended question when battery is low.** Instead, offer a structured binary choice:
+* ❌ *"What do you want to eat tonight?"*
+* ✅ *"Do you prefer pizza or Thai noodles tonight?"*
+* ❌ *"What should we do this weekend?"*
+* ✅ *"Do you feel more like a quiet movie night or an outdoor walk on Saturday?"*
+
+*This eliminates 95% of decision paralysis!*
 :::
 :::
 
@@ -52,69 +89,60 @@ PHASE 3: SOCIAL & DECOMPRESSION (18:00+)
 
 ## Safe Interruption Protocol: The Focus Bubble
 
-When Chris is deep inside a systems puzzle, his cognitive stack looks like this:
-
-```
-[ Mental Model: 14 Interconnected Variables ]
-       ↑
-  Do not abruptly pop the stack!
-```
+When Chris is immersed in a systems problem, his working memory holds dozens of interconnected variables:
 
 ::: {.callout-note}
-## 🤓 The Systems Interrupt Algorithm
-1. **Visual Ping:** Wave hand gently in peripheral vision or tap shoulder softly.
-2. **Buffer Flush:** Wait 5-10 seconds for Chris to save his mental state.
-3. **Gentle Inquiry:** *"Hey, when you reach a stopping point, could I grab you for a second?"*
-4. **Cheat Code:** Waving a cookie or snack instantly accelerates stack clearance by 400%.
+## 🤓 The Systems Interrupt Workflow
+1. **Visual Ping:** Enter his line of sight or gently touch his shoulder.
+2. **State Save Buffer:** Wait 5-10 seconds for him to save his mental model.
+3. **Low-Pressure Inquiry:** *"Hey, when you reach a natural stopping point, could I grab your thoughts on something?"*
+4. **Emergency Shortcut:** Waving a snack or pastry accelerates stack clearance by 400%.
 :::
 
 ---
 
-## Autonomy: The Non-Negotiable Environmental Setting
+## Autonomy: The Non-Negotiable Core
 
-From Chris's cognitive profile: **Autonomy is a core life necessity.**
+From Chris's personal notes: **Autonomy means agreeing with your actions.**
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-THE AUTONOMY EQUATION
+HOW TO NURTURE CHRIS'S AUTONOMY
 :::
 
-* **What Nurtures Chris:**  
-  Freedom to structure his time, explore creative ideas without micromanagement, and be trusted as a competent partner.
+* **What Makes Him Flourish:**  
+  Freedom to self-direct, creative ownership of tasks, and being trusted as a capable partner.
 
-* **What Causes Immediate Internal Friction:**  
-  Rigid arbitrary rules, being told *how* to do a task rather than *what* needs achieving, or feeling emotionally boxed in.
+* **What Triggers Immediate Resistance:**  
+  Arbitrary micromanagement, rigid timetables with no clear purpose, or feeling that a partner is trying to control his pace.
 
-::: {.callout-tip}
-## 💡 Pro-Tip for Autonomy Harmony
-Collaborate on shared goals (*"Let's make sure the kitchen is reset before bed"*), but grant 100% architectural freedom on *how* Chris organizes his side of the execution!
-:::
+> **💡 Best Practice:** Align on the *destination* together (*"Let's get the house cozy for guests"*), but grant complete freedom on the *journey* (*how Chris executes his part*).
 :::
 
 ---
 
-## Dietary Fuel & The Hangry Curve
+## Dietary Guidelines & The Hangry Curve
 
-Hunger directly impacts cognitive performance and emotional bandwidth.
+Hunger accelerates mental fatigue and lowers frustration tolerance rapidly:
 
 ```
-Patience / Bandwidth
+Patience Level
    ^
 100|  (Full & Playful) ──────┐
- 75|                         │  <- "What do you feel like eating?" (Safe zone)
+ 75|                         │  <- Safe: Receptive to conversation
  50|                         └───┐
- 25|                             └───┐ <- "I don't care, you pick" (Warning zone)
-  0|_________________________________└───> (HANGRY 404: IMMEDIATE INTERVENTION NEEDED)
-    0hr    2hr      4hr     6hr     8hr  Time Elapsed Since Meal
+ 25|                             └───┐ <- Warning: Decision fatigue setting in
+  0|_________________________________└───> (HANGRY 404: CRISIS PROTOCOL)
+    0hr    2hr      4hr     6hr     8hr  Time Since Last Sustenance
 ```
 
 ### Approved Sustenance Matrix
 
-| Fuel Category | Approved Selections | High-Hazard Avoid |
+| Category | High-Value Fuel 🌟 | Avoid at All Costs 🚫 |
 |:---|:---|:---|
-| **Caffeine Unit** | `[ Quality coffee, espresso, oat flat white, tea ]` | Lukewarm stale instant coffee |
-| **Emergency Rations** | `[ Dark chocolate, nuts, fruit, crisps, bakery treats ]` | Food items requiring 45 min prep when already starving |
-| **Comfort Feasts** | `[ Pizza, Thai curry, hearty pasta, fresh bowls ]` | Bland meals stripped of all flavor and joy |
+| **Caffeine Unit** | Quality coffee, espresso, oat flat white, fresh tea | Lukewarm instant coffee sludge |
+| **Quick Emergency Rations** | Dark chocolate, salted nuts, fresh fruit, pastries | Meals requiring 45 minutes of complex prep when already starving |
+| **Comfort Feasts** | Pizza, Thai curry, savory bowls, hearty pasta | Bland food devoid of seasoning and joy |
 
 ---
 
@@ -122,12 +150,12 @@ Patience / Bandwidth
 
 ::: {.form-box}
 ::: {.comic-caption}
-OPTIMAL ENVIRONMENT CONFIGURATION
+OPTIMAL HABITAT CONFIGURATION
 :::
 
 * **Thermostat Ideal:** <span class="fill-blank-line" style="min-width:200px;"></span> *(Default: 20°C - 22°C)*
-* **Lighting Style:** Warm indirect lighting & lamps &nbsp;|&nbsp; Natural daylight &nbsp;|&nbsp; Dark mode
-* **Acoustic Background:** Lo-fi beats / Ambient electronic &nbsp;|&nbsp; Total quiet &nbsp;|&nbsp; Podcasts
-* **The Comfort Sanctuary:** Where does Chris recharge best?  
-  <div class="fill-blank-area">[ Click edit or write here: Favorite armchair, bed with 4 blankets, walk outside... ]</div>
+* **Lighting Style:** Warm ambient lamps / fairy lights &nbsp;|&nbsp; Natural daylight &nbsp;|&nbsp; Dark mode
+* **Acoustic Profile:** Lo-fi beats / ambient electronic &nbsp;|&nbsp; Total quiet &nbsp;|&nbsp; Podcasts
+* **The Designated Crash Sanctuary:** Where does Chris recharge best?  
+  <div class="fill-blank-area">A cozy corner of the couch with warm lighting, soft blankets, water, and zero pressure to perform.</div>
 :::

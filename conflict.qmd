@@ -2,19 +2,19 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-SYSTEM ALERT: INCIDENT RESPONSE & DE-ESCALATION
+SYSTEM ALERT: INCIDENT MANAGEMENT & DE-ESCALATION
 :::
 
 ::: {.speech-bubble}
-*"Ongoing conflict is an ENFP's kryptonite. Chris will go to immense lengths to restore harmony, but doing so effectively requires knowing how his diagnostic processor handles stress."*
+*"Ongoing conflict is an ENFP's kryptonite. Chris will go to immense lengths to restore harmony, but effective resolution requires knowing how his diagnostic processor handles emotional friction."*
 :::
 :::
 
 ---
 
-## The Error Code Directory
+## Relationship Error Directory
 
-When unusual friction, silence, or tension occurs, consult the following diagnostic table:
+When friction or distress occurs, reference these diagnostic signatures:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
@@ -22,29 +22,29 @@ When unusual friction, silence, or tension occurs, consult the following diagnos
 ERROR 404: HANGRY
 :::
 ### Fuel Depletion Crisis
-* **Symptoms:** Short replies, sighing, impatience over minor details.
+* **Symptoms:** Short replies, sighing, sudden impatience over tiny obstacles.
 * **Root Cause:** Blood glucose at critical low.
-* **Resolution:** Zero debates. Provide food immediately. Recalibrate in 20 minutes.
+* **Resolution:** Zero debates. Administer carbohydrates and water immediately. Recalibrate in 20 minutes.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption-cyan}
-ERROR 422: INVALID LOGIC
+ERROR 422: UNHEARD SIGNALS
 :::
-### Fabricated Certainty Collision
-* **Symptoms:** Intense debate mode, cross-examination, refusal to concede.
-* **Root Cause:** Sensed inconsistency, unfair assumption, or gaslighting.
-* **Resolution:** Return to objective facts. Admit uncertainties honestly.
+### Ignored Boundary / Dismissal
+* **Symptoms:** Deep withdrawal, emotional resignation, quiet sorrow.
+* **Root Cause:** Chris feels he explicitly stated a need, but was ignored or dismissed.
+* **Resolution:** Validate and listen: *"I realize I brushed off what you asked for. I am listening now, please tell me."*
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption-yellow}
-ERROR 503: TURBULENT SPIRAL
+ERROR 503: RSD SPIRAL
 :::
-### Overthinking Kernel Panic
-* **Symptoms:** Replaying interactions, asking *"Are you mad at me?"*, withdrawing.
-* **Root Cause:** Fear of emotional rupture or being misunderstood.
-* **Resolution:** Firm, loving reassurance: *"I love you. We are okay. Let's talk."*
+### Rejection Sensitive Overload
+* **Symptoms:** Hyperfocusing on negative self-worth, asking *"Are you mad at me?"*, feeling like a burden.
+* **Root Cause:** Perceived criticism interpreted as emotional abandonment.
+* **Resolution:** Physical presence + verbal grounding: *"You are safe with me. We are good. I love you."*
 :::
 :::
 
@@ -60,23 +60,23 @@ When an argument flares up, follow this de-escalation workflow:
                    ▼
   ┌─────────────────────────────────┐
   │   1. Ground the Bond First      │  <- Say: "I love you and we are on the same team."
-  └────────────────┬────────────────┘     (Disables the ENFP-T panic response)
+  └────────────────┬────────────────┘     (Disarms the ENFP-T panic response)
                    │
                    ▼
   ┌─────────────────────────────────┐
-  │    2. Check Biological State    │  <- Hungry? Exhausted? Overstimulated?
+  │    2. Check Biological State    │  <- Hungry? Exhausted? Sensory overload?
   └────────────────┬────────────────┘     (Take a 15-minute breather if needed)
                    │
                    ▼
   ┌─────────────────────────────────┐
   │  3. Deconstruct the System      │  <- "You & Chris vs. The Problem"
-  └─────────────────────────────────┘     (Identify the rule or miscommunication)
+  └─────────────────────────────────┘     (Solve the underlying mechanism together)
 ```
 
 ::: {.callout-important}
 ## 📌 The Cardinal Principle of Healthy Conflict
 Remember: It is never **You vs. Chris**. It is always **You & Chris vs. The Problem**.  
-Framing a conflict as a shared systems puzzle to solve together brings out Chris's best collaborative instincts.
+Framing a disagreement as a shared systems puzzle to analyze and improve brings out Chris's best collaborative instincts.
 :::
 
 ---
@@ -88,8 +88,8 @@ How Chris processes apologies and repairs connection:
 | What Reconnects Us 🌟 | What Extends the Glitch 🚫 |
 |:---|:---|
 | **Direct ownership:** *"I'm sorry for reacting sharply, that wasn't fair to you."* | **Deflection:** *"I wouldn't have snapped if you hadn't done X."* |
-| **Intellectual honesty:** Acknowledging the actual impact without excuses. | **Fabricated certainty:** *"I never said that!"* when you both know you did. |
-| **Validating the emotion:** *"I understand why you felt misunderstood."* | **Invalidation:** *"You're being way too sensitive."* |
+| **Intellectual honesty:** Acknowledging the actual impact without excuses. | **Fabricated certainty:** Denying what actually happened to save face. |
+| **Validating the emotion:** *"I understand why you felt ignored, and I'm sorry."* | **Minimization:** *"You're making a huge deal out of nothing."* |
 | **Physical reconnection:** A warm, lingering hug once tempers settle. | **Cold stonewalling:** Walking away for hours without saying when you'll return. |
 
 ---
@@ -102,14 +102,14 @@ POST-INCIDENT CALIBRATION
 :::
 
 * **When Chris is upset, the most helpful response is:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Give me 15 minutes of quiet, then give me a hug and ask me to explain what I'm feeling... ]</div>
+  <div class="fill-blank-area">Give 15 minutes of calm space to decompress, then approach with a gentle hug and an invitation to speak without judgment: "I'm listening and I want to understand."</div>
 
 * **When Chris is upset, the absolute WORST thing to do is:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Accuse me of bad intentions or shut down communication entirely... ]</div>
+  <div class="fill-blank-area">Accuse him of bad intentions, dismiss his expressed needs, or shut down communication completely with cold silent treatment.</div>
 
-* **Our agreed cooldown period before resuming tricky talks:**  
+* **Our agreed cooldown period before resuming tricky discussions:**  
   * Target duration: <span class="fill-blank-line" style="min-width:250px;"></span> *(Default: 20 - 30 minutes)*
 
-* **Our official peace offering treaty food:**  
+* **Our official peace treaty food:**  
   * Specific treat: <span class="fill-blank-line" style="min-width:250px;"></span>
 :::

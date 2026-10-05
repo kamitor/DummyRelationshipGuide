@@ -2,11 +2,11 @@
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-DOSSIER CLASSIFIED: SPECIMEN SPECIFICATION
+DOSSIER CLASSIFIED: SPECIMEN ARCHITECTURE
 :::
 
 ::: {.speech-bubble}
-*"You are looking at a rare configuration: a human possessing the boundless warmth and visionary curiosity of an **ENFP-T (Turbulent Campaigner)**, coupled with the rigorous mind of a **Systems Builder**. Handle with love, intellectual honesty, and regular snacks."*
+*"You are looking at a remarkable, one-of-a-kind configuration: **Chris Kamitor**. Powered by an **ENFP-T (Turbulent Campaigner)** heart, a **Systems Builder** intellect, and an **ADHD Interest-Based Operating System**. Handle with radical honesty, structured options, and unconditional affection."*
 :::
 :::
 
@@ -14,103 +14,112 @@ DOSSIER CLASSIFIED: SPECIMEN SPECIFICATION
 
 ## Technical Specifications & Architecture
 
-| Specification | Factory Architecture | Calibration Notes |
+| Specification | Hardware & Firmware Baseline | Relationship Implications |
 |:---|:---|:---|
-| **Model Designation** | Chris 1.0 (Humanoid Build) | Nicknames: `[ Enter Nicknames ]` |
-| **MBTI Archetype** | **ENFP-T** (Turbulent Campaigner) | Diplomat Role: Intuitive & Empathetic |
-| **Cognitive Framework** | **The Systems Builder** | Deconstructs mechanisms into core rules |
-| **Primary Drives** | Autonomy, Connection, Intellectual Coherence | Needs freedom to explore and build |
-| **Tolerance for Fake Certainty** | **0.0%** (Strictly Rejects Pretending) | Values *"I don't know, let's find out"* |
-| **Recharge Cycle** | 7 - 8.5 Hours + Solitude Buffer | Recharges in quiet, unpressured space |
-| **Primary Fuel Source** | Coffee & High-Density Brain Snacks | Blood sugar drops trigger Error 404 |
+| **Designation** | Chris Kamitor (Model 1.0) | Nicknames: Kamitor, Chris |
+| **MBTI Archetype** | **ENFP-T** (Turbulent Campaigner) | Visionary, deeply empathetic, highly romantic |
+| **Cognitive Framework** | **The Systems Builder** | Maps world as: *Components → Rules → System* |
+| **Neurological Engine** | **ADHD (Interest-Based Engine)** | Fires on **Novelty, Urgency & Interest** |
+| **Tolerance for Fake Certainty** | **0.0%** (Strict Zero-Tolerance) | Craves authenticity over manufactured facade |
+| **Core Vulnerability** | **Sensitivity to Being Ignored or Forgotten** | Deep need to be heard and valued for who he is |
+| **Recharge Dynamics** | Variable: High burst energy followed by low-power hibernation | Requires unpressured recovery time |
 
 ---
 
-## The Core Cognitive Engine: The Systems Loop
+## The Neurological Core: How Chris's Engine Fires
 
-Unlike purely linear thinkers or purely emotional feelers, Chris perceives the world as an interconnected web of dependencies:
-
-```
-  [ Components ]
-        ↓
-  [ Relationships ]
-        ↓
-  [ Dependencies ]
-        ↓
-  [ Rules & Mechanisms ]
-        ↓
-  [ Emergent System ]
-        ↓
-  [ Observable Behavior ]
-```
+Traditional operating systems run on "importance" and "willpower." **Chris's engine does not.**
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-THE CHRIS ALGORITHM
+THE ADHD MOTIVATION BRIDGE: 3 TRIGGERS
 :::
-> **Understand the system → Decompose it → Identify the rules → Modify it → Test it → Improve it → Make it understandable to others.**
 
-Chris is never satisfied with merely getting an outcome by accident. He needs to know **why the outcome happened** and **whether the underlying mechanism is true, fair, and coherent**.
+Chris's brain activates on three specific biochemical triggers:
+
+```
+  ┌──────────────┐     ┌──────────────┐     ┌───────────────────┐
+  │   NOVELTY    │  +  │   URGENCY    │  +  │ PERSONAL INTEREST │
+  └──────────────┘     └──────────────┘     └───────────────────┘
+                             │
+                             ▼
+                 [ 400% HYPERFOCUS UNLOCKED! ]
+```
+
+* **Importance alone never fires the engine:** Telling Chris *"You should do this because it's important"* produces zero dopamine.
+* **The Environment Fix:** Changing the context (a new spot, a countdown timer, or reframing a chore as an interesting game) restarts the engine instantly!
+* **Interest-Cycling is a Feature, Not a Flaw:** Dropping a hobby or project when novelty fades isn't failure—it's his exploratory operating mode. He will cycle back when fresh angles emerge.
 :::
 
 ---
 
-## Superpowers & Factory Defaults
+## The Cognitive Engine: The Systems Builder
+
+Chris perceives every interaction, relationship, and organization as an interconnected network:
+
+```
+Components ──> Relationships ──> Dependencies ──> Rules ──> System ──> Behavior
+```
+
+> **The Chris Algorithm:**  
+> *Understand the system → Decompose it → Identify the rules → Modify it → Test it → Improve it → Make it understandable to others.*
+
+Chris is never satisfied with surface outcomes. He seeks to know **why something happened and whether the underlying mechanism is honest, fair, and healthy.**
+
+---
+
+## Superpowers & Built-In Assets
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-SUPERPOWER 01: THE VISIONARY
+SUPERPOWER 01: TRANSLATION LAYER
 :::
-### Boundless Openness & Curiosity
-High openness to novel ideas, spontaneous adventures, and deep late-night philosophy. Chris sees potential where others see obstacles.
-:::
-
-::: {.comic-panel}
-::: {.comic-caption}
-SUPERPOWER 02: RADICAL EMPATHY
-:::
-### The Ultimate Cheerleader
-As an ENFP, Chris has an uncanny radar for other people's dreams. He will believe in your potential even when you doubt yourself.
+### The Universal Bridge
+Chris effortlessly translates between complex technical systems and human emotional realities. He brings people together and makes complicated things feel accessible.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-SUPERPOWER 03: INTELLECTUAL HONESTY
+SUPERPOWER 02: THE VISIONARY SHAMAN
 :::
-### Low Tolerance for BS
-Chris seeks genuine competence and truth. He loves when people are authentic, admit what they don't know, and explore solutions together.
+### Empathy & Life-Giving Energy
+As his closest mentors have noted: *Chris brings life to places.* He has an uncanny radar for potential, championing his partner's dreams with infectious belief.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+SUPERPOWER 03: HYPERFOCUS SPRINT
+:::
+### Unstoppable Problem-Solving
+When an interesting puzzle aligns with novelty and care, Chris can solve in 3 hours what would take standard systems two weeks.
 :::
 :::
 
 ---
 
-## Undocumented Quirks (Features, Not Bugs!)
+## Quirks & Vulnerabilities (Understand, Don't Panic!)
 
-Every advanced operating system comes with unique quirks. Knowing them in advance will save you hours of confusion:
+::: {.callout-important}
+## 📌 Quirk #1: Deep Sensitivity to Being Ignored or Misunderstood
+Chris pours immense heart into understanding others, but he can struggle to lay out his own needs. When he *does* communicate what he needs, having it brushed aside or forgotten is devastating.
 
-::: {.callout-note}
-## 🤓 Quirk #1: The Hyperfixation Deep Dive
-When Chris encounters a compelling system, game, technology, or topic, expect intense focus and rapid knowledge acquisition. 
-
-* **Symptoms:** 30 browser tabs open, spontaneous mini-lectures, eyes glowing with excitement.
-* **Pro-Tip:** Ask questions! Seeing someone engage with his current passion is one of the quickest ways to Chris's heart.
+* **Golden Directive:** Listen actively. Do not dismiss his expressed needs as "too much" or ignore them. Say: *"I hear you, what you need matters to me."*
 :::
 
 ::: {.callout-warning}
-## ⚠️ Quirk #2: Sensitivity to Being Misunderstood or Forgotten
-Because Chris invests deeply in relationships and systems, feeling dismissed, misunderstood, or forgotten hits his emotional firmware hard.
+## ⚠️ Quirk #2: The Imposter / Turbulent (-T) Overthinking Loop
+Under high load or post-conflict, Chris can hyperfocus on negative self-talk (*"Am I doing enough? Am I disappointing people?"*). 
 
-* **Trigger:** Casual brushing off of an idea he deeply cares about, or unanswered messages during moments of vulnerability.
-* **Remedy:** Reassure with presence: *"I hear you, I care about what you're saying, let's talk about it."*
+* **Reality Check:** Chris consistently pleases and helps far more people than he ever realizes.
+* **The Magic Remedy:** Explicit reassurance. Tell him: *"You are more than enough, I see how hard you try, and you are loved."*
 :::
 
 ::: {.callout-tip}
-## 💡 Quirk #3: The "Turbulent (-T)" Introspection Loop
-The Turbulent trait means Chris is highly conscientious and self-reflective. He deeply cares about doing the right thing and being a good partner, which sometimes leads to overthinking:
+## 💡 Quirk #3: Low-Stimulation Task Paralysis
+Mundane, repetitive domestic chores (folding laundry, endless paperwork) trigger chemical resistance in the ADHD brain.
 
-* **Internal monologue:** *"Did I phrase that clumsily? Are they secretly frustrated with me?"*
-* **Remedy:** Explicit words of affirmation! A simple *"I love you and we're totally good"* dissolves 99% of internal background loops.
+* **The Hack:** Turn it into a shared activity! Put on an engaging podcast, play a timer game, or do it together. Body doubling works like magic.
 :::
 
 ---
@@ -119,18 +128,14 @@ The Turbulent trait means Chris is highly conscientious and self-reflective. He 
 
 ::: {.form-box}
 ::: {.comic-caption}
-CUSTOM CALIBRATION WORKSHEET
+CALIBRATION PROFILE: CHRIS KAMITOR
 :::
 
-* **Preferred Aliases / Pet Names:** <span class="fill-blank-line" style="min-width:300px;"></span>
-* **Date of Origin / Birthday:** <span class="fill-blank-line" style="min-width:250px;"></span>
-* **Personality Matrix:** ENFP-T (Campaigner) & Systems Builder
-* **Three words that describe me at my best:**
-  1. <span class="fill-blank-line" style="min-width:180px;"></span>
-  2. <span class="fill-blank-line" style="min-width:180px;"></span>
-  3. <span class="fill-blank-line" style="min-width:180px;"></span>
-* **The quickest way to bring a smile to my face:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Bringing an unexpected treat, engaging with a creative idea... ]</div>
-* **My biggest communication pet peeve:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Pretending to know something when you don't, passive aggression... ]</div>
+* **Full Designation:** Chris Kamitor
+* **Archetype:** ENFP-T (Turbulent Campaigner) & Systems Builder
+* **Neurological Wiring:** ADHD (Interest-Based Activation)
+* **What Activates Him:** Novelty, collaborative brainstorming, shared laughter, meaningful impact
+* **What Deactivates Him:** Feeling unheard, fabricated certainty, micromanagement, sustained monotony
+* **The Quickest Way to Make Him Feel Cherished:**  
+  <div class="fill-blank-area">Actively asking about what he needs, engaging with his creative ideas, bringing a thoughtful snack, and offering a long, grounded hug.</div>
 :::
