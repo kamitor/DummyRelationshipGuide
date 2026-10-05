@@ -7,50 +7,56 @@ MEANWHILE, AT HEADQUARTERS...
 
 ## A Dummy Guide to Having a Relationship with Chris {style="margin-top:0;"}
 
-**The Unofficial, Illustrated Manual & Calibration Handbook for Navigating Life with an ENFP-T Systems Builder.**
+**The Unofficial, Illustrated Manual & Field Guide for His ENFJ Partner.**
 
 <div style="margin: 1.2rem 0;">
   <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Download Printable PDF Edition</a>
 </div>
 
 ::: {.speech-bubble}
-*"Congratulations! You are now in possession of one (1) complex human specimen designated **Chris** (call sign: **Lion** 🦁, Model: ENFP-T Campaigner & Systems Architect). Please read this manual carefully before attempting emotional firmware updates or administering early morning interactions."*
+*"Congratulations! You are now in possession of one (1) complex human specimen designated **Chris** (call sign: **Lion** 🦁, Model: ENFP-T Campaigner & Systems Architect). As his ENFJ partner, please read this manual carefully before attempting emotional firmware updates or administering early morning interactions."*
 :::
 :::
 
 ---
 
-## What is this Handbook?
+## Dear ENFJ Partner: Why This Handbook Exists
 
-Welcome to the **Dummy Guide to Having a Relationship with Chris**! Whether you are a partner, close friend, or curious co-pilot, this handbook exists to decode the mysteries, daily routines, communication protocols, and occasional error messages of the complex organism known as **Chris**.
+Welcome to your official field manual! Relationships rarely come with user instructions, but high-performance, neurodiverse human beings like **Chris** definitely require one.
 
-Chris operates at the unique intersection of two fascinating worlds:
-1. **The ENFP-T (Turbulent Campaigner):** Boundlessly curious, deeply empathetic, romantically imaginative, and constantly seeking meaningful connection.
-2. **The Systems Builder:** Driven to decompose complex realities into components, discover underlying rules, iterate solutions, and reject fabricated certainty.
+If you have ever found yourself asking:
+* *"Why did he say 'yes' to something on Tuesday and completely forget it by Saturday?"*
+* *"Why does he freeze up and stop communicating when I get intense or upset?"*
+* *"Why does our physical intimacy feel stalled, even though we love each other?"*
+* *"How can I get him to talk to me without walking into a wall of silence?"*
+
+**This book was written for YOU.** 
+
+It pulls back the curtain on how Chris's mind actually works: the intersection of his **ENFP-T heart**, his **ADHD dopamine engine**, and his **Systems Builder intellect**.
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
 PANEL 1: THE MISSION
 :::
-### Why Read This?
-Human relationships rarely come with an instruction booklet—until now. This book combines the straightforward wit of the classic *For Dummies* guides with the dynamic energy of comic strips. 
+### Built for Understanding
+You are an amazing, caring ENFJ who loves deeply. This guide translates his internal wiring into your language so you never have to guess or feel shut out again.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-PANEL 2: ENFP-T CALIBRATED
+PANEL 2: ZERO BLAME
 :::
-### Built from Real Data
-Pre-populated with real personality profiles, cognitive blueprints, and relationship dynamics, leaving modular slots for personal calibration.
+### A Shared Mirror
+Neither of you is broken. You are two Diplomats whose natural cognitive gears have been grinding against each other. This manual realigns the transmission!
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-PANEL 3: PRINT & SHARE
+PANEL 3: PRINT & KEEP
 :::
-### Digital & Print Ready
-Read it online anytime on GitHub Pages, or download and print the 20-page PDF edition to keep on the nightstand for rapid emergency consultations!
+### Keep It Handy
+Read it online anytime on GitHub Pages, or download and print the PDF copy to keep on your nightstand for rapid relationship tune-ups!
 :::
 :::
 
@@ -62,42 +68,42 @@ Throughout this handbook, you will encounter classic *Dummies* and comic callout
 
 ::: {.callout-tip}
 ## 💡 Pro-Tip / Cheat Code
-Actionable advice to maximize relationship harmony, unlock bonus conversation points, or navigate Chris's rapid idea storms.
+Actionable tactical advice for how YOU (the ENFJ partner) can get the best possible response from Chris with minimal friction.
 :::
 
 ::: {.callout-warning}
 ## ⚠️ Danger Zone / Tread Lightly
-High-risk behaviors, phrases that trigger shutdown, and critical hangry/overthinking indicators. Proceed with extreme care.
+High-risk behaviors, phrases that trigger an instant Lion freeze-up, and critical hangry indicators. Proceed with extreme care.
 :::
 
 ::: {.callout-note}
 ## 🤓 Technical Stuff / Firmware Specs
-Deep dives into Chris's cognitive architecture: systems thinking, iterative logic, and ENFP-T emotional feedback loops.
+Deep dives into Chris's cognitive architecture: ADHD time-blindness, executive function realities, and Systems Builder logic.
 :::
 
 ::: {.callout-important}
 ## 📌 Remember / The Golden Rule
-Core tenets and non-negotiables: intellectual honesty, reassurance of connection, and zero fabricated certainty.
+Core tenets and non-negotiables: emotional safety, active listening, and zero fabricated certainty.
 :::
 
 ---
 
 ## Table of Contents Preview
 
-1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — The ENFP-T Systems Builder architecture, Lion call sign, and quirks.
-2. **[The Lion & The Protagonist](enfj-dynamic.qmd)** — The ENFP-T meets ENFJ dynamic: broken loops, promises, and safety.
-3. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — Energy waves, focus tunnels, caffeine protocols, and charging zones.
-4. **[Communication Protocols](communication.qmd)** — The Chris Cipher, intellectual honesty, active listening, and reassurance.
-5. **[Troubleshooting & Error Codes](conflict.qmd)** — Error 422 (Unheard Signals), Error 503 (RSD Spiral), and apology syntax.
-6. **[Intimacy & Safe Touch](intimacy.qmd)** — Rebuilding physical intimacy, the biology of arousal, and sensate focus.
-7. **[Special Features & Easter Eggs](easter-eggs.qmd)** — Deep hyperfixations, visionary cheerleader mode, travel styles, and inside jokes.
-8. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — The printable worksheet ready for your direct input!
-9. **[Warranty & Maintenance Schedule](summary.qmd)** — Periodic check-ins, return policies, emergency cards, and parting wisdom.
+1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — Understanding his ENFP-T Systems Builder architecture, Lion call sign, and ADHD engine.
+2. **[The Lion & The Protagonist](enfj-dynamic.qmd)** — Why you two keep colliding, why he fears communicating when you overreact, and how to stop the cycle.
+3. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — Managing his energy waves, the Two-Choice Protocol (how to ask about dinner without causing a freeze), and The Lion's Den.
+4. **[Communication Protocols](communication.qmd)** — How to make it safe for him to speak. Active listening, the zero-fabricated-certainty rule, and the RSD shield.
+5. **[Troubleshooting & Error Codes](conflict.qmd)** — Error 422 (Unheard Signals), Error 503 (RSD Spiral), and how to apologize effectively.
+6. **[Intimacy & Safe Touch](intimacy.qmd)** — Why our bedroom stalled, the biology of male arousal under stress, and the 4-step ladder to rebuild passion.
+7. **[Special Features & Easter Eggs](easter-eggs.qmd)** — His hyperfixations (why he cycles hobbies and why you shouldn't shame him), travel mode, and secret joy triggers.
+8. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — A shared worksheet for you and Chris to fill out together over wine or tea!
+9. **[Warranty & Maintenance Schedule](summary.qmd)** — Your ongoing service guide to keeping your Lion purring for decades.
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-CUSTOMIZATION & ITERATION
+HOW TO USE THIS MANUAL
 :::
-> **✏️ Note for Chris & Partner:**  
-> This handbook is designed as an iterative living document. Fill in blanks, edit chapters in Git, or print out the calibration forms for an engaging shared date night activity!
+> **✏️ Note for the ENFJ Partner:**  
+> Read this book with curiosity, not defensiveness. Chris loves you deeply—he had this guide built because he wants you to understand his heart and brain, so you two can stop hurting each other and start thriving.
 :::
