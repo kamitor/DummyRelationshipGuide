@@ -1,161 +1,179 @@
-# Habitat, Feeding & Daily Cycles
+# Leefomgeving, Voeding & Dagritmes
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-SURVIVAL PROTOCOL: SUSTENANCE, AUTONOMY & RECHARGE
+DAGELIJKSE LEEFGIDS: ENERGIE, ROUTINES & OPLADEN
 :::
 
 ::: {.speech-bubble}
-*"To my ENFJ partner: Navigating life with Chris (the Lion 🦁) means understanding how his feline energy cycles interact with daily routines, hyperfocus hunts, and low-battery hibernation. Here is how to keep his habitat harmonious."*
+*"Aan Kirsten: Fijn samenleven betekent begrijpen hoe mijn energieritmes gedurende de dag lopen: de ochtendstilte, de diepe focus-sprints, en het herstel 's avonds op de bank."*
 :::
 :::
 
 ---
 
-## The Daily Energy Dynamics: Bursts vs. Rebound Crashes
+## Dagelijkse Energiegolven: Sprints & Herstel
 
-Chris does not operate on a smooth 9-to-5 battery curve. His energy comes in intense hyperfocus surges followed by physical decompression:
+Mijn energie werkt niet als een gelijkmatige 9-tot-5 batterij. Het komt in geconcentreerde golven gevolgd door echte hersteltijd:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-PHASE 1: THE SOFT BOOT (0 - 45 MIN)
+FASE 1: HET LANGZAME ONTWAKEN (EERSTE 45 MIN)
 :::
-### Morning Kernel Load
-* **Brain State:** Booting hardware drivers.
-* **Verbal Capacity:** Minimal. Smiles and grunts.
-* **Golden Rule:** Silently hand over warm caffeine. Hold complex planning and logistical interrogation until the caffeine is online.
-:::
-
-::: {.comic-panel}
-::: {.comic-caption}
-PHASE 2: THE FLOW SPRINT (10:00 - 17:00)
-:::
-### Hyperfocus Flow State
-* **Brain State:** 150% capacity when engaged in novel/interesting work.
-* **Activity:** Connecting dots, coding, building systems, writing.
-* **Protocol:** Minimize abrupt context-switching.
+### Ochtendopwarming
+* **Gemoedstoestand:** Langzaam wakker worden, laag verbaal tempo.
+* **Communicatie:** Glimlachen, zachtjes begroeten, trage informatieverwerking.
+* **Beste Benadering:** Bied een warme koffie of thee aan. Bewaar ingewikkelde planningen, agenda's en logistieke vragen tot de cafeïne is geland.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-PHASE 3: THE REBOUND CRASH (18:00+)
+FASE 2: DE FOCUS-SPRINT (MIDDAG)
 :::
-### Low Battery Rebound
-* **Brain State:** Mental stack exhausted.
-* **Sensation:** High physical fatigue, sensory sensitivity.
-* **Protocol:** Cozy blankets, comforting food, zero demands for heavy decision-making.
+### Flow-Toestand
+* **Gemoedstoestand:** Hoge focus en enthousiasme bij creatieve vraagstukken of systemen.
+* **Activiteit:** Verbanden leggen, bouwen, schrijven, complexe puzzels oplossen.
+* **Beste Benadering:** Geef even een vooraankondiging voor plotselinge koerswijzigingen.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+FASE 3: DE AVOND-RESET (NA HET WERK)
+:::
+### Batterij Herladen
+* **Gemoedstoestand:** Mentale energie voor de dag is verbruikt.
+* **Behoefte:** Verlangt naar comfort, rust en fysieke ontspanning.
+* **Beste Benadering:** Zachte dekens, lekker eten, en nul druk om ingewikkelde beslissingen te nemen.
 :::
 :::
 
 ---
 
-## Executive Function Hack: The Structured Choice Protocol
+## Eten & Beslissingen: De Tweekeuzeregel
 
-One of the most frequent friction points in relationships with ADHD specimens is the innocent question:  
-*"What do you feel like having for dinner?"*
+Een klassiek moment van relatie-frictie bij ADHD is de schijnbaar onschuldige vraag:  
+*"Wat zullen we vanavond eten?"*
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-WHY OPEN-ENDED QUESTIONS CAUSE SYSTEM HANGS
+WAAROM OPEN VRAGEN LEIDEN TOT EEN BESLISSINGSFREEZE
 :::
 
 ```
-[ Open Question: "What do you want to do/eat?" ]
-                      │
-                      ▼
-[ ADHD Processor Scans 10,000 Possibilities Simultaneously ]
-                      │
-                      ▼
-      [ EXECUTIVE DYSFUNCTION BUFFER OVERFLOW! ]
-                      │
-                      ▼
-            "I don't know, whatever."
+[ Open vraag: "Wat wil je vanavond eten / doen?" ]
+                       │
+                       ▼
+[ ADHD-brein scant 50 opties tegelijkertijd ]
+                       │
+                       ▼
+             [ KEUZE-OVERLOAD ]
+                       │
+                       ▼
+            "Weet ik niet... maakt niet uit."
 ```
 
 ::: {.callout-tip}
-## 💡 The Two-Choice Solution
-**Never ask an open-ended question when battery is low.** Instead, offer a structured binary choice:
-* ❌ *"What do you want to eat tonight?"*
-* ✅ *"Do you prefer pizza or Thai noodles tonight?"*
-* ❌ *"What should we do this weekend?"*
-* ✅ *"Do you feel more like a quiet movie night or an outdoor walk on Saturday?"*
+## 💡 De Tweekeuze-Oplossing
+Als de mentale batterij leeg raakt, voorkomt het aanbieden van twee specifieke opties alle keuzestress:
+* In plaats van: *"Wat wil je eten vanavond?"*  
+  Probeer: *"Zullen we vanavond pizza halen of Thaise noedels maken?"*
+* In plaats van: *"Wat gaan we dit weekend doen?"*  
+  Probeer: *"Heb je zaterdag meer zin in een lange wandeling of een knusse filmavond op de bank?"*
 
-*This eliminates 95% of decision paralysis!*
+Het kader verkleinen maakt antwoorden makkelijk en ontspannen.
 :::
 :::
 
 ---
 
-## Safe Interruption Protocol: The Focus Bubble
+## Zachte Onderbrekingen: De Focus-Bubbel
 
-When Chris is immersed in a systems problem, his working memory holds dozens of interconnected variables:
+Wanneer ik diep in een project of probleem zit, houdt mijn hoofd tientallen bewegende radartjes tegelijk vast:
 
 ::: {.callout-note}
-## 🤓 The Systems Interrupt Workflow
-1. **Visual Ping:** Enter his line of sight or gently touch his shoulder.
-2. **State Save Buffer:** Wait 5-10 seconds for him to save his mental model.
-3. **Low-Pressure Inquiry:** *"Hey, when you reach a natural stopping point, could I grab your thoughts on something?"*
-4. **Emergency Shortcut:** Waving a snack or pastry accelerates stack clearance by 400%.
+## 🤓 Hoe Je Mijn Aandacht Soepel Trekt
+1. **Visueel Signaal:** Loop in mijn gezichtsveld of leg zachtjes een hand op mijn schouder.
+2. **Korte Buffer:** Geef me 5 tot 10 seconden om een 'bladwijzer' in mijn gedachten te plaatsen.
+3. **Laagdrempelige Vraag:** *"Als je zo een goed pauzemoment hebt, mag ik je dan iets vragen?"*
+4. **Directe Bonus:** Een snack of verse thee neerzetten levert direct een grote glimlach op.
 :::
 
 ---
 
-## Autonomy: The Non-Negotiable Core
+## Autonomie: Instemmen met Wat Je Doet
 
-From Chris's personal notes: **Autonomy means agreeing with your actions.**
+Autonomie betekent dat je oprecht achter je acties staat, in plaats van je ertoe gedwongen of gecommandeerd te voelen.
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-HOW TO NURTURE CHRIS'S AUTONOMY
+TEAMWORK & VRIJHEID KOESTEREN
 :::
 
-* **What Makes Him Flourish:**  
-  Freedom to self-direct, creative ownership of tasks, and being trusted as a capable partner.
+* **Wat Ons Helpt Bloeien:**  
+  Vrijheid om zelf de route te bepalen, elkaar vertrouwen als capabele gelijken, en gedeeld creatief eigenaarschap.
+* **Wat Wrijving Geeft:**  
+  Micromanagement, haast om willekeurige redenen, of het gevoel dat iemand je tempo controleert.
 
-* **What Triggers Immediate Resistance:**  
-  Arbitrary micromanagement, rigid timetables with no clear purpose, or feeling that a partner is trying to control his pace.
+> **💡 De Beste Aanpak:** Word het samen eens over het doel (*"Laten we de woonkamer gezellig maken voor de gasten komen"*), maar geef elkaar de ruimte om ieders deel op eigen wijze in te vullen.
+:::
 
-> **💡 Best Practice:** Align on the *destination* together (*"Let's get the house cozy for guests"*), but grant complete freedom on the *journey* (*how Chris executes his part*).
+### Huishoudelijke Frictiepunten: Het Vuilnis & De Was
+
+Repetitieve onderhoudstaken zijn het lastigst voor een ADHD-brein, en twee specifieke klussen zorgen weleens voor spanning:
+* **Vuilnis wegbrengen:** Een volle bak verdwijnt voor Simba op magische wijze in de visuele achtergrond tot het benoemd wordt.
+* **De was doen:** De was is een reis in meerdere etappes (sorteren, wassen, drogen, vouwen) waarbij Simba vaak strandt tussen de stappen.
+
+::: {.callout-tip}
+## 💡 Vuilnis en Was Zonder Wrijving
+* **De Visuele Prikkel:** De zak bij de voordeur zetten of een kort appje sturen werkt vele malen beter dan een mondelinge terloopse herinnering.
+* **Samen Doen:** De was samen opvouwen terwijl we kletsen of muziek luisteren halveert de taakweerstand.
 :::
 
 ---
 
-## Dietary Guidelines & The Hangry Curve
+## Eten, Brandstof & De Hangry-Curve
 
-Hunger accelerates mental fatigue and lowers frustration tolerance rapidly:
+Maaltijden overslaan sloopt het geduld en vergroot irritatie exponentieel:
 
 ```
-Patience Level
+Geduldsniveau
    ^
-100|  (Full & Playful) ──────┐
- 75|                         │  <- Safe: Receptive to conversation
- 50|                         └───┐
- 25|                             └───┐ <- Warning: Decision fatigue setting in
-  0|_________________________________└───> (HANGRY 404: CRISIS PROTOCOL)
-    0hr    2hr      4hr     6hr     8hr  Time Since Last Sustenance
+100|  (Gevoed & Speels) ──────┐
+ 75|                          │  <- Prima: Ontvankelijk en vrolijk
+ 50|                          └───┐
+ 25|                              └───┐ <- Waarschuwing: Draait op dampen
+  0|__________________________________└───> (HANGRY: DIRECT ETEN NODIG)
+     0u     2u       4u      6u      8u   Tijd Sinds Laatste Maaltijd
 ```
 
-### Approved Sustenance Matrix
+### Brandstofgids
 
-| Category | High-Value Fuel 🌟 | Avoid at All Costs 🚫 |
+| Categorie | Vaste Favorieten 🌟 | Te Vermijden 🚫 |
 |:---|:---|:---|
-| **Caffeine Unit** | Quality coffee, espresso, oat flat white, fresh tea | Lukewarm instant coffee sludge |
-| **Quick Emergency Rations** | Dark chocolate, salted nuts, fresh fruit, pastries | Meals requiring 45 minutes of complex prep when already starving |
-| **Comfort Feasts** | Pizza, Thai curry, savory bowls, hearty pasta | Bland food devoid of seasoning and joy |
+| **Koffie & Dranken** | Goede koffie, espresso; of de blender aanzetten voor verse mocktails en sappen! | Lauwe oploskoffie-prut |
+| **Noodsnacks** | Pure chocolade, gezouten noten, fruit, verse baksels | Honger laten oplopen tot de bloedsuikerspiegel instort |
+| **Comfort Food** | Pizza, smaakvolle Thaise curry, ramen, rijke pasta (of wat Chef Leeuw brouwt) | Flauwe hap zonder kruiden of passie |
+
+::: {.callout-warning}
+## ⚠️ Het Mysterie van de Open Deuren
+Voor Kirsten's Schoudereekhoorn is een open binnendeur een onbegrijpelijke storing in de huiselijke orde. Voor Chris is door een deuropening lopen zonder achterom te kijken een automatische reflex.
+* **Chris's Belofte:** Ik oefen actief op achterom kijken om de binnendeuren te sluiten zodat de eekhoorn niet schrikt.
+* **Kirsten's Snelkoppeling:** Een vriendelijke, glimlachende roep van *"Deur, Simba!"* sluit hem direct zonder oplopende frustratie.
+:::
 
 ---
 
-## Habitat Settings & Habitat Checklist
+## Leefomgeving & Voorkeuren
 
 ::: {.form-box}
 ::: {.comic-caption}
-OPTIMAL HABITAT CONFIGURATION
+LEEFOMGEVING VOORKEUREN
 :::
 
-* **Thermostat Ideal:** <span class="fill-blank-line" style="min-width:200px;"></span> *(Default: 20°C - 22°C)*
-* **Lighting Style:** Warm ambient lamps / fairy lights &nbsp;|&nbsp; Natural daylight &nbsp;|&nbsp; Dark mode
-* **Acoustic Profile:** Lo-fi beats / ambient electronic &nbsp;|&nbsp; Total quiet &nbsp;|&nbsp; Podcasts
-* **The Lion's Den (Designated Crash Sanctuary):** Where does Lion recharge best?  
-  <div class="fill-blank-area">A cozy corner of the couch with warm lighting, soft blankets, water, and zero pressure to perform.</div>
+* **Ideale Temperatuur:** <span class="fill-blank-line" style="min-width:200px;"></span> *(Rond 20°C tot 22°C)*
+* **Verlichting:** Warme lampen, lichtsnoeren, zachte amberkleurige gloed
+* **Geluid:** Rustige instrumentale muziek, vredige sfeer, of een boeiende podcast
+* **Het Bank-Toevluchtsoord:** Waar de Leeuw het beste oplaadt:  
+  <div class="fill-blank-area">Een knusse hoek van de bank met een zachte deken, warm licht, een lekker drankje binnen handbereik, nul prestatiedruk, en volop zachte aaitjes over het hoofd.</div>
 :::

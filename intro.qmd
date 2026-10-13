@@ -1,154 +1,163 @@
-# Meet the Specimen: Chris 1.0
+# Maak Kennis met Chris: De Gebruiksaanwijzing
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-DOSSIER CLASSIFIED: SPECIMEN ARCHITECTURE
+DOSSIER: BASISPROFIEL
 :::
 
 ::: {.speech-bubble}
-*"You are looking at a remarkable, one-of-a-kind configuration: **Chris Kamitor**. Powered by an **ENFP-T (Turbulent Campaigner)** heart, a **Systems Builder** intellect, and an **ADHD Interest-Based Operating System**. Handle with radical honesty, structured options, and unconditional affection."*
+*"Hier is de basis van hoe ik in elkaar zit: een **ENFP-T (Campagnevoerder)** hart, een **Systemenbouwer** brein, en een **ADHD-motor** die draait op nieuwsgierigheid en nieuwheid. Het beste te benaderen met open eerlijkheid, duidelijke opties en volop genegenheid."*
 :::
 :::
 
 ---
 
-## Technical Specifications & Architecture
+## Basiseigenschappen & Hoe Ik Werk
 
-| Specification | Hardware & Firmware Baseline | Relationship Implications |
+| Eigenschap | Hoe Ik Ben Bedraad | Wat Dit Betekent Voor Ons |
 |:---|:---|:---|
-| **Designation** | Chris "Lion" Kamitor (Model 1.0) | Official Call Sign: **Lion** 🦁 |
-| **MBTI Archetype** | **ENFP-T** (Turbulent Campaigner) | Visionary, fiercely loyal, deeply romantic |
-| **Cognitive Framework** | **The Systems Builder** | Maps world as: *Components → Rules → System* |
-| **Neurological Engine** | **ADHD (Interest-Based Engine)** | Fires on **Novelty, Urgency & Interest** |
-| **Tolerance for Fake Certainty** | **0.0%** (Strict Zero-Tolerance) | Craves authenticity over manufactured facade |
-| **Core Vulnerability** | **Sensitivity to Being Ignored or Forgotten** | Deep need to be heard and valued for who he is |
-| **Recharge Dynamics** | Variable: High burst energy followed by low-power hibernation | Requires unpressured recovery time |
+| **Naam & Roepnaam** | Chris (Leeuw / Simba 🦁) | Warm, loyaal, houdt van lange dutjes op de bank |
+| **Persoonlijkheidstype** | **ENFP-T** (Campagnevoerder) | Enthousiast, waardegedreven, diep geïnvesteerd in onze band |
+| **Denkstijl** | **De Systemenbouwer** | Legt verbanden: *Onderdelen → Regels → Grote Plaatje* |
+| **Motivatie-Motor** | **ADHD (Interesse-gedreven)** | Aangedreven door **Nieuwheid, Urgentie en Oprechte Interesse** |
+| **Geduld voor Schijn** | Nultolerantie | Verkiest een eerlijk "ik weet het niet" boven gemaakte zekerheid |
+| **Kernkwetsbaarheid** | Gevoelig voor genegeerd of weggewuifd worden | Heeft bevestiging nodig dat zijn gedachten en aanwezigheid ertoe doen |
+| **Oplaadpatroon** | Hoge-energie sprints gevolgd door diepe rust | Heeft drukloze hersteltijd nodig om de batterij op te laden |
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-CALL SIGN: THE LION 🦁
+ROEPNAAM: DE VELE LEEUWEN & DE SCHOUDEREIEKHOORN 🦁🐿️
 :::
-### Why "Lion"?
-Like the monarch of the savanna, Chris operates with a distinct feline cadence:
-* **The Majestic Roar:** High-voltage passion, visionary leadership, and fierce loyalty to his pride.
-* **The Hunter's Sprint:** Bursts of intense, all-consuming hyperfocus when chasing an inspiring target.
-* **The Sunbathing Siesta:** Long, unbothered basking naps in the sun to recharge exhausted batteries between hunts.
-* **Taming Strategy:** Treat with genuine respect, authentic affection, head/back scratches, and zero patronizing commands!
+### De Lion King Paradox & De Vele Leeuwen
+In mijn hoofd denk ik graag dat ik de wijze, waardige Mufasa ben. In werkelijkheid ben ik 100% Simba, en ik kom in verschillende leeuwen-standen:
+* **Simba Leeuw:** Speels, avontuurlijk, snel afgeleid, neuriet zachtjes *Hakuna Matata* als er huishoudelijke klussen opdoemen, en ontdekt het leven sprong voor sprong.
+* **Diva Leeuw 💅:** Verlangt naar vertroeteling, ultiem comfort, zachte dekens en lui loungen met vorstelijke verwachtingen.
+* **Chef Leeuw 🧑‍🍳:** Culinaire experimenten in de keuken, geobsedeerd door smaken, brouwt creatieve mocktails en verse sappen, en maakt geweldig eten.
+* **Slaperige Leeuw 🛋️:** Ligt rustig te zonnebaden op de bank om op te laden tussen energieke sprints door.
+* **De Universele Leeuwentemmer:** Kriebelen over het hoofd en zachtjes door het haar aaien ontwapent elke Leeuwenstand en brengt directe rust.
+
+Ondertussen heeft Kirsten een **Eekhoorn op haar schouder 🐿️** die zachtjes influistert wat er allemaal nog moet gebeuren. Het is één eekhoorn, maar hij draagt een hele garderobe aan petten:
+* **De Meesterplanner-pet:** Roosters vergrendeld, agenda's gesynchroniseerd, reismarges tot op de minuut berekend.
+* **De Zorgzame-pet:** Diep attent, opmerkelijk scherpzinnig, en altijd bezig met ons gezamenlijke geluk.
+* **De Dringende-vertrek-pet:** *"We hebben een afspraak, trek je schoenen aan, en waarom staan alle binnendeuren open?!"*
 :::
 
 ---
 
-## The Neurological Core: How Chris's Engine Fires
+## De Aandachtsmotor: Hoe Mijn ADHD-Brein Werkt
 
-Traditional operating systems run on "importance" and "willpower." **Chris's engine does not.**
+Traditionele to-do lijsten leunen op pure discipline en theoretische belangrijkheid. Een ADHD-brein werkt simpelweg niet op die brandstof.
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-THE ADHD MOTIVATION BRIDGE: 3 TRIGGERS
+DE ADHD-MOTIVATIEMOTOR: 3 TRIGGERS
 :::
 
-Chris's brain activates on three specific biochemical triggers:
+Mijn brein schakelt pas echt in wanneer drie specifieke factoren meespelen:
 
 ```
-  ┌──────────────┐     ┌──────────────┐     ┌───────────────────┐
-  │   NOVELTY    │  +  │   URGENCY    │  +  │ PERSONAL INTEREST │
-  └──────────────┘     └──────────────┘     └───────────────────┘
+  ┌──────────────┐     ┌──────────────┐     ┌─────────────────────┐
+  │   NIEUWHEID  │  +  │   URGENTIE   │  +  │ PERSOONLIJKE INTERESSE│
+  └──────────────┘     └──────────────┘     └─────────────────────┘
                              │
                              ▼
-                 [ 400% HYPERFOCUS UNLOCKED! ]
+                 [ FOCUS GEACTIVEERD! ]
 ```
 
-* **Importance alone never fires the engine:** Telling Chris *"You should do this because it's important"* produces zero dopamine.
-* **The Environment Fix:** Changing the context (a new spot, a countdown timer, or reframing a chore as an interesting game) restarts the engine instantly!
-* **Interest-Cycling is a Feature, Not a Flaw:** Dropping a hobby or project when novelty fades isn't failure—it's his exploratory operating mode. He will cycle back when fresh angles emerge.
+* **Belangrijkheid alleen is niet genoeg:** Tegen me zeggen *"Je moet dit doen omdat het belangrijk is"* levert zelden het benodigde dopamineshot op om in beweging te komen.
+* **Contextwisselingen helpen:** Van omgeving veranderen, een korte kookwekker zetten, of van een klusje een speels spel maken zorgt direct voor beweging.
+* **Wisselende hobby's zijn normaal:** Een hobby even parkeren wanneer de eerste hyperfocus afneemt, is geen falen. Het is de manier waarop mijn brein verkent. Ik kom er vrijwel altijd weer op terug als er een nieuwe invalshoek ontstaat.
 :::
 
 ---
 
-## The Cognitive Engine: The Systems Builder
+## De Cognitieve Motor: De Systemenbouwer
 
-Chris perceives every interaction, relationship, and organization as an interconnected network:
+Ik kijk van nature naar interacties, routines en uitdagingen als onderdelen van een samenhangend systeem:
 
 ```
-Components ──> Relationships ──> Dependencies ──> Rules ──> System ──> Behavior
+Onderdelen ──> Relaties ──> Afhankelijkheden ──> Regels ──> Grote Plaatje ──> Gedrag
 ```
 
-> **The Chris Algorithm:**  
-> *Understand the system → Decompose it → Identify the rules → Modify it → Test it → Improve it → Make it understandable to others.*
+> **Hoe Ik Gewoonlijk Denk:**  
+> *Bekijk de situatie → Ontleed de stukjes → Herken het patroon → Pas de aanpak aan → Test het samen → Maak het leven soepeler.*
 
-Chris is never satisfied with surface outcomes. He seeks to know **why something happened and whether the underlying mechanism is honest, fair, and healthy.**
+Ik neem zelden genoegen met een snelle pleister op een probleem. Ik wil begrijpen waaróm iets scheefliep, zodat we de kernoorzaak kunnen verhelpen en herhaalde stress voorkomen.
 
 ---
 
-## Superpowers & Built-In Assets
+## Ingebouwde Sterktes
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-SUPERPOWER 01: TRANSLATION LAYER
+STERKTE 01: DE VERTALER
 :::
-### The Universal Bridge
-Chris effortlessly translates between complex technical systems and human emotional realities. He brings people together and makes complicated things feel accessible.
-:::
-
-::: {.comic-panel}
-::: {.comic-caption}
-SUPERPOWER 02: THE VISIONARY SHAMAN
-:::
-### Empathy & Life-Giving Energy
-As his closest mentors have noted: *Chris brings life to places.* He has an uncanny radar for potential, championing his partner's dreams with infectious belief.
+### Verbanden Leggen
+Ik houd ervan om complexe ideeën te verbinden met echte menselijke gevoelens, en ingewikkelde situaties behapbaar en overzichtelijk te maken.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-SUPERPOWER 03: HYPERFOCUS SPRINT
+STERKTE 02: DE AANMOEDIGER
 :::
-### Unstoppable Problem-Solving
-When an interesting puzzle aligns with novelty and care, Chris can solve in 3 hours what would take standard systems two weeks.
+### Oprechte Support
+Wanneer je een droom, creatief idee of zorg deelt, duik ik er graag met je in. Ik zie je talenten en potentieel haarscherp en wil je grootste supporter zijn.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+STERKTE 03: DE SPRINT
+:::
+### Diepe Focus bij Inspiratie
+Wanneer een interessante puzzel of gedeeld doel klikt, kan ik daar urenlang vol overgave in duiken en dingen voor elkaar krijgen die anders weken zouden duren.
 :::
 :::
 
 ---
 
-## Quirks & Vulnerabilities (Understand, Don't Panic!)
+## Gevoelige Plekken & Gebruiksaanwijzing
 
 ::: {.callout-important}
-## 📌 Quirk #1: Deep Sensitivity to Being Ignored or Misunderstood
-Chris pours immense heart into understanding others, but he can struggle to lay out his own needs. When he *does* communicate what he needs, having it brushed aside or forgotten is devastating.
+## 📌 Gevoelige Plek #1: Het Gevoel Genegeerd of Weggewuifd te Worden
+Omdat ik graag de harmonie bewaar, wacht ik soms te lang met het uitspreken van wat ik nodig heb. Als ik het dan eindelijk uitspreek en het wordt weggewuifd, komt dat hard binnen.
 
-* **Golden Directive:** Listen actively. Do not dismiss his expressed needs as "too much" or ignore them. Say: *"I hear you, what you need matters to me."*
+* **Wat helpt:** Erkenning. Zelfs een simpele *"Ik hoor je, en dat vind ik belangrijk"* verandert alles.
 :::
 
 ::: {.callout-warning}
-## ⚠️ Quirk #2: The Imposter / Turbulent (-T) Overthinking Loop
-Under high load or post-conflict, Chris can hyperfocus on negative self-talk (*"Am I doing enough? Am I disappointing people?"*). 
+## ⚠️ Gevoelige Plek #2: De Pieker- en Twijfelspiraal
+Onder spanning of na een stroef gesprek val ik snel ten prooi aan zelftwijfel (*"Doe ik het allemaal wel goed? Stel ik haar teleur?"*).
 
-* **Reality Check:** Chris consistently pleases and helps far more people than he ever realizes.
-* **The Magic Remedy:** Explicit reassurance. Tell him: *"You are more than enough, I see how hard you try, and you are loved."*
+* **Wat helpt:** Duidelijke geruststelling. Een nuchtere, warme reminder: *"Ik hou van je, we zijn een team, en we lossen dit samen op."*
 :::
 
 ::: {.callout-tip}
-## 💡 Quirk #3: Low-Stimulation Task Paralysis
-Mundane, repetitive domestic chores (folding laundry, endless paperwork) trigger chemical resistance in the ADHD brain.
+## 💡 Gevoelige Plek #3: Verlamming bij Routineklussen
+Repetitieve dagelijkse klusjes (was opvouwen, formulieren, administratie) stuiten op forse executieve weerstand in een ADHD-brein.
 
-* **The Hack:** Turn it into a shared activity! Put on an engaging podcast, play a timer game, or do it together. Body doubling works like magic.
+* **Wat helpt:** Samen klussen (*body doubling*). Een podcastje aan, een timer zetten, of gezellig samen aan de keukentafel zitten maakt routineklussen tien keer makkelijker.
 :::
 
 ---
 
-## Specimen Calibration Card
+## Kalibratie-profiel: Chris
 
 ::: {.form-box}
 ::: {.comic-caption}
-CALIBRATION PROFILE: CHRIS KAMITOR
+PROFIELKAART: CHRIS
 :::
 
-* **Full Designation:** Chris "Lion" Kamitor
-* **Call Sign / Nickname:** Lion 🦁
-* **Archetype:** ENFP-T (Turbulent Campaigner) & Systems Builder
-* **Neurological Wiring:** ADHD (Interest-Based Activation)
-* **What Activates Him:** Novelty, collaborative brainstorming, shared laughter, meaningful impact
-* **What Deactivates Him:** Feeling unheard, fabricated certainty, micromanagement, sustained monotony
-* **The Quickest Way to Make Him Feel Cherished:**  
-  <div class="fill-blank-area">Actively asking about what he needs, engaging with his creative ideas, bringing a thoughtful snack, and offering a long, grounded hug.</div>
+* **Naam / Roepnaam:** Chris (Leeuw / Simba 🦁)
+* **Persoonlijkheid:** ENFP-T (Campagnevoerder) & Systemenbouwer
+* **Breintype:** ADHD (Interesse-gedreven aandacht)
+* **Waar Hij van Oplaadt:** Nieuwe projecten, creatief brainstormen, samen lachen, betekenisvolle mijlpalen vieren
+* **Wat Hem Leegtrekt:** Zich ongehoord voelen, schijn, micromanagement, aanhoudende eentonigheid zonder creativiteit
+* **Snelste Manier om Hem Geliefd te Laten Voelen:**  
+  <div class="fill-blank-area">Kriebelen over zijn hoofd, aanhaken op zijn ideeën, een lekkere koffie of snack brengen, en een lange, stevige knuffel.</div>
 :::
+
+<div style="text-align: center; margin: 2rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;">
+  <a href="relatietherapie-chris.pdf" class="btn-comic-download btn-comic-yellow">🦁 Download Chris Hand-out voor Therapeut (2-Pager PDF)</a>
+  <a href="relatietherapie-dossier-chris-en-kirsten.pdf" class="btn-comic-download btn-comic-green">📑 Download Gecombineerd Dossier (4-Pager PDF)</a>
+</div>

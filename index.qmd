@@ -1,109 +1,134 @@
-# Welcome to the Guide {.unnumbered}
+# Welkom bij de Gids {.unnumbered}
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-MEANWHILE, AT HEADQUARTERS...
+ONDERTUSSEN OP HET HOOFDKWARTIER...
 :::
 
-## A Dummy Guide to Having a Relationship with Chris {style="margin-top:0;"}
+## Relatie Voor Dummies: Chris & Kirsten Editie {style="margin-top:0;"}
 
-**The Unofficial, Illustrated Manual & Field Guide for His ENFJ Partner.**
+**Het Onofficiële, Geïllustreerde Overlevingshandboek (Handleiding voor Chris & Handleiding voor Kirsten).**
 
-<div style="margin: 1.2rem 0;">
-  <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Download Printable PDF Edition</a>
+<div style="margin: 1.2rem 0; display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center;">
+  <a href="relatietherapie-dossier-chris-en-kirsten.pdf" class="btn-comic-download btn-comic-green">📑 Dossier Relatietherapeut (4-Pager)</a>
+  <a href="relatietherapie-chris.pdf" class="btn-comic-download btn-comic-yellow">🦁 Chris Hand-out (2-Pager)</a>
+  <a href="relatietherapie-kirsten.pdf" class="btn-comic-download btn-comic-cyan">🐿️ Kirsten Hand-out (2-Pager)</a>
+  <a href="Relatie-Voor-Dummies--Chris---Kirsten-Editie.pdf" class="btn-comic-download">📥 Volledige Gids (PDF Boek)</a>
 </div>
-
-::: {.speech-bubble}
-*"Congratulations! You are now in possession of one (1) complex human specimen designated **Chris** (call sign: **Lion** 🦁, Model: ENFP-T Campaigner & Systems Architect). As his ENFJ partner, please read this manual carefully before attempting emotional firmware updates or administering early morning interactions."*
-:::
-:::
-
----
-
-## Dear ENFJ Partner: Why This Handbook Exists
-
-Welcome to your official field manual! Relationships rarely come with user instructions, but high-performance, neurodiverse human beings like **Chris** definitely require one.
-
-If you have ever found yourself asking:
-* *"Why did he say 'yes' to something on Tuesday and completely forget it by Saturday?"*
-* *"Why does he freeze up and stop communicating when I get intense or upset?"*
-* *"Why does our physical intimacy feel stalled, even though we love each other?"*
-* *"How can I get him to talk to me without walking into a wall of silence?"*
-
-**This book was written for YOU.** 
-
-It pulls back the curtain on how Chris's mind actually works: the intersection of his **ENFP-T heart**, his **ADHD dopamine engine**, and his **Systems Builder intellect**.
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-PANEL 1: THE MISSION
+VAN CHRIS AAN KIRSTEN 🦁
 :::
-### Built for Understanding
-You are an amazing, caring ENFJ who loves deeply. This guide translates his internal wiring into your language so you never have to guess or feel shut out again.
+::: {.speech-bubble}
+*"Welkom, Kirsten! Je hebt een langdurig partnerschap met Chris (roepnaam: Leeuw / Simba, persoonlijkheid: ENFP-T en inwonend systeemknutselaar). Deze handleiding legt uit hoe mijn ADHD-interesse-motor, systemisch denken en emoties werken, zodat je plotselinge stiltes nooit meer in je eentje hoeft te ontcijferen."*
 :::
-
-::: {.comic-panel}
-::: {.comic-caption}
-PANEL 2: ZERO BLAME
-:::
-### A Shared Mirror
-Neither of you is broken. You are two Diplomats whose natural cognitive gears have been grinding against each other. This manual realigns the transmission!
 :::
 
 ::: {.comic-panel}
-::: {.comic-caption}
-PANEL 3: PRINT & KEEP
+::: {.comic-caption-cyan}
+VAN KIRSTEN AAN CHRIS 🐿️
 :::
-### Keep It Handy
-Read it online anytime on GitHub Pages, or download and print the PDF copy to keep on your nightstand for rapid relationship tune-ups!
+::: {.speech-bubble}
+*"Welkom, Chris! Voor mij is communicatie en écht partnerschap het allerbelangrijkste. In Kirsten's Versie (Voor Dummies) geef ik je mijn gebruiksaanwijzing: hoe mijn gevoelens en behoeften werken, hoe afspraak ook echt afspraak is, en hoe we elkaar veilig houden en écht samenwerken."*
+:::
+:::
 :::
 :::
 
 ---
 
-## Guide Icons & Decoding Signals
+## Waarom Deze Tweezijdige Veldgids Bestaat
 
-Throughout this handbook, you will encounter classic *Dummies* and comic callouts designed to keep you safe in the field:
+Relaties worden niet geleverd met een fabrieksinstructie. Wanneer twee diep betrokken mensen met verschillende zenuwstelsels, communicatiestijlen en kwetsbaarheden samenwonen, kunnen er misverstanden ontstaan — zelfs als de liefde enorm groot is.
+
+* **Chris** denkt in systemen, analogieën en verkennende golven, aangedreven door een ADHD-interesse-motor en een gevoeligheid voor afwijzing of oordeel.
+* **Kirsten** zoekt duidelijkheid, betrouwbaarheid en echt teamwork (*partnerschap*), waarbij concrete afspraken, radicale eerlijkheid, wederzijdse zorg en proactief overleg centraal staan.
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+PANEEL 1: ÉCHT PARTNERSCHAP
+:::
+### Gebouwd voor Ons
+Geen van ons beiden is 'stuk'. We zijn twee mensen die zielsveel om elkaar geven. Deze gids biedt ons een gedeelde handleiding, zodat we elkaars binnenwereld begrijpen in plaats van langs elkaar heen te bewegen.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+PANEEL 2: GEDRAG ≠ IDENTITEIT
+:::
+### "Gedrag Is Niet Persoonlijkheid"
+Feedback op gewoontes of acties is geen aanval op wie je bent als mens. We benoemen verbeterpunten omdat we beter met elkaar willen omgaan en samen willen bloeien.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+PANEEL 3: PRINT & BEWAAR
+:::
+### Een Levend Handboek
+Lees het online via GitHub Pages, of print de PDF-versie uit om er samen bij een kop thee of een goed glas wijn doorheen te bladeren voor een liefdevolle relatie-afstemming.
+:::
+:::
+
+---
+
+## Gidsiconen & Signalen Ontcijferen
+
+Door dit hele handboek heen vind je klassieke *Voor Dummies* en comic-kaders voor snelle navigatie:
 
 ::: {.callout-tip}
-## 💡 Pro-Tip / Cheat Code
-Actionable tactical advice for how YOU (the ENFJ partner) can get the best possible response from Chris with minimal friction.
+## 💡 Handige Tip (Pro-Tip)
+Praktische manieren om met de minste wrijving en de meeste verbinding met elkaar te communiceren.
 :::
 
 ::: {.callout-warning}
-## ⚠️ Danger Zone / Tread Lightly
-High-risk behaviors, phrases that trigger an instant Lion freeze-up, and critical hangry indicators. Proceed with extreme care.
+## ⚠️ Gevarenzone (Danger Zone)
+Harde grenzen: absoluut niet schreeuwen, nooit gooien met spullen, en acute hangry-waarschuwingen!
 :::
 
 ::: {.callout-note}
-## 🤓 Technical Stuff / Firmware Specs
-Deep dives into Chris's cognitive architecture: ADHD time-blindness, executive function realities, and Systems Builder logic.
+## 🤓 Achter de Schermen (Technical Stuff)
+Een kijkje onder de motorkap: ADHD-werkgeheugen, systemisch denken, en emotionele verwerking.
 :::
 
 ::: {.callout-important}
-## 📌 Remember / The Golden Rule
-Core tenets and non-negotiables: emotional safety, active listening, and zero fabricated certainty.
+## 📌 Kernregel (Remember)
+De fundamenten: emotionele veiligheid, radicale eerlijkheid, de Double Interact en betrouwbaarheid.
 :::
 
 ---
 
-## Table of Contents Preview
+## Inhoudsopgave
 
-1. **[Meet the Specimen: Chris 1.0](intro.qmd)** — Understanding his ENFP-T Systems Builder architecture, Lion call sign, and ADHD engine.
-2. **[The Lion & The Protagonist](enfj-dynamic.qmd)** — Why you two keep colliding, why he fears communicating when you overreact, and how to stop the cycle.
-3. **[Habitat, Feeding & Daily Cycles](habitat.qmd)** — Managing his energy waves, the Two-Choice Protocol (how to ask about dinner without causing a freeze), and The Lion's Den.
-4. **[Communication Protocols](communication.qmd)** — How to make it safe for him to speak. Active listening, the zero-fabricated-certainty rule, and the RSD shield.
-5. **[Troubleshooting & Error Codes](conflict.qmd)** — Error 422 (Unheard Signals), Error 503 (RSD Spiral), and how to apologize effectively.
-6. **[Intimacy & Safe Touch](intimacy.qmd)** — Why our bedroom stalled, the biology of male arousal under stress, and the 4-step ladder to rebuild passion.
-7. **[Special Features & Easter Eggs](easter-eggs.qmd)** — His hyperfixations (why he cycles hobbies and why you shouldn't shame him), travel mode, and secret joy triggers.
-8. **[The Blank Calibration Form & Quiz](intake-form.qmd)** — A shared worksheet for you and Chris to fill out together over wine or tea!
-9. **[Warranty & Maintenance Schedule](summary.qmd)** — Your ongoing service guide to keeping your Lion purring for decades.
+### Deel I: Handleiding voor Chris (Een Veldgids voor Kirsten)
+1. **[Maak Kennis met Chris: De Gebruiksaanwijzing](intro.qmd)**: De ENFP-T Systeemdenker, de Vele Leeuwen en de ADHD-motor.
+2. **[De Leeuw & De Eekhoorn](enfj-dynamic.qmd)**: Simba ontmoet de Meesterplanner: de vicieuze cirkel van bevriezen en aandringen doorbreken.
+3. **[Leefomgeving, Voeding & Dagritmes](habitat.qmd)**: Energiegolven, de Tweekeuzeregel bij keuzestress en het bank-toevluchtsoord.
+4. **[Communicatieprotocollen](communication.qmd)**: Veiligheid creëren om te praten, wederzijdse nederigheid en het ontcijferen van signalen.
+5. **[Afspraken Maken & Samen Plannen](planning.qmd)**: Brainstorm vs. vastleggen, gestructureerde spontaniteit en "afspraak is afspraak".
+6. **[Probleemoplossing & Foutcodes](conflict.qmd)**: Foutcode 404 (Hangry), 422 (Ongehoord), 503 (RSD) en échte excuses.
+7. **[Intimiteit & Fysieke Verbinding](intimacy.qmd)**: Eerlijkheid over waar we staan, stressbiologie en een zachte ladder terug naar aanraking.
+8. **[Hoe Wij Spelen: Plezier & Samen Lachen](play.qmd)**: Hakuna Matata-modus: samen gek doen, mocktails proeven en bankforten.
+9. **[Speciale Functies & Eigenardigheden](easter-eggs.qmd)**: Wisselende hobby's, reizen en onze inside jokes.
+
+### Deel II: Kirsten's Versie: Handleiding voor Kirsten (Een Veldgids voor Chris)
+10. **[Maak Kennis met Kirsten: De Gebruiksaanwijzing](kirsten-intro.qmd)**: Het Partnerschaps-manifest, de drie emotionele pijlers, ontzorgen en gelijkwaardigheid.
+11. **[Kirsten's Communicatieprotocollen](kirsten-communication.qmd)**: De Double Interact, "afspraak is afspraak", context geven bij een 'nee', en gesprekken over kunst & tech.
+12. **[Veiligheid, Eerlijkheid & Conflicthantering](kirsten-conflict.qmd)**: Nultolerantie voor schreeuwen/gooien, einde aan "ja zeggen, nee doen", waarheid vs. verzwijgen, en "gedrag is niet persoonlijkheid".
+13. **[Kirsten's Spiekbriefje: Graag Wel & Graag Niet](kirsten-summary.qmd)**: De overzichtskaart, Kirsten's noodprotocol, en feedback op dit levende document.
+
+### Deel III: Kalibratie & Langetermijnzorg
+14. **[Het Relatie-Kalibratieformulier](intake-form.qmd)**: Een gezamenlijke invuloefening over dagritmes, taken en het Pact van Wederzijdse Zorg.
+15. **[Zorg- & Onderhoudsschema](summary.qmd)**: Maandelijkse check-in gids, groene vlaggen en rituelen voor de lange termijn.
+
+---
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-HOW TO USE THIS MANUAL
+HOE DEZE GIDS TE GEBRUIKEN
 :::
-> **✏️ Note for the ENFJ Partner:**  
-> Read this book with curiosity, not defensiveness. Chris loves you deeply—he had this guide built because he wants you to understand his heart and brain, so you two can stop hurting each other and start thriving.
+> **✏️ Bericht voor Ons Beiden:**  
+> Deze gids is een levende liefdesbrief en operationeel verdrag. We hebben dit gemaakt zodat niemand van ons zich ooit ongehoord, buitengesloten of eenzaam voelt in dit partnerschap. Lees het met nieuwsgierigheid, humor en een open hart.
 :::

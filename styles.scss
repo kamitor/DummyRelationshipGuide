@@ -423,6 +423,33 @@ table {
   }
 }
 
+.btn-comic-cyan {
+  background-color: #18DCFF !important;
+  color: #111111 !important;
+  &:hover {
+    background-color: #70edff !important;
+    color: #111111 !important;
+  }
+}
+
+.btn-comic-yellow {
+  background-color: #FED100 !important;
+  color: #111111 !important;
+  &:hover {
+    background-color: #ffe066 !important;
+    color: #111111 !important;
+  }
+}
+
+.btn-comic-green {
+  background-color: #2ED573 !important;
+  color: #111111 !important;
+  &:hover {
+    background-color: #7bed9f !important;
+    color: #111111 !important;
+  }
+}
+
 // Print Specific Styles
 @media print {
   body {

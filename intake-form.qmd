@@ -1,148 +1,153 @@
-# The Relationship Calibration Form {.unnumbered}
+# Het Relatie-Kalibratieformulier {.unnumbered}
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-OFFICIAL INTAKE & COMPATIBILITY WORKSHEET
+GEZAMENLIJK WERKBLAD: CHRIS & KIRSTEN
 :::
 
 ::: {.speech-bubble}
-*"Whether you are reading this online or on printed A4 paper, this blank form is your canvas! Grab a pen or open your editor, grab some drinks, and make this a shared calibration session."*
+*"Of je dit nu online leest of op geprint papier bekijkt: pak wat thee of een goed glas wijn, ga gezellig samen zitten, en maak hier een ontspannen afstemsessie van."*
 :::
 
 <div style="margin: 1rem 0;">
-  <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Print Blank Form (PDF)</a>
+  <a href="Relatie-Voor-Dummies--Chris---Kirsten-Editie.pdf" class="btn-comic-download">📥 Print Blanco Formulier (PDF)</a>
 </div>
 :::
 
 ---
 
-## Part 1: Baseline Architecture & Compatibility
+## Deel 1: Basislijn & Verbinding
 
 ::: {.form-box}
-* **Specimen Name / Call Sign:** Chris "Lion" Kamitor (ENFP-T Systems Builder)
-* **Partner Name / Nickname:** <span class="fill-blank-line" style="min-width:280px;"></span>
-* **Partner's MBTI Type / Personality Style:** <span class="fill-blank-line" style="min-width:280px;"></span>  
-  *(Analyst: INTJ/INTP/ENTJ/ENTP | Diplomat: INFJ/INFP/ENFJ/ENFP | Sentinel: ISTJ/ISFJ/ESTJ/ESFJ | Explorer: ISTP/ISFP/ESTP/ESFP)*
-* **How Our Personalities Best Complement Each Other:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Chris brings vision & excitement, Partner brings grounding & stability... ]</div>
+* **Naam & Roepnaam:** Chris (Leeuw / Simba 🦁, ENFP-T)
+* **Partner & Roepnaam:** Kirsten (De Eekhoorn 🐿️, ENFJ)
+* **Hoe Onze Persoonlijkheden Elkaar het Beste Aanvullen:**  
+  <div class="fill-blank-area">Chris brengt creatief enthousiasme, helikopterview, humor en systemisch knutselen; Kirsten brengt briljante organisatiekracht, vooruitziende blik en meesterlijke planning die ons leven stevig op de rails houdt.</div>
 :::
 
 ---
 
-## Part 2: Energy & Daily Rhythm Spectrum
+## Deel 2: Energie- & Dagritmespectrum
 
-Mark where each of you falls on each spectrum:
+Kruis aan waar ieder van ons zich bevindt op de schaal:
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-DYNAMIC SLIDERS
+DAGRITME-SCHUIFJES
 :::
 
-1. **Morning Wakeup Energy:**  
-   `[ Zombie: Needs Silence ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Chirpy Morning Lark ]`  
-   * Chris: `[ 2 ]` &nbsp;|&nbsp; Partner: `[   ]`
+1. **Ochtend-Wakkersnelheid:**  
+   `[ Zombie: Heeft Stilte Nodig ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Vrolijke Ochtendvogel ]`  
+   * Chris: `[ 2 ]` &nbsp;|&nbsp; Kirsten: `[   ]`
 
-2. **Living Space Organization:**  
-   `[ Creative Chaos ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Clean Minimalist ]`  
-   * Chris: `[ 3 ]` &nbsp;|&nbsp; Partner: `[   ]`
+2. **Organisatie van de Leefruimte:**  
+   `[ Creatieve Chaos ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Strak Minimalistisch ]`  
+   * Chris: `[ 3 ]` &nbsp;|&nbsp; Kirsten: `[   ]`
 
-3. **Weekend Travel / Activity Level:**  
-   `[ Pure Couch Potato ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Packed Explorer Itinerary ]`  
-   * Chris: `[ 4 ]` &nbsp;|&nbsp; Partner: `[   ]`
+3. **Weekend-Activiteitsniveau:**  
+   `[ Luie Bankdag ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Volle Ontdekkingsagenda ]`  
+   * Chris: `[ 4 ]` &nbsp;|&nbsp; Kirsten: `[   ]`
 
-4. **Social Battery Span:**  
-   `[ Cozy Solitude ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Out till 3 AM With Friends ]`  
-   * Chris: `[ 3.5 ]` &nbsp;|&nbsp; Partner: `[   ]`
+4. **Sociale Batterijduur:**  
+   `[ Rustige Eenzame Tijd ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ Tot Laat op Pad met Vrienden ]`  
+   * Chris: `[ 3.5 ]` &nbsp;|&nbsp; Kirsten: `[   ]`
 
-5. **Intellectual Debate / Systems Puzzling:**  
-   `[ Prefer Simple Small Talk ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ 3-Hour Deep Dives ]`  
-   * Chris: `[ 5 ]` &nbsp;|&nbsp; Partner: `[   ]`
+5. **Diepe Duiken & Systeempuzzels:**  
+   `[ Gewoon Alledaags Kletsen ] ─── 1 ─── 2 ─── 3 ─── 4 ─── 5 ─── [ 3-Uur Diepe Gesprekken ]`  
+   * Chris: `[ 5 ]` &nbsp;|&nbsp; Kirsten: `[   ]`
 :::
 
 ---
 
-## Part 3: Domestic Synergy & Chores Dispatcher
+## Deel 3: Huishoudelijke Taken & Samenwerking
 
 ::: {.form-box}
 ::: {.comic-caption}
-CHORE MATRIX
+TAKENMATRIX
 :::
 
-Identify who enjoys (or at least tolerates) what:
+Wie prefereert (of tolereert) welke taken:
 
-| Responsibility | Chris's Stance | Partner's Stance |
+| Verantwoordelijkheid | Chris's Standpunt | Kirsten's Standpunt |
 |:---|:---|:---|
-| **Cooking & Meal Prep** | `[ Experimental chef / Loves making nice food ]` | `[ Fill in ]` |
-| **Dishwasher & Kitchen Reset** | `[ Satisfying systems optimization ]` | `[ Fill in ]` |
-| **Grocery Shopping** | `[ Enjoys discovering interesting ingredients ]` | `[ Fill in ]` |
-| **Laundry & Folding** | `[ Tolerates if listening to podcast ]` | `[ Fill in ]` |
-| **Handling Bureaucracy & Bills** | `[ Analytical execution mode ]` | `[ Fill in ]` |
-| **Spontaneous Room Makeover** | `[ Occasional creative whirlwind ]` | `[ Fill in ]` |
+| **Koken & Eten Bereiden** | `[ Chef Leeuw: Houdt van smaakvolle maaltijden ]` | `[ Invullen ]` |
+| **Vaatwasser & Keuken Opruimen** | `[ Systemen inrichten; spullen erín zetten ]` | `[ Invullen ]` |
+| **Boodschappen Doen** | `[ Geniet van goede ingrediënten ontdekken ]` | `[ Invullen ]` |
+| **Binnendeuren Sluiten** | `[ Oefent actief op Simba-spiergeheugen ]` | `[ De Eekhoorn's absolute must ]` |
+| **Vuilnis Wegbrengen** | `[ Gevoelig voor ADHD-blindheid; visuele prikkels werken ]` | `[ Invullen ]` |
+| **Wassen & Vouwen** | `[ Meertrapsraket; het beste samen met muziek ]` | `[ Invullen ]` |
+| **Administratie & Rekeningen** | `[ Analytische uitvoermodus ]` | `[ Invullen ]` |
+| **Opruimen & Herinrichten** | `[ Periodieke creatieve wervelwind ]` | `[ Invullen ]` |
+| **Stofzuigen & Vloeren** | `[ Snelle sprint met muziek op ]` | `[ Invullen ]` |
 :::
 
 ---
 
-## Part 4: Care & Feeding During Rough Days
+## Deel 4: Zorg & Ondersteuning op Moeilijke Dagen
 
 ::: {.form-box}
 ::: {.comic-caption}
-EMERGENCY SUPPORT & CARE PROTOCOL
+ZORG OP ZWARE DAGEN
 :::
 
-* **When Chris had a draining, overwhelming day, the #1 thing to do is:**  
-  <div class="fill-blank-area">[ Click edit or write here: E.g., Warm embrace, offer a favorite beverage, let him decompress for 30 minutes without asking what went wrong... ]</div>
+* **Wanneer Chris een uitputtende, overweldigende dag heeft gehad, helpt het meest:**  
+  <div class="fill-blank-area">[ E.g., Warme knuffel, lekker drinken, 30 minuten rustige hersteltijd zonder moeilijke vragen... ]</div>
 
-* **When Partner had a draining, overwhelming day, the #1 thing Chris should do is:**  
-  <div class="fill-blank-area">[ Click edit or write here: Instructions for Chris on how to best care for you... ]</div>
+* **Wanneer Kirsten een uitputtende, overweldigende dag heeft gehad, is het beste wat Chris kan doen:**  
+  <div class="fill-blank-area">[ Instructies voor Chris hoe hij jou het allerbeste kan verwennen en ontzorgen... ]</div>
 
-* **A guaranteed pick-me-up treat or date idea:**  
-  <div class="fill-blank-area">[ Click edit or write here: Specific comfort food, walking spot, or movie... ]</div>
+* **Een gegarandeerde oppepper of date-idee:**  
+  <div class="fill-blank-area">[ Specifiek lievelingseten, wandelplek, of favoriete film... ]</div>
 :::
 
 ---
 
-## Part 5: The Master Favorites Cheat Sheet
+## Deel 5: Het Master-Favorieten Spiekbriefje
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-ESSENTIAL FAVORITES (NEVER FORGET!)
+FAVORIETEN (NOOIT VERGETEN!)
 :::
 
-* **Favorite Warm Beverage:** <span class="fill-blank-line" style="min-width:300px;"></span>
-* **Favorite Comfort Meal:** <span class="fill-blank-line" style="min-width:300px;"></span>
-* **Favorite Pizza Order:** <span class="fill-blank-line" style="min-width:320px;"></span>
-* **Favorite Movie / Series to Rewatch:** <span class="fill-blank-line" style="min-width:280px;"></span>
-* **Favorite Music / Go-to Album:** <span class="fill-blank-line" style="min-width:300px;"></span>
-* **Dream Adventure / Destination:** <span class="fill-blank-line" style="min-width:320px;"></span>
+* **Favoriete Drankje:** Goede koffie (of een vers geblende mocktail / bijzonder sapje)
+* **Favoriete Comfort Food:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Favoriete Pizza-bestelling:** <span class="fill-blank-line" style="min-width:320px;"></span>
+* **Favoriete Film of Serie om te Rewatchen:** <span class="fill-blank-line" style="min-width:280px;"></span>
+* **Favoriete Muziek of Go-To Album:** <span class="fill-blank-line" style="min-width:300px;"></span>
+* **Favoriet Avontuur / Reis:** Zuid-Frankrijk & de tuinen van Monet
 :::
 
 ---
 
-## Part 6: The Mutual Sanity & Connection Treaty
+## Deel 6: Ons Wederzijds Verdrag
 
 ::: {.comic-panel}
 ::: {.comic-caption-red}
-OFFICIAL COMPACT OF MUTUAL CARE
+PACT VAN WEDERZIJDSE ZORG & PARTNERSCHAP
 :::
 
-By signing below, the parties solemnly agree to:
-1. Always assume positive intent and communicate with radical honesty.
-2. Forgive anything muttered in the first 10 minutes of the morning before caffeine is assimilated.
-3. Keep snacks within reach when long journeys or busy work stretches are underway.
-4. Cheer each other on through every crazy idea, creative project, and life milestone.
+Door hieronder te tekenen, spreken we af:
+1. **Écht Partnerschap:** Open communiceren, samen overleggen en problemen nooit laten verrotten in stilte.
+2. **Double Interact:** Vragen en plannen in eigen woorden herhalen om te checken dat we elkaar echt begrijpen.
+3. **Afspraak is Afspraak:** Concrete plannen maken, ons eraan houden, en proactief herplannen als er iets verandert.
+4. **Absolute Veiligheid:** Nul schreeuwen, nul gooien met spullen. Een expliciete time-out van 30 minuten nemen als emoties te hoog oplopen.
+5. **Radicale Eerlijkheid:** Geen valse overeenstemming ("ja zeggen, nee doen") en nimmer liegen door weglating.
+6. **Gedrag ≠ Identiteit:** Beseffen dat *"gedrag niet persoonlijkheid is"*; verbeterpunten inbrengen met liefde en concrete plannen.
+7. **De Volwassen Last Delen:** Om de beurt voor elkaar zorgen (*"niet altijd de volwassene hoeven zijn"*).
+8. **Geen Giftige Invloeden:** Ouderwetse jaren '50 dominantiepraatjes resoluut weren uit ons partnerschap.
 
 <br>
 
 <div style="display:flex; justify-content:space-between; margin-top:2rem; flex-wrap:wrap; gap:2rem;">
   <div>
-    <strong>Signed (Chris "Lion" Kamitor):</strong><br><br>
+    <strong>Getekend (Chris):</strong><br><br>
     _______________________________________<br>
-    <em>Date: ________________</em>
+    <em>Datum: ________________</em>
   </div>
   <div>
-    <strong>Signed (Partner):</strong><br><br>
+    <strong>Getekend (Kirsten):</strong><br><br>
     _______________________________________<br>
-    <em>Date: ________________</em>
+    <em>Datum: ________________</em>
   </div>
 </div>
 :::

@@ -1,115 +1,162 @@
-# Troubleshooting & Error Codes
+# Probleemoplossing & Foutcodes
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-SYSTEM ALERT: INCIDENT MANAGEMENT & DE-ESCALATION
+INCIDENTENBEHEER: DE-ESCALEREN MET ZORG
 :::
 
 ::: {.speech-bubble}
-*"To my ENFJ partner: Ongoing conflict is an ENFP's kryptonite. When tension escalates, a rapid sharp reaction triggers his freeze response. Here is your incident response manual to de-escalate smoothly."*
+*"Aan Kirsten: Onopgeloste ruzies vreten aan ons beiden. Als spanning stijgt, activeert een scherpe toon mijn bevriezingsreflex en vind ik mijn woorden niet meer. Hier is hoe we conflicten ontmantelen en weer op hetzelfde team belanden."*
 :::
 :::
 
 ---
 
-## Relationship Error Directory
+## Diagnostische Gids voor Conflicten
 
-When friction or distress occurs, reference these diagnostic signatures:
+Wanneer er wrijving ontstaat, spelen meestal deze patronen:
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption-red}
-ERROR 404: HANGRY
+FOUTCODE 404: HANGRY
 :::
-### Fuel Depletion Crisis
-* **Symptoms:** Short replies, sighing, sudden impatience over tiny obstacles.
-* **Root Cause:** Blood glucose at critical low.
-* **Resolution:** Zero debates. Administer carbohydrates and water immediately. Recalibrate in 20 minutes.
+### Lege Brandstoftank
+* **Signalen:** Korte antwoorden, diepe zuchten, nul geduld om futiliteiten.
+* **Onderliggende oorzaak:** De bloedsuikerspiegel is ingestort.
+* **Beste actie:** Pauzeer alle discussies direct. Eerst eten en water. Pak het gesprek over 20 minuten weer op.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption-cyan}
-ERROR 422: UNHEARD SIGNALS
+FOUTCODE 422: ONGEHOORDE SIGNALEN
 :::
-### Ignored Boundary / Dismissal
-* **Symptoms:** Deep withdrawal, emotional resignation, quiet sorrow.
-* **Root Cause:** Chris feels he explicitly stated a need, but was ignored or dismissed.
-* **Resolution:** Validate and listen: *"I realize I brushed off what you asked for. I am listening now, please tell me."*
+### Weggewuifde Behoefte
+* **Signalen:** Stille terugtrekking, ingezakte schouders, dichtklappen.
+* **Onderliggende oorzaak:** Chris voelt dat een geuite wens of grens genegeerd is.
+* **Beste actie:** Benoem het direct: *"Ik besef dat ik net over je vraag heen walste. Ik luister nu, vertel het me alsjeblieft."*
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption-yellow}
-ERROR 503: RSD SPIRAL
+FOUTCODE 503: AFWIJZINGSOVERBELASTING (RSD)
 :::
-### Rejection Sensitive Overload
-* **Symptoms:** Hyperfocusing on negative self-worth, asking *"Are you mad at me?"*, feeling like a burden.
-* **Root Cause:** Perceived criticism interpreted as emotional abandonment.
-* **Resolution:** Physical presence + verbal grounding: *"You are safe with me. We are good. I love you."*
+### Rejection Sensitivity Vlam
+* **Signalen:** Spiraal van zelftwijfel, vragen *"Ben je boos op me?"*, zich een last voelen.
+* **Onderliggende oorzaak:** Waargenomen kritiek voelt als emotionele verlating.
+* **Beste actie:** Zachte aanraking en verbale geruststelling: *"Je bent veilig bij mij. We zijn goed samen. Ik hou van je."*
+:::
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+FOUTCODE 409: VALSE OVEREENSTEMMING ("JA ZEGGEN, NEE DOEN")
+:::
+### De Illusie van Afstemming
+* **Signalen:** "Ja, is goed" zeggen om de spanning te stoppen, en de taak vervolgens laten vallen.
+* **Onderliggende oorzaak:** Angst voor conflict of acute ADHD-overprikkeling.
+* **Impact op Kirsten:** Zij denkt dat we op één lijn zitten, om te ontdekken dat ze alleen stond in de afspraak. Het creëert eenzaamheid en breekt vertrouwen.
+* **Beste actie:** Eerlijkheid op het moment zelf. Als het niet lukt, leg uit waarom en zoek een echt alternatief.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+FOUTCODE 500: VERZWIJGEN & GEHEIME RITTEN
+:::
+### Verborgen Zaken
+* **Signalen:** Onduidelijke vertragingen, vage verhalen, verbergen waar je was (bijv. geheime drugsritjes gemaskeerd als boodschappen).
+* **Impact op Kirsten:** Schudt het fundament van de relatie door elkaar; ze gaat aan alles twijfelen.
+* **Beste actie:** Radicale transparantie. Deel de volle waarheid; verberg nooit acties achter halve waarheden.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption-cyan}
+FOUTCODE 418: VERTREK-STRESS
+:::
+### De Vertrek-Aftelrace
+* **Signalen:** Geagiteerd zuchten, ijsberen, op de klok kijken terwijl Simba zijn sleutels zoekt.
+* **Onderliggende oorzaak:** Kirsten's planningsstress ontmoet Chris's tijdblindheid.
+* **Beste actie:** Bouw vooraf 15 minuten speling in. Stop de haast en lach samen: *"We zijn een team, laten we rustig vertrekken."*
 :::
 :::
 
 ---
 
-## The 3-Step Safe Recovery Protocol
+## Niet-Onderhandelbare Veiligheid: Nul Schreeuwen & Nul Gooien
 
-When an argument flares up, follow this de-escalation workflow:
+::: {.callout-warning}
+## ⚠️ Harde Grens: Emotionele & Fysieke Veiligheid
+* **Nul Schreeuwen:** Schreeuwen lost niets op; het maakt Kirsten doodsbang en diep verdrietig (*"Boos schreeuwen maakt me verdrietig en bang. Ik wil niet dat er naar mij geschreeuwd wordt!"*). Schreeuwen is nooit acceptabel.
+* **Nul Gooien met Spullen:** Fysieke intimidatie of met voorwerpen gooien vernietigt veiligheid per direct.
+* **De Veilige Time-out:** Als de woorden ontbreken en woede stijgt, zeg dan duidelijk: *"Ik vind de woorden nu niet en ben overprikkeld. Ik hou van je, maar ik heb 30 minuten nodig om af te koelen zodat ik niet ga schreeuwen."* Neem afstand, kalmeer, en **kom actief terug** op de afgesproken tijd.
+:::
+
+---
+
+## Het 3-Stappen De-escalatie Protocol
+
+Wanneer een discussie oplaait, brengt dit stappenplan ons terug bij elkaar:
 
 ```
-[ Conflict / Misunderstanding Detected ]
-                   │
-                   ▼
-  ┌─────────────────────────────────┐
-  │   1. Ground the Bond First      │  <- Say: "I love you and we are on the same team."
-  └────────────────┬────────────────┘     (Disarms the ENFP-T panic response)
-                   │
-                   ▼
-  ┌─────────────────────────────────┐
-  │    2. Check Biological State    │  <- Hungry? Exhausted? Sensory overload?
-  └────────────────┬────────────────┘     (Take a 15-minute breather if needed)
-                   │
-                   ▼
-  ┌─────────────────────────────────┐
-  │  3. Deconstruct the System      │  <- "You & Chris vs. The Problem"
-  └─────────────────────────────────┘     (Solve the underlying mechanism together)
+[ Misverstand of Spanning Loopt Op ]
+                  │
+                  ▼
+   ┌───────────────────────────────┐
+   │  1. Bevestig de Verbinding    │  <- "Ik hou van je en we zijn een team."
+   └──────────────┬────────────────┘     (Ontwapent de bevriezingsreflex)
+                  │
+                  ▼
+   ┌───────────────────────────────┐
+   │  2. Check Fysieke Toestand    │  <- Honger? Moe? Overprikkeld?
+   └──────────────┬────────────────┘     (Neem even 15 minuten adempauze)
+                  │
+                  ▼
+   ┌───────────────────────────────┐
+   │  3. Los het Probleem Samen Op │  <- "Jij en ik samen tegen het probleem"
+   └───────────────────────────────┘     (Pak de kernoorzaak aan als partners)
 ```
 
 ::: {.callout-important}
-## 📌 The Cardinal Principle of Healthy Conflict
-Remember: It is never **You vs. Chris**. It is always **You & Chris vs. The Problem**.  
-Framing a disagreement as a shared systems puzzle to analyze and improve brings out Chris's best collaborative instincts.
+## 📌 Het Kernprincipe
+Onthoud: Het is nooit **Jij vs. Ik**. Het is altijd **Wij Samen vs. Het Probleem**.  
+Door meningsverschillen te zien als een gezamenlijke puzzel, halen we ons beste, meest coöperatieve gedrag naar boven.
 :::
 
 ---
 
-## The Apology Syntax
+## Hoe Excuses te Maken & Verbinding te Herstellen
 
-How Chris processes apologies and repairs connection:
+Wat ons weer verbindt na spanning:
 
-| What Reconnects Us 🌟 | What Extends the Glitch 🚫 |
+| Wat Ons Verbindt 🌟 | Wat Ons Vastzet 🚫 |
 |:---|:---|
-| **Direct ownership:** *"I'm sorry for reacting sharply, that wasn't fair to you."* | **Deflection:** *"I wouldn't have snapped if you hadn't done X."* |
-| **Intellectual honesty:** Acknowledging the actual impact without excuses. | **Fabricated certainty:** Denying what actually happened to save face. |
-| **Validating the emotion:** *"I understand why you felt ignored, and I'm sorry."* | **Minimization:** *"You're making a huge deal out of nothing."* |
-| **Physical reconnection:** A warm, lingering hug once tempers settle. | **Cold stonewalling:** Walking away for hours without saying when you'll return. |
+| **Eigenaarschap nemen:** *"Het spijt me dat ik zo fel reageerde, dat was niet eerlijk naar jou."* | **Afschuiven:** *"Ik had niet geschreeuwd als jij niet zo deed."* |
+| **Radicale eerlijkheid:** De waarheid erkennen zonder uitvluchten of dingen weg te laten (bijv. geheime drugsritten). | **Verbergen & ontkennen:** Doen alsof er niets aan de hand is of feiten verzwijgen. |
+| **Afspraken nakomen:** Toezeggingen waarmaken of wijzigingen proactief vooraf bespreken. | **"Ja zeggen, nee doen":** Schijnbaar instemmen om van het gezeur af te zijn, waardoor de ander geïsoleerd raakt. |
+| **Veilige time-out & actief terugkomen:** 30 minuten pauzeren om schreeuwen te voorkomen en terugkeren zoals beloofd. | **Boos schreeuwen of gooien:** Stem verheffen, intimideren of met spullen smijten. |
+| **"Gedrag is niet persoonlijkheid":** Verzoek om gedragsverandering zien als teamwork om ons samenzijn fijner te maken. | **Afwijzingsspiraal:** Een verzoek horen als: *"Jij denkt dat jij alles goed doet en ik alles fout."* |
+| **Fysiek herstellen:** Een lange, warme knuffel zodra de rust is weergekeerd. | **Stille behandeling:** Boos weglopen zonder te zeggen wanneer je terugkomt. |
 
 ---
 
-## Incident Debrief & Resolution Worksheet
+## Reset-Werkblad na Conflict
 
 ::: {.form-box}
 ::: {.comic-caption}
-POST-INCIDENT CALIBRATION
+RESET-WERKBLAD
 :::
 
-* **When Chris is upset, the most helpful response is:**  
-  <div class="fill-blank-area">Give 15 minutes of calm space to decompress, then approach with a gentle hug and an invitation to speak without judgment: "I'm listening and I want to understand."</div>
+* **Wanneer Chris volledig stilvalt of vragen ontwijkt, is de meest helpende reactie:**  
+  <div class="fill-blank-area">Raak hem zachtjes aan en zeg rustig: "Ik hou van je, en ik weet dat ik scherp kan klinken." Stel hem gerust dat hij veilig is en dat zijn woorden de storm niet erger zullen maken.</div>
 
-* **When Chris is upset, the absolute WORST thing to do is:**  
-  <div class="fill-blank-area">Accuse him of bad intentions, dismiss his expressed needs, or shut down communication completely with cold silent treatment.</div>
+* **Wanneer Chris woede voelt opborrelen of geen woorden kan vinden, is de vaste afspraak:**  
+  <div class="fill-blank-area">Nooit schreeuwen en nooit met spullen gooien. Zeg expliciet: "Ik hou van je, maar ik heb 30 minuten rust nodig zodat ik niet ga schreeuwen," neem afstand, en kom op de afgesproken tijd terug om te praten.</div>
 
-* **Our agreed cooldown period before resuming tricky discussions:**  
-  * Target duration: <span class="fill-blank-line" style="min-width:250px;"></span> *(Default: 20 - 30 minutes)*
+* **Wanneer een afspraak niet gehaald kan worden of plannen wijzigen, is de directe actie:**  
+  <div class="fill-blank-area">Proactief vooraf melden: "Er kwam iets tussen, kunnen we X verzetten naar volgende week?" Geen stille annuleringen, geen "ja zeggen, nee doen."</div>
 
-* **Our official peace treaty food:**  
-  * Specific treat: <span class="fill-blank-line" style="min-width:250px;"></span>
+* **Onze afgesproken afkoelperiode voor we een lastig gesprek hervatten:**  
+  * Streeftijd: <span class="fill-blank-line" style="min-width:250px;"></span> *(Standaard: 20 tot 30 minuten)*
+
+* **Onze vredesverdrag-traktatie:**  
+  * Specifieke traktatie: <span class="fill-blank-line" style="min-width:250px;"></span>
 :::

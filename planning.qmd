@@ -1,0 +1,122 @@
+# Afspraken Maken & Samen Plannen
+
+::: {.comic-panel-yellow}
+::: {.comic-caption}
+LOGISTIEK & VERBINTENISSEN: HET J EN P VERBOND
+:::
+
+::: {.speech-bubble}
+*"Aan Kirsten: Op papier klinken een meesterplannende Eekhoorn en een onderzoekende Simba als een recept voor chaotische agenda's. Maar wanneer we snappen hoe we zonder druk afspraken maken, beleven we prachtige avonturen en runnen we ons leven als een geoliede machine."*
+:::
+:::
+
+---
+
+## De Kernspanning: Structuur vs. Spontaniteit
+
+Onze breinen benaderen tijd, toezeggingen en planning vanuit tegenovergestelde richtingen:
+
+::: {.comic-grid}
+::: {.comic-panel}
+::: {.comic-caption}
+KIRSTEN: DE MEESTERPLANNER (J)
+:::
+### Waarom Plannen Rust Geeft
+* Voor Kirsten schept een duidelijk plan emotionele kalmte en verlichting.
+* Weten wanneer, waar en hoe dingen gebeuren geeft haar hoofd rust.
+* Open eindjes, vage antwoorden en last-minute wijzigingen voelen als onnodige stress en mentale belasting.
+:::
+
+::: {.comic-panel}
+::: {.comic-caption}
+CHRIS: DE ONTDEKKER (P + ADHD)
+:::
+### Waarom Starheid Wrijving Geeft
+* Voor Chris voelen strakke minuut-tot-minuut schema's benauwend en wekken ze weerstand op.
+* ADHD-tijdblindheid betekent dat een idee dat hardop wordt uitgesproken op dat moment heel echt voelt, maar zonder externe trigger snel vervliegt.
+* Gehouden worden aan terloopse opmerkingen als juridisch bindende contracten triggert direct verdediging en terugtrekking.
+:::
+:::
+
+---
+
+## Het Afsprakenprotocol: Brainstorm vs. Vastgelegd
+
+Het grootste deel van onze planningsfrictie ontstaat wanneer Kirsten denkt dat er een afspraak is gemaakt, terwijl Chris dacht dat ze gewoon wat ideeën aan het uitwisselen waren.
+
+Dit is onze stap-voor-stap regel om altijd op één lijn te zitten:
+
+```
+  Chris deelt een idee: "We zouden zaterdag naar dat nieuwe café kunnen gaan."
+                                │
+                                ▼
+  Kirsten verifieert zachtjes: "Denk je hardop na, of leggen we dit vast?"
+                                │
+             ┌──────────────────┴──────────────────┐
+             ▼                                     ▼
+     [ "Gewoon Brainstormen" ]            [ "Leg Het Vast!" ]
+     Geen verwachtingen gezet.            Zet het in de agenda / op het bord.
+     Geen verwijten bij wijziging.        Een gedeelde, wederzijdse afspraak.
+```
+
+::: {.callout-important}
+## 📌 De Gouden Regel: "Afspraak Is Afspraak"
+1. **Concrete Plannen Gebeuren Echt:** Vage wensen (*"we moeten ooit het terras eens onkruidvrij maken"*) gebeuren zelden. Concrete afspraken (*"laten we volgende week zaterdag samen in de tuin werken om gras tussen de tegels weg te halen"*) creëren momentum en resultaat.
+2. **Op Het Bord = Gezamenlijke Toezegging:** Staat het op de kalender of op het koelkastbord, dan is het een echte afspraak.
+3. **Proactief Herplannen:** Als je van mening verandert of er komt iets tussen (bijvoorbeeld: *"Thomas wil zaterdag graag met mij naar het strand"*), **neem dan zelf actief het initiatief voor een nieuwe afspraak**: *"Kunnen we in plaats daarvan volgende week zaterdag de tuin doen?"* Zo blijft de ander volledig geïnformeerd en blijft het partnerschap intact!
+:::
+
+---
+
+## Gestructureerde Spontaniteit: De 80/20 Regel
+
+Wanneer we een weekend, vakantie of vrije dag plannen, is de magische formule voor Simba en de Eekhoorn **Gestructureerde Spontaniteit**:
+
+1. **Kies Eén of Twee Ankers (De 20%):**  
+   Leg het hoofdelement vast (de treintijd, de museumtickets voor Monet's tuinen, of de dinerreservering). Dit vervult Kirsten's behoefte aan structuur en zekerheid.
+2. **Laat de Rest Volledig Open (De 80%):**  
+   Houd uren vrij om door straatjes te slenteren, lokale bakkers te ontdekken, op de bank te luieren, of spontane nieuwsgierigheid te volgen. Dit laadt Chris's batterij op.
+3. **Bouw Royale Buffers In:**  
+   Voeg altijd 15 tot 20 minuten marge toe voor vertrek. Dat geeft Simba tijd om zijn sleutels en portemonnee te vinden zonder Kirsten's interne klok op tilt te jagen.
+
+---
+
+## Als Plannen Anders Lopen: De Gratie-Clausule
+
+Zelfs met de beste voorbereiding gooit het leven soms roet in het eten: file, zoekgeraakte pasjes, vertraagde treinen, of plotselinge vermoeidheid.
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+PLANNEN DIENEN ONS; WIJ DIENEN DE PLANNEN NIET
+:::
+
+Wanneer er een onverwachte vertraging optreedt:
+
+* **Wat Ons Vastzet:**  
+  Paniek, een felle toon, gehaast rennen, of elkaar verwijten maken over wie de vertraging veroorzaakte.
+* **Wat Ons Verbonden Houdt:**  
+  Pauzeren, samen diep ademhalen, en beseffen:  
+  *"We gaan naar deze afspraak om samen te genieten. Vijf minuten later aankomen in een vrolijke stemming is duizend keer beter dan stipt op tijd aankomen terwijl we woedend op elkaar zijn."*
+:::
+
+---
+
+## Onze Gezamenlijke Planningsbeloftes
+
+::: {.form-box}
+::: {.comic-caption}
+HET WEDERZIJDSE PLANNINGSVERDRAG
+:::
+
+* **Wat Chris Belooft:**  
+  * Ik check actief onze gedeelde agenda en laat de planningslast niet op Kirsten's schouders rusten.
+  * Ik label mijn ideeën duidelijk: *"Even hardop denken, pin me hier nog niet op vast."*
+  * Als een vertrektijd vastligt, zet ik 20 minuten van tevoren een wekker zodat het vertrek rustig verloopt.
+  * Als een gemaakte afspraak niet door kan gaan, kom ik proactief vooraf met een nieuw voorstel.
+  * Geen "ja zeggen, nee doen": als ik iets niet kan of wil, zeg ik dat eerlijk in plaats van vals in te stemmen.
+
+* **Wat Kirsten Belooft:**  
+  * Ik vraag zachtjes: *"Is dit vastgelegd of denk je hardop?"* voor ik aanneem dat een plan definitief is.
+  * Ik bouw ademruimte in schema's zodat we niet van de ene verplichting naar de volgende hoeven te sprinten.
+  * Bij vertraging kies ik voor vertragen, zachtheid en teamwork boven paniek en urgentie.
+:::

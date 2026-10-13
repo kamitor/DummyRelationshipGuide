@@ -1,141 +1,162 @@
-# Communication Protocols
+# Communicatieprotocollen
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-PACKET INSPECTION & SIGNAL INTEGRITY
+COMMUNICATIESIGNALEN & ECHT LUISTEREN
 :::
 
 ::: {.speech-bubble}
-*"To my ENFJ partner: Communicating with Chris (the Lion) is an adventure through rich analogies, deep systems maps, and immense heart. Here is your cheat sheet to make him feel completely safe to speak his mind."*
+*"Aan Kirsten: Praten met iemand die in analogieën en systemen denkt kan een heel avontuur zijn. Hier is een handleiding voor hoe mijn signalen werken, en hoe we gesprekken veilig, open en verbindend houden."*
 :::
 :::
 
 ---
 
-## The Cardinal Rule: "Active Listening & Never Ignore Expressed Needs"
+## Principe Eén: Actief Luisteren & Uitgesproken Behoeften Nooit Negeren
 
-If there is one non-negotiable principle in Chris's relationship handbook, it is this:
+Als er één kernprincipe is in hoe ik verbinding ervaar, dan is het dit:
 
 ::: {.comic-panel}
 ::: {.comic-caption-red}
-CORE DIRECTIVE: TRUE LISTENING
+KERNWAARDE: ECHT LUISTEREN
 :::
 
-> **"Love is not an abstract concept; it is taking the time to figure out what your partner actually needs and how they need it."**
+> **"Liefde is geen abstract begrip. Het is de tijd nemen om te leren wat je partner écht nodig heeft en hoe diegene dat nodig heeft."**
 
-* **The Reality:**  
-  Because Chris is empathetic and accommodating, he can sometimes find it difficult to lay out all his needs in the heat of the moment. But when he *does* tell you what he needs, **do not ignore him or brush it aside**.
-
-* **What Causes Deep Pain:**  
-  Telling everyone else how you want things while ignoring what Chris asks for; professing care while dismissing his explicit requests; or minimizing his feelings as "unimportant."
-
-* **What Builds Fierce Loyalty:**  
-  Remembering what he told you, asking follow-up questions, and following through: *"I remembered you said you needed quiet after that call, so I took care of dinner."*
+* **De Realiteit:**  
+  Omdat ik me makkelijk aanpas, spreek ik niet altijd al mijn behoeften direct uit. Maar wanneer ik wél deel wat ik nodig heb, doet het diep pijn als dat terloops wordt weggewuifd of vergeten.
+* **Wat Pijn Doet:**  
+  Uitgesproken behoeften afdoen als onbelangrijk, of zorg beloven terwijl duidelijke verzoeken worden genegeerd.
+* **Wat Rotsvaste Loyaliteit Bouwt:**  
+  Onthouden wat er is gedeeld, erop terugkomen, en door daden laten zien dat die woorden telden: *"Je zei vanmiddag dat je behoefte had aan een rustige avond, dus ik heb het eten alvast geregeld."*
 :::
 
 ---
 
-## Principle Two: Zero Fabricated Certainty
+## Principe Twee: Wederzijdse Nederigheid & "Gedrag Is Niet Persoonlijkheid"
 
-From Chris's cognitive architecture: **A strict zero-tolerance policy for fabricated certainty.**
+Als er iets is dat onze gesprekken transformeert van een gespannen patstelling naar een liefdevol partnerschap, dan is het **wederzijdse nederigheid en het scheiden van gedrag en identiteit**.
+
+::: {.comic-panel}
+::: {.comic-caption-red}
+DE RECHTSZAAL VS. HET PARTNERSCHAP
+:::
+
+### Wat Er Gebeurt Als We Defensief Worden:
+* **De Ervaren Rechtszaal:** Meningsverschillen kunnen snel voelen als een rechtszitting waarin Chris zich beklaagde voelt en Kirsten het gevoel heeft tegen een stenen muur te praten.
+* **De Misinterpretatie:** Chris hoort gedragsverzoeken vaak als: *"Ik doe altijd alles goed, en jij doet altijd alles fout."* Dat activeert een heftig afwijzingsalarm, waardoor hij dichtklapt.
+* **Kirsten's Oprechte Bedoeling:** Kirsten verwoordt het kraakhelder:  
+  > *"Als ik benoem hoe ik graag wil dat je dingen anders doet, dan doe ik dat in de hoop dat we daaraan kunnen werken en dat we uiteindelijk beter met elkaar omgaan. Ik doe dat niet om te zeggen dat ik zelf alles goed doe... **Gedrag is niet persoonlijkheid.** Als ik dingen anders wil zien, is het niet dat jij als persoon niet goed genoeg bent."*
+
+### Wat Veiligheid & Wederzijdse Verbinding Brengt:
+* **Nederigheid aan Beide Kanten:** Een simpele, eerlijke zin werkt als een wonder: *"Ik liet mijn stress de overhand nemen,"* of *"Ik oordeelde misschien te snel,"* of *"Ik zat ernaast."*
+* **Focus op de Actie, Niet de Persoon:** Als Kirsten vraagt om borden ín de vaatwasser te zetten in plaats van erbovenop, herinnert Chris zich dat zij van hem houdt en vraagt om een fijne gezamenlijke gewoonte, niet om een oordeel over zijn waarde als mens.
+* **Chris Brengt Concrete Plannen In:** Kirsten nodigt Chris actief uit om ook zíjn wensen uit te spreken: *"Benoem concreet wat jij anders wil zien, het liefst met een concreet plan erbij!"*
+:::
 
 ::: {.comic-grid}
 ::: {.comic-panel}
 ::: {.comic-caption}
-WHAT ATTRACTS CHRIS 🌟
+WAT VERTROUWEN BOUWT 🌟
 :::
-### Intellectual Honesty & Humility
-* Saying *"I actually don't know, what do you think?"*
-* Admitting mistakes openly without defensive spin.
-* Exploring ideas together with curiosity rather than posturing.
+### Intellectuele & Emotionele Nederigheid
+* Zeggen: *"Ik weet het eigenlijk niet, wat denk jij?"*
+* Een scherpe reactie of fout ruiterlijk toegeven zonder defensieve draai.
+* De **Double Interact** toepassen: in eigen woorden herhalen wat de ander zei om te checken of je elkaar begrijpt.
+* Context geven bij een 'nee', zodat je partner snapt waar het vandaan komt.
 :::
 
 ::: {.comic-panel}
 ::: {.comic-caption}
-WHAT REPELLS CHRIS 🚫
+WAT AFSTAND SCHEPT 🚫
 :::
-### Pretension & Manipulation
-* Speaking with false confidence to win an argument.
-* Pretending to know something when you don't.
-* Passive-aggressive hints instead of clear, direct words.
+### Defensiviteit & Starheid
+* Feedback op een gewoonte ervaren alsof je als mens tekortschiet.
+* Altijd gelijk moeten hebben of nooit zeggen: *"Ik zat fout."*
+* Een botte, onverklaarde "nee" geven zonder context of alternatief.
+* Zwijgend weglopen zonder aan te geven wanneer je terugkomt.
 :::
 :::
 
 ---
 
-## The Chris Cipher: Translation Table
+## De Vertaalgids: Wat Ik Zeg vs. Wat Ik Bedoel
 
-| What Chris Transmits | Literal Surface | Underlying Operational Reality |
+| Wat Ik Zeg | Oppervlakte | Wat Er Werkelijk Gebeurt |
 |:---|:---|:---|
-| *"I'm fine."* | Everything is fine. | ⚠️ **ALERT:** Something is 20-40% misaligned. Inquire gently with warmth: *"Are you sure? I'm right here if you want to unpack it."* |
-| *"Let's understand the underlying mechanism."* | Detached academic discussion. | Chris wants to deconstruct what caused the friction so you both avoid it in the future. |
-| *"I feel like I'm not explaining this well."* | Self-doubt. | ⚠️ **SENSITIVITY ALERT:** He feels unheard or misunderstood. Pause, make eye contact, and say: *"Take your time. I genuinely care and want to hear this."* |
-| *Long passionate paragraph with diagrams.* | Wall of text. | **DEEP LOVE PACKET:** Chris considers you worthy of his raw creative genius. Read with delight! |
+| *"Het gaat wel."* | Alles is prima. | ⚠️ **Check zachtjes in:** Er wringt iets. Een warme vraag helpt: *"Weet je het zeker? Ik ben hier als je erover wilt praten."* |
+| *"Laten we begrijpen hoe dit ontstond."* | Analytische discussie. | Ik wil zien wat de trigger was, zodat we het in de toekomst samen kunnen voorkomen. |
+| *"Ik leg het geloof ik niet goed uit."* | Zelftwijfel. | ⚠️ **Gevoeligheidssignaal:** Ik voel me onbegrepen. Even pauzeren en aankijken helpt: *"Neem je tijd, ik luister naar je."* |
+| *Lange gepassioneerde alinea met schema's.* | Lap tekst. | **Veel genegenheid:** Ik ben enthousiast over een idee en deel het met mijn favoriete persoon. |
+| *"Ik ga het regelen."* | Taak genoteerd. | ⚠️ **Werkgeheugen-alert:** Oprechte intentie, maar nog geen tijdslot. Probeer: *"Zullen we het op het bord zetten zodat we het niet vergeten?"* |
+| *"Laat eigenlijk maar zitten."* | Van gedachten veranderd. | ⚠️ **Terugtreksignaal:** Ik haak af omdat uitleggen te veel emotionele energie kost. Kom er later rustig op terug. |
+| *Totale stilte & ontwijken van vragen.* | Koude afstandelijkheid. | ⚠️ **BESCHERMENDE BEVRIEZING:** Ik zie hoe gestrest en boos je bent, en ben doodsbang dat praten het erger maakt. Een zachte aanraking en *"Ik hou van je, en ik weet dat ik scherp kan klinken"* ontgrendelt mijn stem. |
+| *"Dat is interessant..."* *(stilte)* | Vrijblijvend. | **Diepe verwerking:** Ik denk het hele concept door. Geef me 30 seconden; er vormt zich een doordacht antwoord. |
+| *"Je hebt gelijk"* *(vlakke toon)* | Overeenstemming. | ⚠️ **Uitputting:** Mogelijk een nooduitgang uit het conflict. Vraag later zachtjes: *"Voelde dat daarnet eigenlijk wel eerlijk voor jou?"* |
 
 ---
 
-## Managing the "Turbulent (-T)" Heart & RSD
+## Afwijzingsgevoeligheid (RSD) & Zachte Feedback
 
-As an ENFP-T with ADHD, Chris experiences **Rejection Sensitive Dysphoria (RSD)**—an intense emotional response to perceived criticism, failure, or abandonment.
+Met ADHD en een gevoelig karakter kan waargenomen kritiek of een felle toon **Rejection Sensitive Dysphoria (RSD)** triggeren: een intense emotionele reactie waarbij een kleine opmerking voelt als totale afwijzing.
 
 ::: {.callout-important}
-## 📌 How to Deliver Sensitive Feedback Safely
-1. **Anchor the bond first:** *"I love you and I love being with you. There's just one small thing I want us to adjust."*
-2. **Be specific and behavioral:** Never attack his character or competence (*"You never listen"*). Point to the specific isolated behavior (*"Could we make sure the door gets locked tonight?"*).
-3. **Remember Drew's Wisdom:**  
-   > *"You hyperfocus on the negative, but you have pleased and loved far more people than you have disappointed. It is okay to make mistakes."*
-4. **Reaffirm post-discussion:** A warm hug and a smile confirm the connection is 100% solid.
+## 📌 Hoe Je Gevoelige Feedback Veilig Deelt
+1. **Eerst geruststellen:** *"Ik hou van je en ik ben blij met ons. Er is alleen één klein dingetje dat ik graag samen wil bespreken."*
+2. **Wees specifiek en richt je op de actie:** Vermijd veralgemenisaties (*"Jij luistert ook nooit"*). Wijs op het concrete moment (*"Zullen we zorgen dat de voordeur vanavond op slot gaat?"*).
+3. **De "J"-reflex verzachten:** Kirsten's oordelende kracht is groot. Als feedback klinkt als een evaluatie, blokkeren de woorden. Vragen met warmte en nieuwsgierigheid opent het gesprek.
+4. **Houd perspectief:** Herinner me eraan dat een alledaagse misser niet betekent dat ik faal als partner.
+5. **Herbevestig na afloop:** Een warme knuffel, even aaien over het hoofd en een glimlach bevestigen dat alles tussen ons goed en veilig is.
 :::
 
 ---
 
-## The Modes: Venting vs. Debugging
+## Luisteren vs. Oplossen
 
-Because Chris is a natural Systems Builder, his immediate reflex when presented with a problem is to diagnose root causes and propose architectural fixes.
+Omdat ik automatisch in systemen denk, is mijn eerste reflex bij een probleem om oorzaken te diagnosticeren en oplossingen aan te dragen.
 
 ::: {.comic-grid}
 ::: {.comic-panel-blue}
 ::: {.comic-caption-cyan}
-MODE A: HOLDING SPACE (VENTING)
+MODUS A: LUISTEREN & AANWEZIG ZIJN
 :::
-### Pure Empathy & Presence
-* **Objective:** Emotional holding, shared indignation, validation.
-* **Effective Phrase:** *"That is so unfair. You worked so hard. Come here, let me hold you."*
+### Pure Empathie & Troost
+* **Doel:** Emotionele steun, validatie en troost.
+* **Fijne reactie:** *"Wat ontzettend frustrerend voor je. Je hebt hier zo hard aan gewerkt. Kom eens hier, even een knuffel."*
 :::
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-MODE B: ACTIVE DEBUGGING
+MODUS B: ACTIEF PROBLEEMOPLOSSEN
 :::
-### Tactical Problem-Solving
-* **Objective:** Pragmatic decomposition, action plans, contingencies.
-* **Effective Phrase:** *"Let's map out the variables and find the cleanest next step."*
+### Samen Brainstormen
+* **Doel:** Praktische analyse, vervolgstappen, opties verkennen.
+* **Fijne reactie:** *"Laten we de puzzelstukjes bekijken en samen een heldere volgende stap bedenken."*
 :::
 :::
 
 ::: {.callout-tip}
-## 💡 The Universal Golden Question
-Before diving in, ask:  
-**"Do you want me to hold space and listen, or do you want me to help debug the system?"**
+## 💡 De Magische Vraag
+Vraag even voor je erin duikt:  
+**"Wil je dat ik gewoon luister en je een knuffel geef, of wil je samen naar oplossingen zoeken?"**
 :::
 
 ---
 
-## Communication Preferences & Love Languages
+## Communicatievoorkeuren & Verbinding
 
 ::: {.form-box}
 ::: {.comic-caption}
-COMMUNICATION WORKSHEET
+COMMUNICATIEVOORKEUREN
 :::
 
-* **Primary Love Languages:**  
-  * Words of Affirmation: *Verbal appreciation, encouragement, reminding him he is valued*
-  * Quality Time: *Uninterrupted presence, shared laughter, exploring new ideas*
-  * Physical Touch: *Grounded hugs, cuddles, holding hands*
-  * Acts of Service: *Remembering his preferences, helping lighten the cognitive load*
-  * Receiving Gifts: *Thoughtful, meaningful tokens that show you know him*
-
-* **When Chris is Quiet for a Few Hours:**  
-  * Most likely: Hyperfocusing on a project or recharging mental battery.  
-  * Recommended Action: Send a sweet, low-pressure ping (*"No need to reply now, just sending love!"*).
+* **Manieren om Liefde te Tonen:**  
+  * Woorden van Waardering: Verbale complimenten, aanmoediging, lieve briefjes
+  * Kwaliteitstijd: Ongedeelde aandacht, samen lachen, nieuwe ideeën verkennen
+  * Fysieke Aanraking: Stevige knuffels, lekker lepeltje-lepeltje op de bank, elkaars hand vasthouden
+  * Daden van Dienstbaarheid: Elkaars voorkeuren onthouden, taken uit handen nemen
+  * Attente Verrassingen: Kleine traktaties die laten zien dat je aan de ander dacht
+* **Wanneer Chris een Paar Uur Stil Is:**  
+  * Meestal: Helemaal opgeslokt door een project of bezig de mentale batterij op te laden.  
+  * Beste actie: Stuur een lief, drukloos berichtje (*"Je hoeft niet direct te reageren, stuur je gewoon even wat liefde!"*).
 :::

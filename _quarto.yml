@@ -1,11 +1,22 @@
 project:
   type: book
   output-dir: _book
+  resources:
+    - "relatietherapie-chris.pdf"
+    - "relatietherapie-kirsten.pdf"
+    - "relatietherapie-dossier-chris-en-kirsten.pdf"
+    - "relatietherapie-dossier.pdf"
+    - "relatie-handboek.pdf"
+    - "dossier-partner-1.pdf"
+    - "dossier-partner-2.pdf"
+  post-render: scripts/post-render.sh
+
+lang: nl
 
 book:
-  title: "Dummy Guide to Having a Relationship with Chris"
-  subtitle: "The Illustrated Survival Handbook (A Field Guide for His ENFJ Partner)"
-  author: "Chris"
+  title: "Relatie Voor Dummies: Chris & Kirsten Editie"
+  subtitle: "Het Geïllustreerde Overlevingshandboek (Handleiding voor Chris & Handleiding voor Kirsten)"
+  author: "Chris & Kirsten"
   date: today
   cover-image: assets/cover.png
   page-navigation: true
@@ -16,15 +27,27 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - intro.qmd
-    - enfj-dynamic.qmd
-    - habitat.qmd
-    - communication.qmd
-    - conflict.qmd
-    - intimacy.qmd
-    - easter-eggs.qmd
-    - intake-form.qmd
-    - summary.qmd
+    - part: "Deel I: Handleiding voor Chris (Veldgids voor Kirsten)"
+      chapters:
+        - intro.qmd
+        - enfj-dynamic.qmd
+        - habitat.qmd
+        - communication.qmd
+        - planning.qmd
+        - conflict.qmd
+        - intimacy.qmd
+        - play.qmd
+        - easter-eggs.qmd
+    - part: "Deel II: Kirsten's Versie: Handleiding voor Kirsten (Veldgids voor Chris)"
+      chapters:
+        - kirsten-intro.qmd
+        - kirsten-communication.qmd
+        - kirsten-conflict.qmd
+        - kirsten-summary.qmd
+    - part: "Deel III: Kalibratie & Langetermijnzorg"
+      chapters:
+        - intake-form.qmd
+        - summary.qmd
 
 format:
   html:

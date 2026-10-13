@@ -1,69 +1,115 @@
-# Warranty & Maintenance Schedule
+# Zorg- & Onderhoudsschema
 
 ::: {.comic-panel-yellow}
 ::: {.comic-caption}
-FIELD SUPPORT & LONG-TERM SYSTEM CARE
+ONDERSTEUNING: LANGETERMIJNZORG & VERBINDING
 :::
 
 ::: {.speech-bubble}
-*"To my ENFJ partner: Relationships do not run on autopilot. Like a classic vintage automobile or an intricate distributed system, your Lion requires periodic tune-ups and scheduled preventative maintenance."*
+*"Aan Kirsten & Chris: Een relatie draait niet op de automatische piloot. Zoals een bijzondere klassieke auto of een gekoesterde plant heeft een relatie regelmatig onderhoud, afstemming en liefdevolle aandacht nodig."*
 :::
 :::
 
 ---
 
-## Preventative Maintenance Calendar
+## Relatieritme & Check-in Intervallen
 
-To prevent unexpected system crashes, adhere to the recommended service intervals:
+Om alles soepel te laten verlopen, zijn dit onze aanbevolen ritmes:
 
-| Interval | Inspection & Procedure | Sign of Compliance |
+| Frequentie | Check-in & Ritueel | Teken van Gezondheid |
 |:---|:---|:---|
-| **Daily** | Morning caffeine handoff + evening decompression debrief + warm hug. | Calm breathing; relaxed smile; zero buffered stress. |
-| **Weekly** | Dedicated date night or quality 1-on-1 activity with zero work/chores talk. | High laughter count; renewed spark; playful banter. |
-| **Monthly** | State-of-the-Union check-in: *"How are we doing? Anything we need to tweak or improve?"* | Open dialogue; mutual reassurance; zero lingering grievances. |
-| **Annual** | Unplugged vacation / getaway reboot in fresh coordinates. | Full memory wipe of daily work fatigue; exciting new memories. |
+| **Dagelijks** | Ochtendkoffie of thee, avond-ontlading en een warme knuffel van 15 seconden. | Rustige ademhaling, oprechte glimlach, ontspannen verbinding. |
+| **Wekelijks** | Vaste date-avond of 1-op-1 activiteit zonder praat over werk of klussen. | Veel lachen, speelse plagerijtjes, hernieuwde vonk. |
+| **Maandelijks** | Stand-van-Zaken gesprek: *"Hoe gaat het met ons? Moeten we iets bijstellen?"* | Open dialoog, wederzijdse geruststelling, nul opgekropte spanning. |
+| **Jaarlijks** | Een weekendje weg of vakantie zonder schermen naar een nieuwe plek. | Samen resetten, de dagelijkse sleur achterlaten, nieuwe herinneringen maken. |
 
 ---
 
-## Official Warranty & Limitations of Liability
+## Speelse Relatie-Disclaimers
 
 ::: {.comic-panel}
 ::: {.comic-caption-red}
-LEGAL FINE PRINT & DISCLAIMERS
+DE KLEINE LETTERTJES VAN DE LEEUW & DE EEKHOORN
 :::
 
-1. **"As-Is" Condition:** The specimen designated **Chris "Lion" Kamitor** (Model: ENFP-T Campaigner & Systems Architect) is provided *"as-is"*, with all inherent quirks, visionary enthusiasm, and occasional hyperfixation loops.
-2. **No Returns / Non-Refundable:** Once accepted into your life, returns are strictly prohibited. Exchange for generic or boring models is completely void.
-3. **Firmware Evolution:** Chris reserves the right to develop spontaneous new hobbies, redesign code architectures, or buy obscure camping equipment.
-4. **Lifelong Support:** Continuous love, open communication, shared snacks, and laughter will keep this specimen operating at peak performance for decades.
+1. **Compleet Pakket:** Chris komt met al zijn eigenaardigheden, enthousiasme en wisselende hobby's; Kirsten komt met haar meesterplannen en scherpe vooruitziende blik.
+2. **Niet Retourneerbaar:** Geen inruil mogelijk voor saaie standaardmodellen.
+3. **Continue Evolutie:** We behouden beiden het recht om nieuwe interesses te ontwikkelen, de keuken te herontdekken, of onverwachte passies te volgen.
+4. **Levenslange Zorg:** Voortdurende liefde, open communicatie, lekkere snacks en een hoop humor houden ons partnerschap decennia lang vitaal.
 :::
 
 ---
 
-## Emergency Protocol Card
-
-Print or screenshot this card for emergency situations:
+## Groene Vlaggen: Wanneer Alles Heerlijk Stroomt
 
 ::: {.comic-panel-blue}
 ::: {.comic-caption-cyan}
-IN CASE OF CRITICAL EMERGENCY
+GROENE VLAGGEN: WE ZITTEN OP ÉÉN LIJN
 :::
 
-* **Step 1:** Confirm biological baseline (Water, Food, Sleep).
-* **Step 2:** Administer tight hug for at least 15 seconds.
-* **Step 3:** Reassure verbally: *"I love you, I'm with you, and we'll figure this out together."*
-* **Step 4:** Put on soothing music or funny sitcom episode.
-* **Emergency Hotline:** Call / Text Chris at: <span class="fill-blank-line" style="min-width:250px;"></span>
+* Chris maakt flauwe grappen en woordspelingen; er wordt veel gelachen.
+* Spontane spraakberichtjes, memes of *"hier moest ik aan denken toen ik dit zag"* appjes overdag.
+* Vanzelfsprekende fysieke nabijheid: een hand pakken, zachtjes door het haar woelen, of een onverwachte knuffel.
+* Hij praat vol enthousiasme over een project zonder defensieve muren.
+* 's Ochtends wakker worden met een uitgerust, ontspannen en veilig gevoel samen.
+* Een klein meningsverschil rustig uitpraten in 10 minuten zonder dat er wrok blijft hangen.
 :::
 
 ---
 
-## Final Words of Encouragement
+## De Maandelijkse Check-in: Een Eenvoudige Gids
 
-::: {.thought-bubble}
-*"At the end of the day, having a relationship with Chris (our Lion 🦁) is about sharing the ride, laughing at the absurdities of life, and building something wonderful together—one comic panel at a time."*
+Probeer dit eens per maand onder het genot van koffie, thee, wijn of tijdens een rustige wandeling:
+
+::: {.comic-panel}
+::: {.comic-caption}
+MAANDELIJKSE CHECK-IN GIDS
 :::
 
-<div style="text-align: center; margin: 2.5rem 0;">
-  <a href="Dummy-Guide-to-Having-a-Relationship-with-Chris.pdf" class="btn-comic-download">📥 Download &amp; Print Full Guide (PDF)</a>
+**Opening:**  
+*"Geen druk, geen beschuldigingen, gewoon even zachtjes inchecken: Hoe voel je je echt?"*
+
+**Vijf Vragen om Elkaar te Stellen:**
+
+1. *"Wat was je favoriete moment tussen ons de afgelopen maand?"*
+2. *"Is er iets geweest dat stak of onopgelost voelde waar we de lucht over moeten klaren?"*
+3. *"Is er iets wat je van mij nodig had waar je aarzelde om het te vragen?"*
+4. *"Wat is één ding dat ik de komende maand kan doen waardoor jij je extra geliefd voelt?"*
+5. *"Wat voor leuks of avontuurlijks willen we binnenkort samen gaan doen?"*
+
+**Afsluiting:**  
+Sluit af met een fysieke reset, zoals een lange knuffel of een lekkere traktatie, om elkaar te herinneren: *"We zijn op hetzelfde team, en we doen het fantastisch."*
+:::
+
+---
+
+## Nood-Troostkaart
+
+Houd dit bij de hand voor zware, overprikkelde dagen:
+
+::: {.comic-panel-blue}
+::: {.comic-caption-cyan}
+IN GEVAL VAN OVERWELDIGING
+:::
+
+* **Stap 1:** Controleer biologische basisbehoeften: water, eten en slaap.
+* **Stap 2:** Geef een stevige, aardende knuffel van minstens 15 seconden.
+* **Stap 3:** Stel verbaal gerust: *"Ik hou van je, ik ben hier, en we gaan dit samen uitvogelen."*
+* **Stap 4:** Zet rustige muziek op, maak een warme drank, of start een troostende serie.
+* **Nood-Bereikbaarheid:** Bel of app Chris op: <span class="fill-blank-line" style="min-width:250px;"></span>
+:::
+
+---
+
+## Slotwoord
+
+::: {.thought-bubble}
+*"Een relatie met elkaar hebben gaat over samen genieten van de reis, lachen om de absurditeiten van het leven, en bouwen aan iets geweldigs — paneel voor paneel."*
+:::
+
+<div style="text-align: center; margin: 2.5rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;">
+  <a href="relatietherapie-dossier-chris-en-kirsten.pdf" class="btn-comic-download btn-comic-green">📑 Dossier Relatietherapeut (4-Pager)</a>
+  <a href="relatietherapie-chris.pdf" class="btn-comic-download btn-comic-yellow">🦁 Chris Hand-out (2-Pager)</a>
+  <a href="relatietherapie-kirsten.pdf" class="btn-comic-download btn-comic-cyan">🐿️ Kirsten Hand-out (2-Pager)</a>
+  <a href="Relatie-Voor-Dummies--Chris---Kirsten-Editie.pdf" class="btn-comic-download">📥 Volledige Gids (PDF Boek)</a>
 </div>
