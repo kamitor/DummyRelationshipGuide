@@ -47,4 +47,7 @@ cp _book/relatietherapie-chris.pdf ./dossier-partner-1.pdf
 cp _book/relatietherapie-kirsten.pdf _book/dossier-partner-2.pdf
 cp _book/relatietherapie-kirsten.pdf ./dossier-partner-2.pdf
 
+# 5. Voorkom Jekyll processing op GitHub Pages
+touch _book/.nojekyll
+
 echo "=== Post-Render Voltooid! ==="
